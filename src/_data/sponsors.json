@@ -1,0 +1,58 @@
+[
+  {
+    "name": "White Mountain Café &amp; Bookstore",
+    "link": "http://www.whitemountaincafe.com",
+    "logo_file": "whitemtncafelogoPMScolors032410-300x251.jpg",
+    "logo_width": "300",
+    "logo_height": "251"
+  },
+  {
+    "name": "Libby’s Bistro and SAalt Pub",
+    "link": "http://www.libbysbistro.org",
+    "logo_file": "saaltpublogo-300x61.png",
+    "logo_width": "300",
+    "logo_height": "61"
+  },
+  {
+    "name": "HubNorth",
+    "link": "http://hubnorthnh.com/",
+    "logo_file": "hubnorth-logo.png",
+    "logo_width": "2048",
+    "logo_height": "585"
+  },
+  {
+    "name": "Run the Alps",
+    "link": "http://www.runthealps.com",
+    "logo_file": "rta_full_color-copy.png",
+    "logo_width": "207",
+    "logo_height": "96"
+  },
+  {
+    "name": "Coös Timberframe",
+    "link": "ttps://www.facebook.com/Coos-Timberframe-116386395686535/",
+    "logo_file": "coos-timberframe.jpg",
+    "logo_width": "400",
+    "logo_height": "334"
+  },
+  {
+    "name": "The Endurance Drive",
+    "link": "http://www.theendurancedrive.com",
+    "logo_file": "the-endurance-drive.jpg",
+    "logo_width": "400",
+    "logo_height": "100"
+  },
+  {
+    "name": "Borealchick Designs",
+    "link": "ttps://www.facebook.com/BorealchickDesigns",
+    "logo_file": "boreal-chick.png",
+    "logo_width": "1048",
+    "logo_height": "200"
+  },
+  {
+    "name": "Mount Adams Challenge",
+    "link": "http://www.mountadamschallenge.org",
+    "logo_file": "mac-logo-300x290.jpg",
+    "logo_width": "300",
+    "logo_height": "290"
+  }
+]
