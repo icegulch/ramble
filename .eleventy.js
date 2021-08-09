@@ -1,11 +1,16 @@
-// To inspect
 const inspect = require("util").inspect;
-
-// To minify HTML
+require("dotenv").config();
 const htmlmin = require("html-minifier");
+const CleanCSS = require("clean-css");
 
 
 module.exports = function (eleventyConfig) {
+
+  const MarkdownIt = require("markdown-it");
+  const mdRender = new MarkdownIt();
+  eleventyConfig.addFilter("renderUsingMarkdown", function(rawString) {
+    return mdRender.render(rawString);
+  });
 
   // Watch for sass file changes
   eleventyConfig.addWatchTarget("./src/sass/");
@@ -14,8 +19,13 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("./src/robots.txt");
   eleventyConfig.addPassthroughCopy("./src/_redirects");
   eleventyConfig.addPassthroughCopy("./src/images");
-  eleventyConfig.addPassthroughCopy("./src/css");
-  eleventyConfig.addPassthroughCopy({"./src/fonts" : "css/fonts/"});
+  eleventyConfig.addPassthroughCopy('./src/admin/**');
+  eleventyConfig.addPassthroughCopy('./src/admin/config.yml');
+  eleventyConfig.addPassthroughCopy('./src/admin/index.html');
+  eleventyConfig.addPassthroughCopy('./src/admin/confirmation.html');
+  eleventyConfig.addPassthroughCopy('./src/admin/email-change.html');
+  eleventyConfig.addPassthroughCopy('./src/admin/invitation.html');
+  eleventyConfig.addPassthroughCopy('./src/admin/recovery.html');
 
   // Allow for inspection
   eleventyConfig.addFilter("debug", (content) => `${inspect(content)}`);
@@ -25,6 +35,11 @@ module.exports = function (eleventyConfig) {
     return collection.getFilteredByTag("pages").sort((a, b) => {
       return a.data.order - b.data.order;
     });
+  });
+
+  // Minify CSS
+  eleventyConfig.addFilter("cssmin", function(code) {
+    return new CleanCSS({}).minify(code).styles;
   });
 
   // Minify HTML Output
@@ -43,13 +58,9 @@ module.exports = function (eleventyConfig) {
 
   return {
     addPassthroughCopy: true,
-    templateFormats: ["njk", "html"],
-    // If your site lives in a different subdirectory, change this.
-    // Leading or trailing slashes are all normalized away, so don’t worry about it.
-    // If you don’t have a subdirectory, use "" or "/" (they do the same thing)
-    // This is only used for URLs (it does not affect your file structure)
-    pathPrefix: "/",
+    templateFormats: ["njk", "md"],
     htmlTemplateEngine: "njk",
+    markdownTemplateEngine: "njk",
     dir: {
       input: "src",
       output: "public",

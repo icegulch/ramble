@@ -1,0 +1,7 @@
+---
+permalink: /css/styles.css
+---
+{% set css %}
+  {% include "css/styles.css" %}
+{% endset %}
+{{ css | cssmin | safe }}

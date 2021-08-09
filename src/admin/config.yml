@@ -1,0 +1,231 @@
+backend:
+  name: git-gateway
+  branch: main
+local_backend: false
+media_folder: "/src/images/"
+public_folder: "/images/"
+site_url: "https://randolphramble.com/"
+display_url: "https://randolphramble.com"
+collections:
+
+  - name: pages
+    label: Pages
+    label_singular: Page
+    description: "Where you can update the various bits of copy around the site."
+    files:
+      - name: home
+        label: Homepage
+        delete: false
+        file: src/pages/about.md
+        slug: '{{slug}}'
+        preview_path: /
+        fields:
+          - label: Layout
+            name: layout
+            widget: hidden
+            default: templates/about.njk
+          - label: Title
+            name: title
+            widget: hidden
+            default: About
+          - label: Permalink
+            name: permalink
+            widget: hidden
+            default: /
+          - label: Body
+            name: body
+            widget: markdown
+            buttons: ['bold', 'italic', 'link', 'heading-three', 'heading-four', 'heading-five', 'heading-six', 'quote', 'bulleted-list', 'numbered-list']
+            editor_components: ['image']
+
+      - name: route
+        label: Route
+        delete: false
+        file: src/pages/route.md
+        slug: '{{slug}}'
+        preview_path: /route/
+        fields:
+          - label: Layout
+            name: layout
+            widget: hidden
+            default: templates/route.njk
+          - label: Title
+            name: title
+            widget: hidden
+            default: Route
+          - label: Permalink
+            name: permalink
+            widget: hidden
+            default: /route/
+          - label: Body
+            name: body
+            widget: markdown
+            buttons: ['bold', 'italic', 'link', 'heading-three', 'heading-four', 'heading-five', 'heading-six', 'quote', 'bulleted-list', 'numbered-list']
+            editor_components: ['image']
+            minimal: true
+          - label: Segments
+            label_singular: Segment
+            name: segments
+            widget: list
+            allow_add: true
+            collapsed: true
+            add_to_top: true
+            summary: '{{fields.name}}'
+            preview_path: /route/
+            fields:
+              - label: Segment Name
+                name: name
+                widget: string
+                hint: "Trail name"
+                required: true
+              - label: Segment Stats
+                name: stats
+                widget: list
+                hint: "Segment stats shorthand: Distance, Grade, Elevation Change."
+                required: true
+              - label: Segment Description
+                name: body
+                widget: markdown
+                minimal: true
+                buttons: ['bold', 'italic', 'link']
+                editor_components: []
+                modes: [rich_text]
+                required: true
+                hint: Short description of the segment.
+
+      - name: results
+        label: Results
+        delete: false
+        file: src/pages/results.md
+        slug: '{{slug}}'
+        preview_path: /results/
+        fields:
+          - label: Layout
+            name: layout
+            widget: hidden
+            default: templates/results.njk
+          - label: Title
+            name: title
+            widget: hidden
+            default: Results
+          - label: Permalink
+            name: permalink
+            widget: hidden
+            default: /results/
+          - label: Body
+            name: body
+            widget: markdown
+            buttons: ['bold', 'italic', 'link', 'heading-three', 'heading-four', 'heading-five', 'heading-six', 'quote', 'bulleted-list', 'numbered-list']
+            editor_components: ['image']
+            minimal: true
+
+      - name: contact
+        label: Contact
+        delete: false
+        file: src/pages/contact.md
+        slug: '{{slug}}'
+        preview_path: /contact/
+        fields:
+          - label: Layout
+            name: layout
+            widget: hidden
+            default: templates/contact.njk
+          - label: Title
+            name: title
+            widget: hidden
+            default: Contact
+          - label: Permalink
+            name: permalink
+            widget: hidden
+            default: /contact/
+          - label: Body
+            name: body
+            widget: markdown
+            buttons: ['bold', 'italic', 'link', 'heading-three', 'heading-four', 'heading-five', 'heading-six', 'quote', 'bulleted-list', 'numbered-list']
+            editor_components: ['image']
+            minimal: true
+
+      - name: thank-you
+        label: Thank You
+        delete: false
+        file: src/pages/thank-you.md
+        slug: '{{slug}}'
+        preview_path: /contact/thank-you/
+        fields:
+          - label: Layout
+            name: layout
+            widget: hidden
+            default: templates/thank-you.njk
+          - label: Title
+            name: title
+            widget: hidden
+            default: Thank You
+          - label: Permalink
+            name: permalink
+            widget: hidden
+            default: /contact/thank-you/
+          - label: Body
+            name: body
+            widget: markdown
+            buttons: ['bold', 'italic', 'link', 'heading-three', 'heading-four', 'heading-five', 'heading-six', 'quote', 'bulleted-list', 'numbered-list']
+            editor_components: ['image']
+            minimal: true
+
+      - name: error-404
+        label: Error (404)
+        delete: false
+        file: src/pages/404.md
+        slug: '{{slug}}'
+        preview_path: /404.html
+        fields:
+          - label: Layout
+            name: layout
+            widget: hidden
+            default: templates/404.njk
+          - label: Title
+            name: title
+            widget: hidden
+            default: Contact
+          - label: Permalink
+            name: permalink
+            widget: hidden
+            default: /404.html
+          - label: Body
+            name: body
+            widget: markdown
+            buttons: ['bold', 'italic', 'link', 'heading-three', 'heading-four', 'heading-five', 'heading-six', 'quote', 'bulleted-list', 'numbered-list']
+            editor_components: ['image']
+            minimal: true
+
+  - name: "site_info"
+    label: "Site Info"
+    description: "Sitewide info goes here."
+    files:
+      - label: "Meta"
+        name: "meta"
+        delete: false
+        editor:
+          preview: false
+        file: "src/_data/site_meta.json"
+        fields:
+          - label: Site Title
+            name: title
+            widget: string
+            hint: 'Text that appears in search results, when shared on social media, etc.'
+          - label: Site Description
+            name: description
+            widget: text
+            hint: >-
+              Text that appears below title in search results and sometimes on social
+              media. Google truncates around 160 characters.
+            pattern:
+              - '.{1,160}'
+              - Should be 160 characters or less.
+          - label: Site Url
+            name: url
+            widget: string
+          - label: Social Share Image
+            name: og_img
+            widget: image
+            allow_multiple: false
+

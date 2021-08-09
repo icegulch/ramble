@@ -4,14 +4,10 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "watch:sass": "sass  --no-source-map --watch src/sass:public/css",
-    "watch:eleventy": "eleventy --serve",
-    "build:sass-site": "sass  --no-source-map src/sass/styles.scss public/css/styles.css",
-    "build:sass": "npm-run-all --parallel build:sass-site",
-    "build:eleventy": "eleventy",
-    "postbuild": "postcss public/css/*.css -u autoprefixer cssnano -r",
-    "start": "cross-env ELEVENTY_ENV=dev npm-run-all build:sass --parallel watch:*",
-    "build": "cross-env ELEVENTY_ENV=prod npm-run-all build:sass build:eleventy"
+    "build": "ELEVENTY_ENV=production npx @11ty/eleventy",
+    "watch": "eleventy --watch",
+    "start": "ELEVENTY_ENV=development npx @11ty/eleventy --serve",
+    "debug": "DEBUG=* eleventy"
   },
   "keywords": [],
   "author": "",
@@ -20,7 +16,6 @@
     "@11ty/eleventy": "^0.12.1",
     "autoprefixer": "^10.2.5",
     "cross-env": "^7.0.3",
-    "cssnano": "^5.0.2",
     "dotenv": "^9.0.0",
     "html-minifier": "^4.0.0",
     "luxon": "^1.26.0",

@@ -5,6 +5,5 @@ order: 13
 eleventyExcludeFromCollections: true
 ---
 
-<p>
-  Thanks for your interest in the event! We'll reply to your query ASAP.
-</p>
+Thanks for your interest in the event! We'll reply to your inquiry ASAP.
+
