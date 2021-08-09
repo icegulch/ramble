@@ -63,6 +63,32 @@ collections:
             buttons: ['bold', 'italic', 'link', 'heading-three', 'heading-four', 'heading-five', 'heading-six', 'quote', 'bulleted-list', 'numbered-list']
             editor_components: ['image']
             minimal: true
+
+      - name: sponsors
+        label: Sponsors
+        delete: false
+        file: src/pages/sponsors.md
+        slug: '{{slug}}'
+        preview_path: /sponsors/
+        fields:
+          - label: Title
+            name: title
+            widget: hidden
+            default: Sponsors
+          - label: Permalink
+            name: permalink
+            widget: hidden
+            default: /sponsors/
+          - label: Order
+            name: order
+            widget: hidden
+            default: 4
+          - label: Body
+            name: body
+            widget: markdown
+            buttons: ['bold', 'italic', 'link', 'heading-three', 'heading-four', 'heading-five', 'heading-six', 'quote', 'bulleted-list', 'numbered-list']
+            editor_components: ['image']
+            minimal: true
           - label: Sponsors
             label_singular: Sponsor
             name: sponsors
@@ -94,32 +120,6 @@ collections:
                 name: logo_height
                 widget: number
                 hint: "Sponsor logo's height if you know it"
-
-      # - name: results
-      #   label: Results
-      #   delete: false
-      #   file: src/pages/results.md
-      #   slug: '{{slug}}'
-      #   preview_path: /results/
-      #   fields:
-      #     - label: Layout
-      #       name: layout
-      #       widget: hidden
-      #       default: templates/results.njk
-      #     - label: Title
-      #       name: title
-      #       widget: hidden
-      #       default: Results
-      #     - label: Permalink
-      #       name: permalink
-      #       widget: hidden
-      #       default: /results/
-      #     - label: Body
-      #       name: body
-      #       widget: markdown
-      #       buttons: ['bold', 'italic', 'link', 'heading-three', 'heading-four', 'heading-five', 'heading-six', 'quote', 'bulleted-list', 'numbered-list']
-      #       editor_components: ['image']
-      #       minimal: true
 
       # - name: contact
       #   label: Contact
