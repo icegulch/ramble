@@ -64,6 +64,58 @@ collections:
             editor_components: ['image']
             minimal: true
 
+      - name: important-info
+        label: Important Info
+        delete: false
+        file: src/pages/important-info.md
+        slug: '{{slug}}'
+        preview_path: /important-info/
+        fields:
+          - label: Title
+            name: title
+            widget: hidden
+            default: Important Info
+          - label: Permalink
+            name: permalink
+            widget: hidden
+            default: /important-info/
+          - label: Order
+            name: order
+            widget: hidden
+            default: 2
+          - label: Body
+            name: body
+            widget: markdown
+            buttons: ['bold', 'italic', 'link', 'heading-three', 'heading-four', 'heading-five', 'heading-six', 'quote', 'bulleted-list', 'numbered-list']
+            editor_components: ['image']
+            minimal: true
+
+      - name: registration-schedule
+        label: Registration and Schedule
+        delete: false
+        file: src/pages/registration-schedule.md
+        slug: '{{slug}}'
+        preview_path: /registration-schedule/
+        fields:
+          - label: Title
+            name: title
+            widget: hidden
+            default: Registration and Schedule
+          - label: Permalink
+            name: permalink
+            widget: hidden
+            default: /registration-schedule/
+          - label: Order
+            name: order
+            widget: hidden
+            default: 3
+          - label: Body
+            name: body
+            widget: markdown
+            buttons: ['bold', 'italic', 'link', 'heading-three', 'heading-four', 'heading-five', 'heading-six', 'quote', 'bulleted-list', 'numbered-list']
+            editor_components: ['image']
+            minimal: true
+
       - name: sponsors
         label: Sponsors
         delete: false
@@ -121,31 +173,7 @@ collections:
                 widget: number
                 hint: "Sponsor logo's height if you know it"
 
-      # - name: contact
-      #   label: Contact
-      #   delete: false
-      #   file: src/pages/contact.md
-      #   slug: '{{slug}}'
-      #   preview_path: /contact/
-      #   fields:
-      #     - label: Layout
-      #       name: layout
-      #       widget: hidden
-      #       default: templates/contact.njk
-      #     - label: Title
-      #       name: title
-      #       widget: hidden
-      #       default: Contact
-      #     - label: Permalink
-      #       name: permalink
-      #       widget: hidden
-      #       default: /contact/
-      #     - label: Body
-      #       name: body
-      #       widget: markdown
-      #       buttons: ['bold', 'italic', 'link', 'heading-three', 'heading-four', 'heading-five', 'heading-six', 'quote', 'bulleted-list', 'numbered-list']
-      #       editor_components: ['image']
-      #       minimal: true
+
 
       - name: thank-you
         label: Thank You
@@ -249,7 +277,7 @@ collections:
           - label: Is Open?
             name: is_open
             widget: boolean
-            hint: 'Right (blue) = true. Left (gray) = false. If set to "false", registration buttons throughout the site will be hidden'
+            hint: 'If set to "false" (toggled left - gray), registration buttons throughout the site will be hidden. If set to "true" (toggled right - blue), registration buttons will appear and link field below will be used.'
           - label: Registration Link
             name: link
             widget: string
