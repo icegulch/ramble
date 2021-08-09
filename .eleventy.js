@@ -2,6 +2,7 @@ const inspect = require("util").inspect;
 require("dotenv").config();
 const htmlmin = require("html-minifier");
 const CleanCSS = require("clean-css");
+const slugify = require("slugify");
 
 
 module.exports = function (eleventyConfig) {
@@ -18,6 +19,7 @@ module.exports = function (eleventyConfig) {
   // Let some files pass through to public
   eleventyConfig.addPassthroughCopy("./src/robots.txt");
   eleventyConfig.addPassthroughCopy("./src/_redirects");
+  eleventyConfig.addPassthroughCopy("./src/favicon.ico");
   eleventyConfig.addPassthroughCopy("./src/images");
   eleventyConfig.addPassthroughCopy('./src/admin/**');
   eleventyConfig.addPassthroughCopy('./src/admin/config.yml');
@@ -29,6 +31,15 @@ module.exports = function (eleventyConfig) {
 
   // Allow for inspection
   eleventyConfig.addFilter("debug", (content) => `${inspect(content)}`);
+
+  // Slugify
+  eleventyConfig.addFilter("slugify", function (str) {
+    return slugify(str, {
+      lower: true,
+      replacement: "-",
+      remove: /[*+~.·,()'"`´%!?¿:@]/g
+    });
+  });
 
   // Helper to sort pages collection by frontmatter "order"
   eleventyConfig.addCollection("orderedPages", function (collection) {

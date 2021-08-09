@@ -7,7 +7,7 @@
     <div class="row mt-4">
       <div class="col-sm-8">
         {{ content | safe }}
-        {% if site.registration_open === true %}
+        {% if registration.is_open === true %}
           {% include "partials/registration_button.njk" %}
         {% endif %}
       </div>
@@ -29,7 +29,7 @@
         {% for sponsor in sponsors %}
           <figure class="col-6 col-md-4 col-lg-3">
             <a href="{{ sponsor.link }}" class="sponsor-label" target="_blank">
-              <img src="/images/{{ sponsor.logo_file }}" width="{{ sponsor.logo_width }}" height="{{ sponsor.logo_height }}" alt="{{ sponsor.name }} logo" class="img-fluid mr-4">
+              <img src="{{ sponsor.logo_file }}" width="{{ sponsor.logo_width }}" height="{{ sponsor.logo_height }}" alt="{{ sponsor.name }} logo" class="img-fluid mr-4">
             </a>
           </figure>
         {% endfor %}
@@ -41,7 +41,7 @@
 
     {% if page.url === '/' or page.url === '/course/' %}
 
-      {% if site.registration_open === true %}
+      {% if registration.is_open === true %}
         {% include "partials/registration_button.njk" %}
       {% endif %}
 

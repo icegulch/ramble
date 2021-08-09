@@ -2,11 +2,6 @@
 title: Home
 permalink: /
 order: 0
-homepage_images:
-  - url: 
-    alt: 
-  - url: 
-    alt: 
 ---
 
 [![Colorful drawing of the Randolph mountains](/images/header-image-news.png)](https://www.facebook.com/randolphramblerace/)
