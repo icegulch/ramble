@@ -241,7 +241,7 @@ collections:
           - label: Is Open?
             name: is_open
             widget: boolean
-            hint: 'If set to "false", registration buttons throughout the site will be hidden'
+            hint: 'Right (blue) = true. Left (gray) = false. If set to "false", registration buttons throughout the site will be hidden'
           - label: Registration Link
             name: link
             widget: string
