@@ -170,7 +170,7 @@ collections:
             name: eleventyExcludeFromCollections
             widget: hidden
             default: true
-            - label: Body
+          - label: Body
             name: body
             widget: markdown
             buttons: ['bold', 'italic', 'link', 'heading-three', 'heading-four', 'heading-five', 'heading-six', 'quote', 'bulleted-list', 'numbered-list']
