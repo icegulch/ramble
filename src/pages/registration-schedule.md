@@ -8,8 +8,6 @@ order: 3
 
 The registration fee is just $35\. The week prior to the race, it is $40\. The fee includes morning treats from the [White Mountain Café](http://whitemountaincafe.com/).
 
-{# include "partials/registration_button.njk" #}
-
 Proceeds will be donated to the [Randolph Mountain Club](http://www.randolphmountainclub.org).
 
 There will be the following categories:
