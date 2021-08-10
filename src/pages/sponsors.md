@@ -3,7 +3,7 @@ title: Sponsors
 permalink: /sponsors/
 order: 4
 sponsors: 
-  - name: "White Mountain Café &amp; Bookstore"
+  - name: "White Mountain Café & Bookstore"
     logo_file: "/images/whitemtncafelogoPMScolors032410-300x251.jpg"
     logo_width: 300
     logo_height: 251

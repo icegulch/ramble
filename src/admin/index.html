@@ -28,9 +28,9 @@
             h('div', {"className": "site-main"},
               this.props.widgetFor('body'),
               h('div', {"className": "sponsors"},
-                this.props.widgetsFor('sponsors').map(function(segment, index) {
+                this.props.widgetsFor('sponsors').map(function(sponsor, index) {
                   return h('a', {key: index},
-                    h('img', {}, segment.getIn(['data', 'logo_file'])),
+                    h('img', {}, sponsor.getIn(['data', 'logo_file'])),
                   );
                 }),
               ),
