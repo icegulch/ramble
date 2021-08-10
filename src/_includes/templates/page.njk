@@ -58,6 +58,10 @@
 
       <img src="{{ course_map }}" alt="Course map" class="mt-5">
 
+    {% elif page.url === '/contact/' %}
+
+      {% include "partials/contact-form.njk" %}
+
     {% endif %}
 
   {% endif %}

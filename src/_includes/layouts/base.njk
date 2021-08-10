@@ -29,9 +29,9 @@
       {% include "partials/header.njk" %}
       <main class="site-main" role="main">
         {% if page.url != '/' %}
-          <h2>
+          <h1>
             {{ title }}
-          </h2>
+          </h1>
         {% endif %}
         {% block main %}
           {{ content | safe }}

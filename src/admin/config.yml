@@ -173,7 +173,31 @@ collections:
                 widget: number
                 hint: "Sponsor logo's height if you know it"
 
-
+      - name: contact
+        label: Contact
+        delete: false
+        file: src/pages/contact.md
+        slug: '{{slug}}'
+        preview_path: /contact/
+        fields:
+          - label: Title
+            name: title
+            widget: hidden
+            default: Contact
+          - label: Permalink
+            name: permalink
+            widget: hidden
+            default: /contact/
+          - label: Order
+            name: order
+            widget: hidden
+            default: 5
+          - label: Body
+            name: body
+            widget: markdown
+            buttons: ['bold', 'italic', 'link', 'heading-three', 'heading-four', 'heading-five', 'heading-six', 'quote', 'bulleted-list', 'numbered-list']
+            editor_components: ['image']
+            minimal: true
 
       - name: thank-you
         label: Thank You
