@@ -291,10 +291,10 @@ collections:
           preview: false
         file: "src/_data/registration.json"
         fields:
-          - label: Is Open?
+          - label: Registration Is Open?
             name: is_open
             widget: boolean
-            hint: 'If set to "false" (toggled left - gray), registration buttons throughout the site will be hidden. If set to "true" (toggled right - blue), registration buttons will appear and link field below will be used.'
+            hint: 'If set to "false" (toggled left - gray), registration buttons throughout the site will be hidden. If set to "true" (toggled right - blue), registration buttons will appear and link field below will be used as link to registration service.'
           - label: Registration Link
             name: link
             widget: string
