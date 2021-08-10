@@ -28,11 +28,6 @@
     <div class="page-rapper">
       {% include "partials/header.njk" %}
       <main class="site-main" role="main">
-        {% if page.url != '/' %}
-          <h1>
-            {{ title }}
-          </h1>
-        {% endif %}
         {% block main %}
           {{ content | safe }}
         {% endblock %}

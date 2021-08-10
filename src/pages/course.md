@@ -5,6 +5,8 @@ order: 1
 course_map: /images/course-topo-map.png
 ---
 
+# The Course
+
 The Randolph Ramble takes place entirely on the 10,000 acre, sustainably managed [Randolph Community Forest](http://Randolphforest.org). The start and finish is at the new Community Forest trailhead, at the end of Randolph Hill Road, on the Randolph Community Forest.
 
 The course has it all: a steep climb up Mount Crescent, views of the Northern Presidentials, a cruise through the boreal forest, a technical downhill, and a finish on Community Forest woods roads. The total vertical climb is 2,025 feet.

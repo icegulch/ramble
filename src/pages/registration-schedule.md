@@ -5,6 +5,7 @@ hasSidebar: true
 order: 3
 ---
 
+# Registration and Schedule
 
 The registration fee is just $35\. The week prior to the race, it is $40\. The fee includes morning treats from the [White Mountain Café](http://whitemountaincafe.com/).
 
