@@ -152,14 +152,14 @@ collections:
                 widget: string
                 hint: "Sponsor name"
                 required: true
-              - label: Sponsor Logo
-                name: logo_file
-                widget: image
-                allow_multiple: false
               - label: Sponsor Link
                 name: link
                 widget: string
                 hint: "Link to sponsor's website"
+              - label: Sponsor Logo
+                name: logo_file
+                widget: image
+                allow_multiple: false
               - label: Sponsor Logo Width
                 name: logo_width
                 widget: number
