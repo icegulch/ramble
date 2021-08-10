@@ -26,8 +26,8 @@
           var entry = this.props.entry;
           return h('div', {"className": "page-rapper"},
             h('div', {"className": "site-main"}, 
-              h('h1', {}, this.props.widgetFor('title')),
               this.props.widgetFor('body'),
+              h('h1', {}, this.props.widgetFor('title')),
             );
           );
         }
