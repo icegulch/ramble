@@ -12,13 +12,14 @@ collections:
     label: Pages
     label_singular: Page
     description: "Where you can update the various bits of copy around the site."
+    editor:
+      preview: false
     files:
       - name: home
         label: Homepage
         delete: false
         file: src/pages/home.md
         slug: '{{slug}}'
-        preview_path: /
         fields:
           - label: Title
             name: title
@@ -43,7 +44,6 @@ collections:
         delete: false
         file: src/pages/course.md
         slug: '{{slug}}'
-        preview_path: /course/
         fields:
           - label: Title
             name: title
@@ -69,7 +69,6 @@ collections:
         delete: false
         file: src/pages/important-info.md
         slug: '{{slug}}'
-        preview_path: /important-info/
         fields:
           - label: Title
             name: title
@@ -95,7 +94,6 @@ collections:
         delete: false
         file: src/pages/registration-schedule.md
         slug: '{{slug}}'
-        preview_path: /registration-schedule/
         fields:
           - label: Title
             name: title
@@ -121,7 +119,6 @@ collections:
         delete: false
         file: src/pages/sponsors.md
         slug: '{{slug}}'
-        preview_path: /sponsors/
         fields:
           - label: Title
             name: title
@@ -149,7 +146,6 @@ collections:
             collapsed: true
             add_to_top: true
             summary: '{{fields.name}}'
-            preview_path: /sponsors/
             fields:
               - label: Sponsor Name
                 name: name
@@ -178,7 +174,6 @@ collections:
         delete: false
         file: src/pages/contact.md
         slug: '{{slug}}'
-        preview_path: /contact/
         fields:
           - label: Title
             name: title
@@ -204,7 +199,6 @@ collections:
         delete: false
         file: src/pages/thank-you.md
         slug: '{{slug}}'
-        preview_path: /contact/thank-you/
         fields:
           - label: Title
             name: title
@@ -234,7 +228,6 @@ collections:
         delete: false
         file: src/pages/404.md
         slug: '{{slug}}'
-        preview_path: /404.html
         fields:
           - label: Title
             name: title

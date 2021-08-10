@@ -10,39 +10,5 @@
     <script src="https://unpkg.com/netlify-cms@^2.0.0/dist/netlify-cms.js"></script>
     <!-- Include Netlify Identity for authentication -->
     <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
-    <script>
-
-      var PagePreview = createClass({
-        render: function() {
-          var entry = this.props.entry;
-          return h('div', {"className": "page-rapper"},
-            h('div', {"className": "site-main"}, this.props.widgetFor('body'))
-          );
-        }
-      });
-
-      var SponsorsPreview = createClass({
-        render: function() {
-          var entry = this.props.entry;
-          return h('div', {"className": "page-rapper"},
-            h('div', {"className": "site-main"}, 
-              this.props.widgetFor('body'),
-              h('h1', {}, this.props.widgetFor('title')),
-            );
-          );
-        }
-      });
-
-      CMS.registerPreviewStyle("https://randolphramble.com/css/styles.css");
-      CMS.registerPreviewTemplate('home', PagePreview);
-      CMS.registerPreviewTemplate('course', PagePreview);
-      CMS.registerPreviewTemplate('important-info', PagePreview);
-      CMS.registerPreviewTemplate('registration-schedule', PagePreview);
-      CMS.registerPreviewTemplate('sponsors', SponsorsPreview);
-      CMS.registerPreviewTemplate('contact', PagePreview);
-      CMS.registerPreviewTemplate('thank-you', PagePreview);
-      CMS.registerPreviewTemplate('error-404', PagePreview);
-
-    </script>
   </body>
 </html>
