@@ -201,6 +201,14 @@ h6 {
   background-color: #ec7d10;
   color: #fff;
 }
+.sponsors {
+  margin-top: 1.5rem;
+  display: grid;
+	grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 30px;
+  align-items: center;
+}
+
 .sponsor-label {
   font-weight: 600;
 }
