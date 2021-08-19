@@ -10,6 +10,6 @@ Randolph Ramble</span> is a 10 kilometer-long, rugged, self-supported trail race
 
 The race places an emphasis on self-sufficiency in the mountains: there are no aid stations and, due to the time of year, there is a mandatory gear list.
 
-The 2021 edition will take place on <span style="font-size: 30px; color: #993399;">Saturday, October 23, 2021</span>. Registration is here:  [https://ultrasignup.com/​register.aspx?eid=10691](https://ultrasignup.com/register.aspx?eid=10691) 
+The 2021 edition will take place on <span style="font-size: 30px; color: #993399;">Saturday, October 23, 2021</span>.
 
 You can get the latest news from our [Facebook page](https://www.facebook.com/randolphramblerace/).
