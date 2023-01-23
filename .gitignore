@@ -11,5 +11,8 @@ public
 # macOS related files
 .DS_Store
 
+# cache
+.cache
+
 # Local Netlify folder
 .netlify
