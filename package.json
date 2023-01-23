@@ -2,30 +2,27 @@
   "name": "ramble",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": ".eleventy.js",
   "scripts": {
-    "build": "ELEVENTY_ENV=production npx @11ty/eleventy",
-    "watch": "eleventy --watch",
-    "start": "ELEVENTY_ENV=development npx @11ty/eleventy --serve",
-    "debug": "DEBUG=* eleventy"
+    "clean": "npx del public",
+    "watch:eleventy": "npx @11ty/eleventy --serve",
+    "prestart": "npm run clean",
+    "start": "npm-run-all --parallel watch:*",
+    "build": "npx @11ty/eleventy"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@11ty/eleventy": "^0.12.1",
-    "autoprefixer": "^10.2.5",
-    "cross-env": "^7.0.3",
-    "dotenv": "^9.0.0",
+    "@11ty/eleventy": "^2.0.0-beta.1",
+    "@11ty/eleventy-fetch": "^3.0.0",
+    "clean-css": "^5.1.3",
+    "del-cli": "^4.0.0",
+    "dotenv": "^10.0.0",
     "html-minifier": "^4.0.0",
-    "luxon": "^1.26.0",
-    "markdown-it": "^10.0.0",
-    "npm-run-all": "^4.1.5",
-    "postcss": "^8.2.14",
-    "postcss-cli": "^8.3.1",
-    "sass": "^1.32.12"
+    "npm-run-all": "^4.1.5"
   },
-  "browserslist": [
-    "last 2 versions"
-  ]
+  "engines": {
+    "node": "16.x"
+  }
 }
