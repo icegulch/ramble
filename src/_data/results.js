@@ -33,7 +33,7 @@ module.exports = async function () {
       let minutes = dateObj.getUTCMinutes();
       let seconds = dateObj.getSeconds();
 
-      let timeString =
+      let timeString = isNaN(givenTime) ? "DNF" :
           hours.toString().padStart(2, "0") +
           ":" +
           minutes.toString().padStart(2, "0") +

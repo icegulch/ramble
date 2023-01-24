@@ -1,21 +1,53 @@
----
-layout: "layouts/base.njk"
-permalink: "/test/index.html"
+---js
+{
+  layout: "layouts/base.njk",
+  permalink: "/test/index.html",
+  pagination: {
+    data: "results",
+    size: Infinity,
+    alias: "result",
+    reverse: true,
+    before: function (data) {
+
+      const groupBy = (input, key) => {
+        return Object.entries(
+          input.reduce((acc, currentValue) => {
+            let groupKey = currentValue[key];
+            if (!acc[groupKey]) {
+              acc[groupKey] = [];
+            }
+            acc[groupKey].push(currentValue);
+            return acc;
+          }, {})
+        ).map(([year, content]) => ({ year, content }));
+      };
+
+      const obj = groupBy(data, "year");
+
+      return obj;
+
+    }
+  },
+  eleventyComputed: {
+    title: "Results (2015 - {{ result[0].year }})"
+  }
+}
 ---
 
-{% for year, results in results | groupby("year") | dictsort | reverse %}
+
+{% for set in pagination.items %}
   <details{{ ' open' if loop.first }}>
     <summary>
-      {{ year }}
+      {{ set.year }}
     </summary>
-    <table>
+    <table style="font-family:monospace;" cellpadding=2>
       <thead>
-        <th>Pos</th>
-        <th>Name</th>
-        <th>Time</th>
+        <th scope="col">Pos</th>
+        <th scope="col">Name</th>
+        <th scope="col">Time</th>
       </thead>
       <tbody>
-        {% for result in results | sort(attribute="position") %}
+        {% for result in set.content | sort(attribute="position") %}
           <tr>
             <td>
               {{ result.position }}
@@ -24,7 +56,7 @@ permalink: "/test/index.html"
               {{ result.name }}
             </td>
             <td>
-              {{ result.time }}
+              {{ result.time }}{% if result.limmer === true %}<sup>*</sup>{% endif %}
             </td>
           </tr>
         {% endfor %}
