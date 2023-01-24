@@ -45,8 +45,8 @@ module.exports = async function () {
         position: item.fields["Pos"],
         name: item.fields["Name"],
         year: item.fields["Year"],
-        time: timeString,
-        limmer: item.fields["Limmer?"] ? true : false,
+        event_date: item.fields["Event Date"][0],
+        time: timeString
       };
     });
     if (data.offset && data.offset != "") {

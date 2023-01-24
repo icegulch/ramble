@@ -1,45 +1,25 @@
-const inspect = require("util").inspect;
 require("dotenv").config();
 const htmlmin = require("html-minifier");
 const CleanCSS = require("clean-css");
 const slugify = require("slugify");
+const { EleventyRenderPlugin } = require("@11ty/eleventy");
 
+module.exports = function(eleventyConfig) {
 
-module.exports = function (eleventyConfig) {
+  eleventyConfig.addPlugin(EleventyRenderPlugin);
 
   const MarkdownIt = require("markdown-it");
   const mdRender = new MarkdownIt();
-  eleventyConfig.addFilter("renderUsingMarkdown", function(rawString) {
+  eleventyConfig.addFilter("markdownify", function(rawString) {
     return mdRender.render(rawString);
   });
-
-  // Watch for sass file changes
-  eleventyConfig.addWatchTarget("./src/sass/");
 
   // Let some files pass through to public
   eleventyConfig.addPassthroughCopy("./src/robots.txt");
   eleventyConfig.addPassthroughCopy("./src/_redirects");
   eleventyConfig.addPassthroughCopy("./src/favicon.ico");
   eleventyConfig.addPassthroughCopy("./src/images");
-  eleventyConfig.addPassthroughCopy('./src/admin/**');
-  eleventyConfig.addPassthroughCopy('./src/admin/config.yml');
-  eleventyConfig.addPassthroughCopy('./src/admin/index.html');
-  eleventyConfig.addPassthroughCopy('./src/admin/confirmation.html');
-  eleventyConfig.addPassthroughCopy('./src/admin/email-change.html');
-  eleventyConfig.addPassthroughCopy('./src/admin/invitation.html');
-  eleventyConfig.addPassthroughCopy('./src/admin/recovery.html');
 
-  // Allow for inspection
-  eleventyConfig.addFilter("debug", (content) => `${inspect(content)}`);
-
-  // Slugify
-  eleventyConfig.addFilter("slugify", function (str) {
-    return slugify(str, {
-      lower: true,
-      replacement: "-",
-      remove: /[*+~.·,()'"`´%!?¿:@]/g
-    });
-  });
 
   // Helper to sort pages collection by frontmatter "order"
   eleventyConfig.addCollection("orderedPages", function (collection) {
