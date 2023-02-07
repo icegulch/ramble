@@ -242,8 +242,40 @@ table {
   width: 100%;
 }
 
-tr + tr {
-  border-top: 1px solid #fff;
+table + table {
+  margin-top: 3rem;
+}
+
+caption {
+  border-top: 1px solid #cacaca;
+  padding-block: 1.5rem 1rem;
+  caption-side: top;
+  font-size: 0.85rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05rem;
+}
+
+caption span {
+  display: inline-block;
+  margin-right: 0.5rem;
+  font-size: 1.5rem;
+  color: #f18f2e;
+  text-transform: none;
+  letter-spacing: normal;
+}
+
+th, td {
+  padding: 0.25rem;
+  font-family: ui-monospace, 
+             Menlo, Monaco, 
+             "Cascadia Mono", "Segoe UI Mono", 
+             "Roboto Mono", 
+             "Oxygen Mono", 
+             "Ubuntu Monospace", 
+             "Source Code Pro",
+             "Fira Mono", 
+             "Droid Sans Mono", 
+             "Courier New", monospace;
 }
 
 tr:nth-child(odd) > td {

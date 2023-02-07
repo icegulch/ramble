@@ -1,0 +1,3890 @@
+[
+  {
+    "uuid": "recxhfLmQRVxLKjMN",
+    "position": 14,
+    "name": "Caleb Sharp",
+    "year": 2022,
+    "event_date": "2022-10-22T14:00:00.000Z",
+    "time_as_string": "01:16:00",
+    "time_in_seconds": 4560
+  },
+  {
+    "uuid": "recxdTvXuBfx1wzBg",
+    "position": 39,
+    "name": "Abbi Fischer",
+    "year": 2022,
+    "event_date": "2022-10-22T14:00:00.000Z",
+    "time_as_string": "01:40:01",
+    "time_in_seconds": 6001
+  },
+  {
+    "uuid": "recxRKjeaEPsRPysg",
+    "position": 27,
+    "name": "Jeremy Fennell",
+    "year": 2022,
+    "event_date": "2022-10-22T14:00:00.000Z",
+    "time_as_string": "01:27:10",
+    "time_in_seconds": 5230
+  },
+  {
+    "uuid": "recvu9KWcEDWR91b0",
+    "position": 50,
+    "name": "Daniel Duan",
+    "year": 2022,
+    "event_date": "2022-10-22T14:00:00.000Z",
+    "time_as_string": "01:52:24",
+    "time_in_seconds": 6744
+  },
+  {
+    "uuid": "recvtBCNgfo5KCHwM",
+    "position": 66,
+    "name": "Jennifer Chen",
+    "year": 2022,
+    "event_date": "2022-10-22T14:00:00.000Z",
+    "time_as_string": "02:25:00",
+    "time_in_seconds": 8700
+  },
+  {
+    "uuid": "recvHbvyuB8aWzGVh",
+    "position": 53,
+    "name": "Mark Skillin",
+    "year": 2022,
+    "event_date": "2022-10-22T14:00:00.000Z",
+    "time_as_string": "01:53:24",
+    "time_in_seconds": 6804
+  },
+  {
+    "uuid": "recuhza8ZNUEhp6Vc",
+    "position": 11,
+    "name": "Ryan Welts",
+    "year": 2022,
+    "event_date": "2022-10-22T14:00:00.000Z",
+    "time_as_string": "01:14:18",
+    "time_in_seconds": 4458
+  },
+  {
+    "uuid": "recuawm7hDkU4exaB",
+    "position": 68,
+    "name": "Deva Steketee",
+    "year": 2022,
+    "event_date": "2022-10-22T14:00:00.000Z",
+    "time_as_string": "02:40:01",
+    "time_in_seconds": 9601
+  },
+  {
+    "uuid": "recuMmtgtpa0dDOh9",
+    "position": 54,
+    "name": "Ben Levesque",
+    "year": 2022,
+    "event_date": "2022-10-22T14:00:00.000Z",
+    "time_as_string": "01:57:38",
+    "time_in_seconds": 7058
+  },
+  {
+    "uuid": "recsbmP2Sz2cNcuan",
+    "position": 24,
+    "name": "Izzy De Buy Wenniger",
+    "year": 2022,
+    "event_date": "2022-10-22T14:00:00.000Z",
+    "time_as_string": "01:25:42",
+    "time_in_seconds": 5142
+  },
+  {
+    "uuid": "recsB0Z9Ibs4oKQuN",
+    "position": 58,
+    "name": "Colby Obrien",
+    "year": 2022,
+    "event_date": "2022-10-22T14:00:00.000Z",
+    "time_as_string": "02:05:03",
+    "time_in_seconds": 7503
+  },
+  {
+    "uuid": "recpgMbWCLNPDCKMF",
+    "position": 48,
+    "name": "David McDermott",
+    "year": 2022,
+    "event_date": "2022-10-22T14:00:00.000Z",
+    "time_as_string": "01:48:11",
+    "time_in_seconds": 6491
+  },
+  {
+    "uuid": "reclwvv0wu7o8Ejfo",
+    "position": 3,
+    "name": "Matt Moschella",
+    "year": 2022,
+    "event_date": "2022-10-22T14:00:00.000Z",
+    "time_as_string": "01:06:52",
+    "time_in_seconds": 4012
+  },
+  {
+    "uuid": "reclGIwy8GS9pRfaF",
+    "position": 41,
+    "name": "Jim Siewierski",
+    "year": 2022,
+    "event_date": "2022-10-22T14:00:00.000Z",
+    "time_as_string": "01:42:20",
+    "time_in_seconds": 6140
+  },
+  {
+    "uuid": "reck8V7QCtoIn4p4a",
+    "position": 47,
+    "name": "Andrea Leonard",
+    "year": 2022,
+    "event_date": "2022-10-22T14:00:00.000Z",
+    "time_as_string": "01:47:59",
+    "time_in_seconds": 6479
+  },
+  {
+    "uuid": "reciIn0XLkGXzL5ZR",
+    "position": 17,
+    "name": "Ari Ofsevit",
+    "year": 2022,
+    "event_date": "2022-10-22T14:00:00.000Z",
+    "time_as_string": "01:18:30",
+    "time_in_seconds": 4710
+  },
+  {
+    "uuid": "reci0tONya7FbkMcw",
+    "position": 45,
+    "name": "Spencer Reith",
+    "year": 2022,
+    "event_date": "2022-10-22T14:00:00.000Z",
+    "time_as_string": "01:45:20",
+    "time_in_seconds": 6320
+  },
+  {
+    "uuid": "rechVSkFHRvG138Hs",
+    "position": 65,
+    "name": "Karen Gross",
+    "year": 2022,
+    "event_date": "2022-10-22T14:00:00.000Z",
+    "time_as_string": "02:24:31",
+    "time_in_seconds": 8671
+  },
+  {
+    "uuid": "recdWrNkXeFLpWJxF",
+    "position": 37,
+    "name": "William Murphy",
+    "year": 2022,
+    "event_date": "2022-10-22T14:00:00.000Z",
+    "time_as_string": "01:37:44",
+    "time_in_seconds": 5864
+  },
+  {
+    "uuid": "recdVBUpmwzvCd3BG",
+    "position": 26,
+    "name": "Jay Murphy",
+    "year": 2022,
+    "event_date": "2022-10-22T14:00:00.000Z",
+    "time_as_string": "01:26:57",
+    "time_in_seconds": 5217
+  },
+  {
+    "uuid": "recdTl9jCiyNkvg1r",
+    "position": 61,
+    "name": "Rebecca Dean",
+    "year": 2022,
+    "event_date": "2022-10-22T14:00:00.000Z",
+    "time_as_string": "02:09:09",
+    "time_in_seconds": 7749
+  },
+  {
+    "uuid": "reccGyPKZz1FR1lYQ",
+    "position": 34,
+    "name": "Theresa Fennell",
+    "year": 2022,
+    "event_date": "2022-10-22T14:00:00.000Z",
+    "time_as_string": "01:33:06",
+    "time_in_seconds": 5586
+  },
+  {
+    "uuid": "recbezlr0f5S3aOu5",
+    "position": 9,
+    "name": "Marc Almanzan",
+    "year": 2022,
+    "event_date": "2022-10-22T14:00:00.000Z",
+    "time_as_string": "01:12:58",
+    "time_in_seconds": 4378
+  },
+  {
+    "uuid": "recaEoYglvhtBMdBm",
+    "position": 8,
+    "name": "Lincoln Benedict",
+    "year": 2022,
+    "event_date": "2022-10-22T14:00:00.000Z",
+    "time_as_string": "01:12:43",
+    "time_in_seconds": 4363
+  },
+  {
+    "uuid": "recZwQET1YCyc59m9",
+    "position": 6,
+    "name": "Hannah Wittmann",
+    "year": 2022,
+    "event_date": "2022-10-22T14:00:00.000Z",
+    "time_as_string": "01:10:56",
+    "time_in_seconds": 4256
+  },
+  {
+    "uuid": "recZsmevf1BDfHgHR",
+    "position": 36,
+    "name": "Alexander Getraer",
+    "year": 2022,
+    "event_date": "2022-10-22T14:00:00.000Z",
+    "time_as_string": "01:35:02",
+    "time_in_seconds": 5702
+  },
+  {
+    "uuid": "recZrQ10Dr1E91bN6",
+    "position": 38,
+    "name": "Wolfgang Weber",
+    "year": 2022,
+    "event_date": "2022-10-22T14:00:00.000Z",
+    "time_as_string": "01:38:47",
+    "time_in_seconds": 5927
+  },
+  {
+    "uuid": "recZlpVS0ju60DBGl",
+    "position": 35,
+    "name": "Matt Desch",
+    "year": 2022,
+    "event_date": "2022-10-22T14:00:00.000Z",
+    "time_as_string": "01:34:04",
+    "time_in_seconds": 5644
+  },
+  {
+    "uuid": "recZkiAZOyuQc8Nlw",
+    "position": 69,
+    "name": "Greg Wyman",
+    "year": 2022,
+    "event_date": "2022-10-22T14:00:00.000Z",
+    "time_as_string": "02:40:01",
+    "time_in_seconds": 9601
+  },
+  {
+    "uuid": "recZcnuJDs2DuB4Ps",
+    "position": 62,
+    "name": "Pat Ferland",
+    "year": 2022,
+    "event_date": "2022-10-22T14:00:00.000Z",
+    "time_as_string": "02:14:30",
+    "time_in_seconds": 8070
+  },
+  {
+    "uuid": "recYecwkYHrWxA9Zn",
+    "position": 55,
+    "name": "Chelsea Jackson",
+    "year": 2022,
+    "event_date": "2022-10-22T14:00:00.000Z",
+    "time_as_string": "01:58:21",
+    "time_in_seconds": 7101
+  },
+  {
+    "uuid": "recXtdhgLAgVzvnNt",
+    "position": 40,
+    "name": "Darrel Lasell",
+    "year": 2022,
+    "event_date": "2022-10-22T14:00:00.000Z",
+    "time_as_string": "07:41:13",
+    "time_in_seconds": 27673
+  },
+  {
+    "uuid": "recWI89rPO6MbiLdB",
+    "position": 25,
+    "name": "Zachariah Smart",
+    "year": 2022,
+    "event_date": "2022-10-22T14:00:00.000Z",
+    "time_as_string": "01:26:24",
+    "time_in_seconds": 5184
+  },
+  {
+    "uuid": "recW26oxAUTQw5cnA",
+    "position": 22,
+    "name": "Brian Moore",
+    "year": 2022,
+    "event_date": "2022-10-22T14:00:00.000Z",
+    "time_as_string": "01:23:06",
+    "time_in_seconds": 4986
+  },
+  {
+    "uuid": "recVOFGi6be7HJuJp",
+    "position": 44,
+    "name": "Abigail Shepherd",
+    "year": 2022,
+    "event_date": "2022-10-22T14:00:00.000Z",
+    "time_as_string": "01:45:10",
+    "time_in_seconds": 6310
+  },
+  {
+    "uuid": "recVIKKR6uvSzBJh0",
+    "position": 10,
+    "name": "Matthew Goff",
+    "year": 2022,
+    "event_date": "2022-10-22T14:00:00.000Z",
+    "time_as_string": "01:13:30",
+    "time_in_seconds": 4410
+  },
+  {
+    "uuid": "recUS4nRRjthV1etm",
+    "position": 4,
+    "name": "Hunter Cote",
+    "year": 2022,
+    "event_date": "2022-10-22T14:00:00.000Z",
+    "time_as_string": "01:06:53",
+    "time_in_seconds": 4013
+  },
+  {
+    "uuid": "recTkpZVzFMrBF7xB",
+    "position": 67,
+    "name": "Christina Rambo",
+    "year": 2022,
+    "event_date": "2022-10-22T14:00:00.000Z",
+    "time_as_string": "02:27:24",
+    "time_in_seconds": 8844
+  },
+  {
+    "uuid": "recScz0nvy4PQooro",
+    "position": 60,
+    "name": "Elena Glassman",
+    "year": 2022,
+    "event_date": "2022-10-22T14:00:00.000Z",
+    "time_as_string": "02:08:59",
+    "time_in_seconds": 7739
+  },
+  {
+    "uuid": "recRVZ1YtCh7GUQVh",
+    "position": 12,
+    "name": "Leslie O&#39;Dell",
+    "year": 2022,
+    "event_date": "2022-10-22T14:00:00.000Z",
+    "time_as_string": "01:14:26",
+    "time_in_seconds": 4466
+  },
+  {
+    "uuid": "recNxSofydeQnO9Ds",
+    "position": 30,
+    "name": "Benjy Getraer",
+    "year": 2022,
+    "event_date": "2022-10-22T14:00:00.000Z",
+    "time_as_string": "01:30:56",
+    "time_in_seconds": 5456
+  },
+  {
+    "uuid": "recNZc3FQSCBEEaXb",
+    "position": 46,
+    "name": "Audrey Herrald",
+    "year": 2022,
+    "event_date": "2022-10-22T14:00:00.000Z",
+    "time_as_string": "01:45:43",
+    "time_in_seconds": 6343
+  },
+  {
+    "uuid": "recNMI2HfkGPphMyB",
+    "position": 64,
+    "name": "Paul Jadis",
+    "year": 2022,
+    "event_date": "2022-10-22T14:00:00.000Z",
+    "time_as_string": "02:17:24",
+    "time_in_seconds": 8244
+  },
+  {
+    "uuid": "recNJA44Yyh17pAcy",
+    "position": 56,
+    "name": "Katharine Snook",
+    "year": 2022,
+    "event_date": "2022-10-22T14:00:00.000Z",
+    "time_as_string": "02:01:40",
+    "time_in_seconds": 7300
+  },
+  {
+    "uuid": "recN8BFXGj8NmK5XV",
+    "position": 42,
+    "name": "Jacqueline Fucile",
+    "year": 2022,
+    "event_date": "2022-10-22T14:00:00.000Z",
+    "time_as_string": "01:44:38",
+    "time_in_seconds": 6278
+  },
+  {
+    "uuid": "recM1LWwT9BxhBaFy",
+    "position": 70,
+    "name": "Mary Lou White",
+    "year": 2022,
+    "event_date": "2022-10-22T14:00:00.000Z",
+    "time_as_string": "02:45:01",
+    "time_in_seconds": 9901
+  },
+  {
+    "uuid": "recLQ4EFK3EXoNHtR",
+    "position": 23,
+    "name": "Samuel Alkire",
+    "year": 2022,
+    "event_date": "2022-10-22T14:00:00.000Z",
+    "time_as_string": "01:23:45",
+    "time_in_seconds": 5025
+  },
+  {
+    "uuid": "recKZYAzRECr88JGl",
+    "position": 63,
+    "name": "Jackie Firsty",
+    "year": 2022,
+    "event_date": "2022-10-22T14:00:00.000Z",
+    "time_as_string": "02:16:52",
+    "time_in_seconds": 8212
+  },
+  {
+    "uuid": "recKU2R13Wb4qer7Q",
+    "position": 50,
+    "name": "Nathan Hjort",
+    "year": 2022,
+    "event_date": "2022-10-22T14:00:00.000Z",
+    "time_as_string": "09:21:22",
+    "time_in_seconds": 33682
+  },
+  {
+    "uuid": "recJAbtbMg3gnrfmm",
+    "position": 59,
+    "name": "Patrick Hummel",
+    "year": 2022,
+    "event_date": "2022-10-22T14:00:00.000Z",
+    "time_as_string": "02:05:58",
+    "time_in_seconds": 7558
+  },
+  {
+    "uuid": "recGAHXoNUnz9GhDH",
+    "position": 19,
+    "name": "Andrew Macleod",
+    "year": 2022,
+    "event_date": "2022-10-22T14:00:00.000Z",
+    "time_as_string": "01:19:58",
+    "time_in_seconds": 4798
+  },
+  {
+    "uuid": "recEwZnqDan7OoDZz",
+    "position": 43,
+    "name": "Nicholas Fucile",
+    "year": 2022,
+    "event_date": "2022-10-22T14:00:00.000Z",
+    "time_as_string": "01:44:39",
+    "time_in_seconds": 6279
+  },
+  {
+    "uuid": "recDPzQl8A1VlV9Mx",
+    "position": 52,
+    "name": "Jon Gilson",
+    "year": 2022,
+    "event_date": "2022-10-22T14:00:00.000Z",
+    "time_as_string": "01:53:17",
+    "time_in_seconds": 6797
+  },
+  {
+    "uuid": "recAKY5Z9B5WPhD5b",
+    "position": 16,
+    "name": "Marcelo Maiorano",
+    "year": 2022,
+    "event_date": "2022-10-22T14:00:00.000Z",
+    "time_as_string": "01:18:30",
+    "time_in_seconds": 4710
+  },
+  {
+    "uuid": "recA55Qim1ISmwd0N",
+    "position": 31,
+    "name": "Kathy Bowie",
+    "year": 2022,
+    "event_date": "2022-10-22T14:00:00.000Z",
+    "time_as_string": "01:32:00",
+    "time_in_seconds": 5520
+  },
+  {
+    "uuid": "rec8Ma9x0PnyFpLYu",
+    "position": 1,
+    "name": "Ben Judson",
+    "year": 2022,
+    "event_date": "2022-10-22T14:00:00.000Z",
+    "time_as_string": "01:03:17",
+    "time_in_seconds": 3797
+  },
+  {
+    "uuid": "rec7iELKQk45f7qyN",
+    "position": 28,
+    "name": "Michael Reid",
+    "year": 2022,
+    "event_date": "2022-10-22T14:00:00.000Z",
+    "time_as_string": "01:30:27",
+    "time_in_seconds": 5427
+  },
+  {
+    "uuid": "rec7Gya3ZyFdqGUWs",
+    "position": 57,
+    "name": "Steven Snook",
+    "year": 2022,
+    "event_date": "2022-10-22T14:00:00.000Z",
+    "time_as_string": "02:01:40",
+    "time_in_seconds": 7300
+  },
+  {
+    "uuid": "rec72W0J7xrO1TgzP",
+    "position": 28,
+    "name": "Robin Sandell",
+    "year": 2022,
+    "event_date": "2022-10-22T14:00:00.000Z",
+    "time_as_string": "01:27:21",
+    "time_in_seconds": 5241
+  },
+  {
+    "uuid": "rec5tbOEz4aJYkdtz",
+    "position": 2,
+    "name": "Andrew Drummond",
+    "year": 2022,
+    "event_date": "2022-10-22T14:00:00.000Z",
+    "time_as_string": "01:03:44",
+    "time_in_seconds": 3824
+  },
+  {
+    "uuid": "rec5lOexeY9OqZSsw",
+    "position": 21,
+    "name": "Lianna Altieri",
+    "year": 2022,
+    "event_date": "2022-10-22T14:00:00.000Z",
+    "time_as_string": "04:21:28",
+    "time_in_seconds": 15688
+  },
+  {
+    "uuid": "rec5NNK0YwXQXydSb",
+    "position": 5,
+    "name": "Jessica Marion",
+    "year": 2022,
+    "event_date": "2022-10-22T14:00:00.000Z",
+    "time_as_string": "01:07:55",
+    "time_in_seconds": 4075
+  },
+  {
+    "uuid": "rec5LqsGDcAQShyEW",
+    "position": 20,
+    "name": "Jack Roney",
+    "year": 2022,
+    "event_date": "2022-10-22T14:00:00.000Z",
+    "time_as_string": "01:20:23",
+    "time_in_seconds": 4823
+  },
+  {
+    "uuid": "rec4djtXYJnpQYYGO",
+    "position": 32,
+    "name": "Adam Frey",
+    "year": 2022,
+    "event_date": "2022-10-22T14:00:00.000Z",
+    "time_as_string": "01:32:40",
+    "time_in_seconds": 5560
+  },
+  {
+    "uuid": "rec4K1pPg3u0vta1W",
+    "position": 15,
+    "name": "Jim Graham",
+    "year": 2022,
+    "event_date": "2022-10-22T14:00:00.000Z",
+    "time_as_string": "01:17:47",
+    "time_in_seconds": 4667
+  },
+  {
+    "uuid": "rec4ItIgzmTzRNbU7",
+    "position": 33,
+    "name": "Michael Robertson",
+    "year": 2022,
+    "event_date": "2022-10-22T14:00:00.000Z",
+    "time_as_string": "01:33:03",
+    "time_in_seconds": 5583
+  },
+  {
+    "uuid": "rec3ieEW0riHOyrZc",
+    "position": 13,
+    "name": "Aaron Monier",
+    "year": 2022,
+    "event_date": "2022-10-22T14:00:00.000Z",
+    "time_as_string": "01:15:50",
+    "time_in_seconds": 4550
+  },
+  {
+    "uuid": "rec2nLWe8cc7S0FUC",
+    "position": 7,
+    "name": "Jeff Walker",
+    "year": 2022,
+    "event_date": "2022-10-22T14:00:00.000Z",
+    "time_as_string": "02:41:18",
+    "time_in_seconds": 9678
+  },
+  {
+    "uuid": "rec1Abxo6tIoGx9Tj",
+    "position": 18,
+    "name": "Derek Pickell",
+    "year": 2022,
+    "event_date": "2022-10-22T14:00:00.000Z",
+    "time_as_string": "01:19:22",
+    "time_in_seconds": 4762
+  },
+  {
+    "uuid": "rec0kF63prFN4W6fq",
+    "position": 49,
+    "name": "Phil Doughty",
+    "year": 2022,
+    "event_date": "2022-10-22T14:00:00.000Z",
+    "time_as_string": "01:50:18",
+    "time_in_seconds": 6618
+  },
+  {
+    "uuid": "reczsyAmBO4lDejhL",
+    "position": 22,
+    "name": "Nicholas Fucile",
+    "year": 2021,
+    "event_date": "2021-10-23T14:00:00.000Z",
+    "time_as_string": "01:26:51",
+    "time_in_seconds": 5211
+  },
+  {
+    "uuid": "recyE4tG3Fai3E6ot",
+    "position": 34,
+    "name": "Lydia McLaughlin",
+    "year": 2021,
+    "event_date": "2021-10-23T14:00:00.000Z",
+    "time_as_string": "01:33:51",
+    "time_in_seconds": 5631
+  },
+  {
+    "uuid": "recxQn8oBnnowVdEz",
+    "position": 45,
+    "name": "Alana Scannell",
+    "year": 2021,
+    "event_date": "2021-10-23T14:00:00.000Z",
+    "time_as_string": "01:46:48",
+    "time_in_seconds": 6408
+  },
+  {
+    "uuid": "recxObjTirgsURUJv",
+    "position": 27,
+    "name": "Aimee Dearias",
+    "year": 2021,
+    "event_date": "2021-10-23T14:00:00.000Z",
+    "time_as_string": "01:29:31",
+    "time_in_seconds": 5371
+  },
+  {
+    "uuid": "recwzoAzdkLIPBwiH",
+    "position": 23,
+    "name": "Aaron Monier",
+    "year": 2021,
+    "event_date": "2021-10-23T14:00:00.000Z",
+    "time_as_string": "01:27:12",
+    "time_in_seconds": 5232
+  },
+  {
+    "uuid": "recwc6GqPV1wowerT",
+    "position": 49,
+    "name": "Andrea Leonard",
+    "year": 2021,
+    "event_date": "2021-10-23T14:00:00.000Z",
+    "time_as_string": "01:50:02",
+    "time_in_seconds": 6602
+  },
+  {
+    "uuid": "recvJoDA6dVUc6Z8w",
+    "position": 48,
+    "name": "Michael Pelchat",
+    "year": 2021,
+    "event_date": "2021-10-23T14:00:00.000Z",
+    "time_as_string": "01:49:43",
+    "time_in_seconds": 6583
+  },
+  {
+    "uuid": "recv57x1dydegILwe",
+    "position": 54,
+    "name": "Becky Fullerton",
+    "year": 2021,
+    "event_date": "2021-10-23T14:00:00.000Z",
+    "time_as_string": "01:57:24",
+    "time_in_seconds": 7044
+  },
+  {
+    "uuid": "recuHUaTCnOGcPLdT",
+    "position": 43,
+    "name": "Emily Rogers",
+    "year": 2021,
+    "event_date": "2021-10-23T14:00:00.000Z",
+    "time_as_string": "01:45:44",
+    "time_in_seconds": 6344
+  },
+  {
+    "uuid": "rectv5V03VbuN1Tj1",
+    "position": 37,
+    "name": "David McDermott",
+    "year": 2021,
+    "event_date": "2021-10-23T14:00:00.000Z",
+    "time_as_string": "01:39:08",
+    "time_in_seconds": 5948
+  },
+  {
+    "uuid": "recpENTTVCgqzIaIN",
+    "position": 59,
+    "name": "Jenna Maddock",
+    "year": 2021,
+    "event_date": "2021-10-23T14:00:00.000Z",
+    "time_as_string": "DNF",
+    "time_in_seconds": null
+  },
+  {
+    "uuid": "recnRcr4JAwd4OLjm",
+    "position": 18,
+    "name": "Izzy De Buy Wenniger",
+    "year": 2021,
+    "event_date": "2021-10-23T14:00:00.000Z",
+    "time_as_string": "01:21:33",
+    "time_in_seconds": 4893
+  },
+  {
+    "uuid": "recnJupEGWXZZgKZX",
+    "position": 58,
+    "name": "Lianna Altieri",
+    "year": 2021,
+    "event_date": "2021-10-23T14:00:00.000Z",
+    "time_as_string": "DNF",
+    "time_in_seconds": null
+  },
+  {
+    "uuid": "reckICGrGkXulcxUi",
+    "position": 1,
+    "name": "Tristan Williams",
+    "year": 2021,
+    "event_date": "2021-10-23T14:00:00.000Z",
+    "time_as_string": "01:02:20",
+    "time_in_seconds": 3740
+  },
+  {
+    "uuid": "recjkYnPKF8tLAN6r",
+    "position": 38,
+    "name": "Jacqueline Fucile",
+    "year": 2021,
+    "event_date": "2021-10-23T14:00:00.000Z",
+    "time_as_string": "01:39:16",
+    "time_in_seconds": 5956
+  },
+  {
+    "uuid": "recjJWb7m3rM81fKb",
+    "position": 44,
+    "name": "Phil Doughty",
+    "year": 2021,
+    "event_date": "2021-10-23T14:00:00.000Z",
+    "time_as_string": "01:46:25",
+    "time_in_seconds": 6385
+  },
+  {
+    "uuid": "reciado86kixn7j8e",
+    "position": 56,
+    "name": "Crystal Gauvin",
+    "year": 2021,
+    "event_date": "2021-10-23T14:00:00.000Z",
+    "time_as_string": "01:59:54",
+    "time_in_seconds": 7194
+  },
+  {
+    "uuid": "rechI1NrJrgdSm3sP",
+    "position": 19,
+    "name": "Ryan Bauer",
+    "year": 2021,
+    "event_date": "2021-10-23T14:00:00.000Z",
+    "time_as_string": "01:22:08",
+    "time_in_seconds": 4928
+  },
+  {
+    "uuid": "rechFBu3HMC21uldo",
+    "position": 39,
+    "name": "Caroline Blair-Smith",
+    "year": 2021,
+    "event_date": "2021-10-23T14:00:00.000Z",
+    "time_as_string": "01:39:23",
+    "time_in_seconds": 5963
+  },
+  {
+    "uuid": "recfRQJiHlPuSCakX",
+    "position": 47,
+    "name": "Jim Snyder-Grant",
+    "year": 2021,
+    "event_date": "2021-10-23T14:00:00.000Z",
+    "time_as_string": "01:48:57",
+    "time_in_seconds": 6537
+  },
+  {
+    "uuid": "receb42D5rPXTt2BL",
+    "position": 11,
+    "name": "Marcelo Maiorano",
+    "year": 2021,
+    "event_date": "2021-10-23T14:00:00.000Z",
+    "time_as_string": "01:14:24",
+    "time_in_seconds": 4464
+  },
+  {
+    "uuid": "receW3wJG62ETwxeu",
+    "position": 12,
+    "name": "Rowan Kamman",
+    "year": 2021,
+    "event_date": "2021-10-23T14:00:00.000Z",
+    "time_as_string": "01:14:26",
+    "time_in_seconds": 4466
+  },
+  {
+    "uuid": "recd1jUVl1nbV6kRt",
+    "position": 31,
+    "name": "Sandy Stott",
+    "year": 2021,
+    "event_date": "2021-10-23T14:00:00.000Z",
+    "time_as_string": "01:31:00",
+    "time_in_seconds": 5460
+  },
+  {
+    "uuid": "reccnXAiGp8Sxqdub",
+    "position": 25,
+    "name": "Leah Hart",
+    "year": 2021,
+    "event_date": "2021-10-23T14:00:00.000Z",
+    "time_as_string": "01:27:28",
+    "time_in_seconds": 5248
+  },
+  {
+    "uuid": "recbVQOoel8VOSK5d",
+    "position": 17,
+    "name": "Benjy Getraer",
+    "year": 2021,
+    "event_date": "2021-10-23T14:00:00.000Z",
+    "time_as_string": "01:21:10",
+    "time_in_seconds": 4870
+  },
+  {
+    "uuid": "recauYcUQPXEJ5Fai",
+    "position": 9,
+    "name": "Lincoln Benedict",
+    "year": 2021,
+    "event_date": "2021-10-23T14:00:00.000Z",
+    "time_as_string": "01:12:44",
+    "time_in_seconds": 4364
+  },
+  {
+    "uuid": "recaNy6IAdH1NGn5u",
+    "position": 53,
+    "name": "Nathan Hjort",
+    "year": 2021,
+    "event_date": "2021-10-23T14:00:00.000Z",
+    "time_as_string": "01:57:18",
+    "time_in_seconds": 7038
+  },
+  {
+    "uuid": "recZ9DWguxKWh1Fs3",
+    "position": 52,
+    "name": "Laura Tobin",
+    "year": 2021,
+    "event_date": "2021-10-23T14:00:00.000Z",
+    "time_as_string": "01:56:58",
+    "time_in_seconds": 7018
+  },
+  {
+    "uuid": "recXAIjhH0YgenMaM",
+    "position": 14,
+    "name": "Josh Flanagan",
+    "year": 2021,
+    "event_date": "2021-10-23T14:00:00.000Z",
+    "time_as_string": "01:19:45",
+    "time_in_seconds": 4785
+  },
+  {
+    "uuid": "recV1qkqt7N6XPIml",
+    "position": 46,
+    "name": "Bridget Ackerly",
+    "year": 2021,
+    "event_date": "2021-10-23T14:00:00.000Z",
+    "time_as_string": "01:48:46",
+    "time_in_seconds": 6526
+  },
+  {
+    "uuid": "recUULgIqIzCIUiT0",
+    "position": 30,
+    "name": "Kathy Bowie",
+    "year": 2021,
+    "event_date": "2021-10-23T14:00:00.000Z",
+    "time_as_string": "01:30:48",
+    "time_in_seconds": 5448
+  },
+  {
+    "uuid": "recU8Ay2P3zaaDt1u",
+    "position": 41,
+    "name": "Lucy Wackman",
+    "year": 2021,
+    "event_date": "2021-10-23T14:00:00.000Z",
+    "time_as_string": "01:44:16",
+    "time_in_seconds": 6256
+  },
+  {
+    "uuid": "recRLgFWaM69rVt0F",
+    "position": 60,
+    "name": "Kevin Callahan",
+    "year": 2021,
+    "event_date": "2021-10-23T14:00:00.000Z",
+    "time_as_string": "DNF",
+    "time_in_seconds": null
+  },
+  {
+    "uuid": "recQINUksrs5525pI",
+    "position": 15,
+    "name": "Ericka Asmus",
+    "year": 2021,
+    "event_date": "2021-10-23T14:00:00.000Z",
+    "time_as_string": "01:20:21",
+    "time_in_seconds": 4821
+  },
+  {
+    "uuid": "recQBA1zYnVTyAecr",
+    "position": 10,
+    "name": "Caleb Sharp",
+    "year": 2021,
+    "event_date": "2021-10-23T14:00:00.000Z",
+    "time_as_string": "01:13:14",
+    "time_in_seconds": 4394
+  },
+  {
+    "uuid": "recQ36gRXRpTdb6ee",
+    "position": 57,
+    "name": "John Moriarty",
+    "year": 2021,
+    "event_date": "2021-10-23T14:00:00.000Z",
+    "time_as_string": "02:13:10",
+    "time_in_seconds": 7990
+  },
+  {
+    "uuid": "recOqRpjVFr0jK0t5",
+    "position": 16,
+    "name": "Jack Brustkern",
+    "year": 2021,
+    "event_date": "2021-10-23T14:00:00.000Z",
+    "time_as_string": "01:20:21",
+    "time_in_seconds": 4821
+  },
+  {
+    "uuid": "recO9jXG1j3CeNmtV",
+    "position": 24,
+    "name": "Joe Cormier",
+    "year": 2021,
+    "event_date": "2021-10-23T14:00:00.000Z",
+    "time_as_string": "01:27:26",
+    "time_in_seconds": 5246
+  },
+  {
+    "uuid": "recMoTG9OUKTwrLeU",
+    "position": 7,
+    "name": "Ben Judson",
+    "year": 2021,
+    "event_date": "2021-10-23T14:00:00.000Z",
+    "time_as_string": "01:11:35",
+    "time_in_seconds": 4295
+  },
+  {
+    "uuid": "recMTKUwPtqVi06g5",
+    "position": 2,
+    "name": "Brian Byrne",
+    "year": 2021,
+    "event_date": "2021-10-23T14:00:00.000Z",
+    "time_as_string": "01:06:31",
+    "time_in_seconds": 3991
+  },
+  {
+    "uuid": "recLqJLsdSTuyvJZu",
+    "position": 8,
+    "name": "John Paul Krol",
+    "year": 2021,
+    "event_date": "2021-10-23T14:00:00.000Z",
+    "time_as_string": "01:11:56",
+    "time_in_seconds": 4316
+  },
+  {
+    "uuid": "recLbap4g0Tuwf3SN",
+    "position": 3,
+    "name": "Jessica Marion",
+    "year": 2021,
+    "event_date": "2021-10-23T14:00:00.000Z",
+    "time_as_string": "01:07:18",
+    "time_in_seconds": 4038
+  },
+  {
+    "uuid": "recKzwq70MLfV3PoM",
+    "position": 28,
+    "name": "Jamie Jacobus",
+    "year": 2021,
+    "event_date": "2021-10-23T14:00:00.000Z",
+    "time_as_string": "01:30:12",
+    "time_in_seconds": 5412
+  },
+  {
+    "uuid": "recJHhHo37DStrGLQ",
+    "position": 42,
+    "name": "Chance Simonton",
+    "year": 2021,
+    "event_date": "2021-10-23T14:00:00.000Z",
+    "time_as_string": "01:44:22",
+    "time_in_seconds": 6262
+  },
+  {
+    "uuid": "recIwJ2kvzDvj333G",
+    "position": 33,
+    "name": "Nick Yardley",
+    "year": 2021,
+    "event_date": "2021-10-23T14:00:00.000Z",
+    "time_as_string": "01:32:58",
+    "time_in_seconds": 5578
+  },
+  {
+    "uuid": "recHPxItqnrOV63cF",
+    "position": 50,
+    "name": "Elizabeth Dillon",
+    "year": 2021,
+    "event_date": "2021-10-23T14:00:00.000Z",
+    "time_as_string": "01:53:42",
+    "time_in_seconds": 6822
+  },
+  {
+    "uuid": "recHJ2yd7HNEXXwNR",
+    "position": 36,
+    "name": "Chris Hawkins",
+    "year": 2021,
+    "event_date": "2021-10-23T14:00:00.000Z",
+    "time_as_string": "01:38:00",
+    "time_in_seconds": 5880
+  },
+  {
+    "uuid": "recGnwhalPzOKORCN",
+    "position": 32,
+    "name": "Elena Luria",
+    "year": 2021,
+    "event_date": "2021-10-23T14:00:00.000Z",
+    "time_as_string": "01:32:00",
+    "time_in_seconds": 5520
+  },
+  {
+    "uuid": "recGXtSfiqteda5hU",
+    "position": 40,
+    "name": "Emily Bauer",
+    "year": 2021,
+    "event_date": "2021-10-23T14:00:00.000Z",
+    "time_as_string": "01:41:25",
+    "time_in_seconds": 6085
+  },
+  {
+    "uuid": "recFXKEH1M9dytNIW",
+    "position": 20,
+    "name": "Ari Ofsevit",
+    "year": 2021,
+    "event_date": "2021-10-23T14:00:00.000Z",
+    "time_as_string": "01:22:20",
+    "time_in_seconds": 4940
+  },
+  {
+    "uuid": "recF4hsyydYqilUCN",
+    "position": 55,
+    "name": "Dan Bradley",
+    "year": 2021,
+    "event_date": "2021-10-23T14:00:00.000Z",
+    "time_as_string": "01:59:35",
+    "time_in_seconds": 7175
+  },
+  {
+    "uuid": "recEUHK7fIN0PoItY",
+    "position": 4,
+    "name": "Jonathan Miller",
+    "year": 2021,
+    "event_date": "2021-10-23T14:00:00.000Z",
+    "time_as_string": "01:07:26",
+    "time_in_seconds": 4046
+  },
+  {
+    "uuid": "recBoX8JwXe9tIpFT",
+    "position": 61,
+    "name": "Nancy Travers",
+    "year": 2021,
+    "event_date": "2021-10-23T14:00:00.000Z",
+    "time_as_string": "DNF",
+    "time_in_seconds": null
+  },
+  {
+    "uuid": "recBWlA5q0xYjmjbe",
+    "position": 26,
+    "name": "Charlotte Cadow",
+    "year": 2021,
+    "event_date": "2021-10-23T14:00:00.000Z",
+    "time_as_string": "01:29:20",
+    "time_in_seconds": 5360
+  },
+  {
+    "uuid": "recBOnHVLOIjvmPGz",
+    "position": 21,
+    "name": "Cameron McIntire",
+    "year": 2021,
+    "event_date": "2021-10-23T14:00:00.000Z",
+    "time_as_string": "01:26:30",
+    "time_in_seconds": 5190
+  },
+  {
+    "uuid": "recAoxTfSSOX39Z0R",
+    "position": 28,
+    "name": "Kyle Hallock",
+    "year": 2021,
+    "event_date": "2021-10-23T14:00:00.000Z",
+    "time_as_string": "01:29:33",
+    "time_in_seconds": 5373
+  },
+  {
+    "uuid": "rec9KEEqyVpHoB20n",
+    "position": 35,
+    "name": "Charles McRae",
+    "year": 2021,
+    "event_date": "2021-10-23T14:00:00.000Z",
+    "time_as_string": "01:37:33",
+    "time_in_seconds": 5853
+  },
+  {
+    "uuid": "rec98cQ0f1W6EaYCG",
+    "position": 6,
+    "name": "Jeremiah Macrae-Hawkins",
+    "year": 2021,
+    "event_date": "2021-10-23T14:00:00.000Z",
+    "time_as_string": "01:08:07",
+    "time_in_seconds": 4087
+  },
+  {
+    "uuid": "rec4R71WLg26X7otI",
+    "position": 13,
+    "name": "Sam Brown",
+    "year": 2021,
+    "event_date": "2021-10-23T14:00:00.000Z",
+    "time_as_string": "01:14:28",
+    "time_in_seconds": 4468
+  },
+  {
+    "uuid": "rec4Q7pEqXddgfsjZ",
+    "position": 5,
+    "name": "Matthew Goff",
+    "year": 2021,
+    "event_date": "2021-10-23T14:00:00.000Z",
+    "time_as_string": "01:07:53",
+    "time_in_seconds": 4073
+  },
+  {
+    "uuid": "rec21QMKdaoJppNsn",
+    "position": 50,
+    "name": "Katie Driscoll",
+    "year": 2021,
+    "event_date": "2021-10-23T14:00:00.000Z",
+    "time_as_string": "01:52:20",
+    "time_in_seconds": 6740
+  },
+  {
+    "uuid": "recwv3EASuAdbA0uK",
+    "position": 46,
+    "name": "David Krause",
+    "year": 2019,
+    "event_date": "2019-10-27T14:00:00.000Z",
+    "time_as_string": "01:52:53",
+    "time_in_seconds": 6773
+  },
+  {
+    "uuid": "recvJLb3Kdm4fT89U",
+    "position": 44,
+    "name": "Yvonick Houde",
+    "year": 2019,
+    "event_date": "2019-10-27T14:00:00.000Z",
+    "time_as_string": "01:52:20",
+    "time_in_seconds": 6740
+  },
+  {
+    "uuid": "recvIAtqBcsqdmsXx",
+    "position": 57,
+    "name": "Linda Raymomd",
+    "year": 2019,
+    "event_date": "2019-10-27T14:00:00.000Z",
+    "time_as_string": "02:11:40",
+    "time_in_seconds": 7900
+  },
+  {
+    "uuid": "recvCtxVuQtUzhr1U",
+    "position": 39,
+    "name": "David McDermott",
+    "year": 2019,
+    "event_date": "2019-10-27T14:00:00.000Z",
+    "time_as_string": "01:46:43",
+    "time_in_seconds": 6403
+  },
+  {
+    "uuid": "recuTZOekg3wo6EsJ",
+    "position": 3,
+    "name": "Josh Flanagan",
+    "year": 2019,
+    "event_date": "2019-10-27T14:00:00.000Z",
+    "time_as_string": "01:10:42",
+    "time_in_seconds": 4242
+  },
+  {
+    "uuid": "recuMDgbRDUGaZZCm",
+    "position": 55,
+    "name": "Richard Leonard",
+    "year": 2019,
+    "event_date": "2019-10-27T14:00:00.000Z",
+    "time_as_string": "02:06:54",
+    "time_in_seconds": 7614
+  },
+  {
+    "uuid": "rectKUvzJKQ5Uvd1q",
+    "position": 47,
+    "name": "Sean Maggs",
+    "year": 2019,
+    "event_date": "2019-10-27T14:00:00.000Z",
+    "time_as_string": "01:53:42",
+    "time_in_seconds": 6822
+  },
+  {
+    "uuid": "rectHx90JeziY37Yc",
+    "position": 21,
+    "name": "Rachid Tiroual",
+    "year": 2019,
+    "event_date": "2019-10-27T14:00:00.000Z",
+    "time_as_string": "01:32:36",
+    "time_in_seconds": 5556
+  },
+  {
+    "uuid": "recs20rjP3mjk8JRY",
+    "position": 31,
+    "name": "Laura Brockett",
+    "year": 2019,
+    "event_date": "2019-10-27T14:00:00.000Z",
+    "time_as_string": "01:38:37",
+    "time_in_seconds": 5917
+  },
+  {
+    "uuid": "recqtHfKRFSYajRau",
+    "position": 32,
+    "name": "Jim Snyder-Grant",
+    "year": 2019,
+    "event_date": "2019-10-27T14:00:00.000Z",
+    "time_as_string": "01:39:45",
+    "time_in_seconds": 5985
+  },
+  {
+    "uuid": "recoH5NPkDeO7h6wa",
+    "position": 52,
+    "name": "Vickie Murphy",
+    "year": 2019,
+    "event_date": "2019-10-27T14:00:00.000Z",
+    "time_as_string": "02:00:03",
+    "time_in_seconds": 7203
+  },
+  {
+    "uuid": "reclfo1xCZ09iZo8s",
+    "position": 20,
+    "name": "Ryan Canales",
+    "year": 2019,
+    "event_date": "2019-10-27T14:00:00.000Z",
+    "time_as_string": "01:31:30",
+    "time_in_seconds": 5490
+  },
+  {
+    "uuid": "recjrRgpQJ5j4PW67",
+    "position": 4,
+    "name": "Lincoln Benedict",
+    "year": 2019,
+    "event_date": "2019-10-27T14:00:00.000Z",
+    "time_as_string": "01:11:05",
+    "time_in_seconds": 4265
+  },
+  {
+    "uuid": "recjaUXbAw5DvTUZA",
+    "position": 6,
+    "name": "Chris Bustard",
+    "year": 2019,
+    "event_date": "2019-10-27T14:00:00.000Z",
+    "time_as_string": "01:13:41",
+    "time_in_seconds": 4421
+  },
+  {
+    "uuid": "recjStCEbEk78Qu1u",
+    "position": 40,
+    "name": "Molly Mundy",
+    "year": 2019,
+    "event_date": "2019-10-27T14:00:00.000Z",
+    "time_as_string": "01:48:06",
+    "time_in_seconds": 6486
+  },
+  {
+    "uuid": "recjNYvsgXF354Llu",
+    "position": 45,
+    "name": "Alyssa Krause",
+    "year": 2019,
+    "event_date": "2019-10-27T14:00:00.000Z",
+    "time_as_string": "01:52:50",
+    "time_in_seconds": 6770
+  },
+  {
+    "uuid": "recgOofbzb0xc9aZu",
+    "position": 1,
+    "name": "Jeremiah Magellen Hawkins",
+    "year": 2019,
+    "event_date": "2019-10-27T14:00:00.000Z",
+    "time_as_string": "01:06:56",
+    "time_in_seconds": 4016
+  },
+  {
+    "uuid": "recfguF8ygIb1LdmO",
+    "position": 58,
+    "name": "Sandy Stott",
+    "year": 2019,
+    "event_date": "2019-10-27T14:00:00.000Z",
+    "time_as_string": "02:30:50",
+    "time_in_seconds": 9050
+  },
+  {
+    "uuid": "recdG4FcvIFGm0zOb",
+    "position": 26,
+    "name": "Sarah Osmulski",
+    "year": 2019,
+    "event_date": "2019-10-27T14:00:00.000Z",
+    "time_as_string": "01:35:30",
+    "time_in_seconds": 5730
+  },
+  {
+    "uuid": "recczeOQcXZdlyd6P",
+    "position": 49,
+    "name": "Steven Snook",
+    "year": 2019,
+    "event_date": "2019-10-27T14:00:00.000Z",
+    "time_as_string": "01:56:27",
+    "time_in_seconds": 6987
+  },
+  {
+    "uuid": "recb4u68lF7q0nw6N",
+    "position": 37,
+    "name": "Andrea Leonard",
+    "year": 2019,
+    "event_date": "2019-10-27T14:00:00.000Z",
+    "time_as_string": "01:45:10",
+    "time_in_seconds": 6310
+  },
+  {
+    "uuid": "recathlIlOl0zS2Uh",
+    "position": 17,
+    "name": "Glenn Gordon",
+    "year": 2019,
+    "event_date": "2019-10-27T14:00:00.000Z",
+    "time_as_string": "01:29:30",
+    "time_in_seconds": 5370
+  },
+  {
+    "uuid": "recaMp5gk7h5IHAwS",
+    "position": 51,
+    "name": "Theresa Mundy",
+    "year": 2019,
+    "event_date": "2019-10-27T14:00:00.000Z",
+    "time_as_string": "01:58:30",
+    "time_in_seconds": 7110
+  },
+  {
+    "uuid": "recYzNwikiO9MRGyk",
+    "position": 28,
+    "name": "Elissa Gramling",
+    "year": 2019,
+    "event_date": "2019-10-27T14:00:00.000Z",
+    "time_as_string": "01:36:30",
+    "time_in_seconds": 5790
+  },
+  {
+    "uuid": "recYXEq4u7tMrrjtF",
+    "position": 53,
+    "name": "Becky Fullerton",
+    "year": 2019,
+    "event_date": "2019-10-27T14:00:00.000Z",
+    "time_as_string": "02:00:15",
+    "time_in_seconds": 7215
+  },
+  {
+    "uuid": "recX3cylUeSj29RRW",
+    "position": 38,
+    "name": "Alyssa Lamontagne",
+    "year": 2019,
+    "event_date": "2019-10-27T14:00:00.000Z",
+    "time_as_string": "01:46:03",
+    "time_in_seconds": 6363
+  },
+  {
+    "uuid": "recVvWRUNNilDAbv1",
+    "position": 8,
+    "name": "Lydia Gill",
+    "year": 2019,
+    "event_date": "2019-10-27T14:00:00.000Z",
+    "time_as_string": "01:15:00",
+    "time_in_seconds": 4500
+  },
+  {
+    "uuid": "recTRK4MNoBnkrL1t",
+    "position": 12,
+    "name": "Gabriel Boisseau",
+    "year": 2019,
+    "event_date": "2019-10-27T14:00:00.000Z",
+    "time_as_string": "01:22:56",
+    "time_in_seconds": 4976
+  },
+  {
+    "uuid": "recT2k56jLsbhoeDz",
+    "position": 43,
+    "name": "Michael Pelchat",
+    "year": 2019,
+    "event_date": "2019-10-27T14:00:00.000Z",
+    "time_as_string": "01:50:17",
+    "time_in_seconds": 6617
+  },
+  {
+    "uuid": "recS6BnWOA0i8I5Ln",
+    "position": 18,
+    "name": "Cara Baskin",
+    "year": 2019,
+    "event_date": "2019-10-27T14:00:00.000Z",
+    "time_as_string": "01:30:01",
+    "time_in_seconds": 5401
+  },
+  {
+    "uuid": "recS1QSicthXyVrRc",
+    "position": 41,
+    "name": "William Blackmore",
+    "year": 2019,
+    "event_date": "2019-10-27T14:00:00.000Z",
+    "time_as_string": "01:49:35",
+    "time_in_seconds": 6575
+  },
+  {
+    "uuid": "recQq7K1zHddo7xtH",
+    "position": 36,
+    "name": "Dennis Shaffer",
+    "year": 2019,
+    "event_date": "2019-10-27T14:00:00.000Z",
+    "time_as_string": "01:44:32",
+    "time_in_seconds": 6272
+  },
+  {
+    "uuid": "recQUj9dBEriL8hPP",
+    "position": 10,
+    "name": "John Carton",
+    "year": 2019,
+    "event_date": "2019-10-27T14:00:00.000Z",
+    "time_as_string": "01:18:08",
+    "time_in_seconds": 4688
+  },
+  {
+    "uuid": "recQ1rEEijJry5Yr2",
+    "position": 42,
+    "name": "Michael Mundy",
+    "year": 2019,
+    "event_date": "2019-10-27T14:00:00.000Z",
+    "time_as_string": "01:50:15",
+    "time_in_seconds": 6615
+  },
+  {
+    "uuid": "recNO9o1Dg3pFnYPM",
+    "position": 34,
+    "name": "Allison Sullivan",
+    "year": 2019,
+    "event_date": "2019-10-27T14:00:00.000Z",
+    "time_as_string": "01:44:09",
+    "time_in_seconds": 6249
+  },
+  {
+    "uuid": "recM445Can8AOPaRI",
+    "position": 16,
+    "name": "Nick Yardley",
+    "year": 2019,
+    "event_date": "2019-10-27T14:00:00.000Z",
+    "time_as_string": "01:28:22",
+    "time_in_seconds": 5302
+  },
+  {
+    "uuid": "recKWAmr04Kg1hp4r",
+    "position": 48,
+    "name": "Praveen Ravi",
+    "year": 2019,
+    "event_date": "2019-10-27T14:00:00.000Z",
+    "time_as_string": "01:54:30",
+    "time_in_seconds": 6870
+  },
+  {
+    "uuid": "recKTbzsbwHcs3RGT",
+    "position": 15,
+    "name": "Jim Siewierski",
+    "year": 2019,
+    "event_date": "2019-10-27T14:00:00.000Z",
+    "time_as_string": "01:26:57",
+    "time_in_seconds": 5217
+  },
+  {
+    "uuid": "recHkXhSVDg6zh5bR",
+    "position": 56,
+    "name": "Pat Ferland",
+    "year": 2019,
+    "event_date": "2019-10-27T14:00:00.000Z",
+    "time_as_string": "02:09:44",
+    "time_in_seconds": 7784
+  },
+  {
+    "uuid": "recHNHWKtNe5w7C60",
+    "position": 9,
+    "name": "Hilary McCloy",
+    "year": 2019,
+    "event_date": "2019-10-27T14:00:00.000Z",
+    "time_as_string": "01:17:22",
+    "time_in_seconds": 4642
+  },
+  {
+    "uuid": "recHD40MjSgOE6ADo",
+    "position": 30,
+    "name": "Kenneth Chester",
+    "year": 2019,
+    "event_date": "2019-10-27T14:00:00.000Z",
+    "time_as_string": "01:36:54",
+    "time_in_seconds": 5814
+  },
+  {
+    "uuid": "recFzfMUyKwNVdu9P",
+    "position": 14,
+    "name": "Mackinley Shaffer",
+    "year": 2019,
+    "event_date": "2019-10-27T14:00:00.000Z",
+    "time_as_string": "01:26:55",
+    "time_in_seconds": 5215
+  },
+  {
+    "uuid": "recFb9Supazw4xSrB",
+    "position": 29,
+    "name": "Cristin Bailey",
+    "year": 2019,
+    "event_date": "2019-10-27T14:00:00.000Z",
+    "time_as_string": "01:36:50",
+    "time_in_seconds": 5810
+  },
+  {
+    "uuid": "recEwPQN07AUNRxA1",
+    "position": 5,
+    "name": "Brian Byrne",
+    "year": 2019,
+    "event_date": "2019-10-27T14:00:00.000Z",
+    "time_as_string": "01:13:00",
+    "time_in_seconds": 4380
+  },
+  {
+    "uuid": "recE6An1xPKeCc10U",
+    "position": 54,
+    "name": "Ericka Canales",
+    "year": 2019,
+    "event_date": "2019-10-27T14:00:00.000Z",
+    "time_as_string": "02:02:32",
+    "time_in_seconds": 7352
+  },
+  {
+    "uuid": "recD8ReiqFhvVhuOh",
+    "position": 23,
+    "name": "Sabine Olry",
+    "year": 2019,
+    "event_date": "2019-10-27T14:00:00.000Z",
+    "time_as_string": "01:33:30",
+    "time_in_seconds": 5610
+  },
+  {
+    "uuid": "recCBAfp5vqOVLzF0",
+    "position": 27,
+    "name": "Daniel Sullivan",
+    "year": 2019,
+    "event_date": "2019-10-27T14:00:00.000Z",
+    "time_as_string": "01:35:30",
+    "time_in_seconds": 5730
+  },
+  {
+    "uuid": "recAe8THhLc40Pp0G",
+    "position": 11,
+    "name": "Nicholas Fucile",
+    "year": 2019,
+    "event_date": "2019-10-27T14:00:00.000Z",
+    "time_as_string": "01:21:13",
+    "time_in_seconds": 4873
+  },
+  {
+    "uuid": "rec8XfiIbfnL5ZrLC",
+    "position": 22,
+    "name": "John Percey",
+    "year": 2019,
+    "event_date": "2019-10-27T14:00:00.000Z",
+    "time_as_string": "01:33:00",
+    "time_in_seconds": 5580
+  },
+  {
+    "uuid": "rec6ZH6QllPGR28mt",
+    "position": 35,
+    "name": "Jacqueline Fucile",
+    "year": 2019,
+    "event_date": "2019-10-27T14:00:00.000Z",
+    "time_as_string": "01:44:16",
+    "time_in_seconds": 6256
+  },
+  {
+    "uuid": "rec6YlzplgOcDKvJc",
+    "position": 24,
+    "name": "Alexa Denhoff",
+    "year": 2019,
+    "event_date": "2019-10-27T14:00:00.000Z",
+    "time_as_string": "01:34:12",
+    "time_in_seconds": 5652
+  },
+  {
+    "uuid": "rec5lko58oLpUPIL5",
+    "position": 13,
+    "name": "Laurent Jugant",
+    "year": 2019,
+    "event_date": "2019-10-27T14:00:00.000Z",
+    "time_as_string": "01:22:57",
+    "time_in_seconds": 4977
+  },
+  {
+    "uuid": "rec55olgzQz46bAZg",
+    "position": 2,
+    "name": "Alex Leich",
+    "year": 2019,
+    "event_date": "2019-10-27T14:00:00.000Z",
+    "time_as_string": "01:08:00",
+    "time_in_seconds": 4080
+  },
+  {
+    "uuid": "rec4TtcWz1YJSJzud",
+    "position": 25,
+    "name": "Helon Hoffer",
+    "year": 2019,
+    "event_date": "2019-10-27T14:00:00.000Z",
+    "time_as_string": "01:34:45",
+    "time_in_seconds": 5685
+  },
+  {
+    "uuid": "rec2VTx7y9eCqFksf",
+    "position": 39,
+    "name": "James Baum",
+    "year": 2019,
+    "event_date": "2019-10-27T14:00:00.000Z",
+    "time_as_string": "01:47:11",
+    "time_in_seconds": 6431
+  },
+  {
+    "uuid": "rec2HBNQi60QIEPBp",
+    "position": 7,
+    "name": "Marcelo Maiorano",
+    "year": 2019,
+    "event_date": "2019-10-27T14:00:00.000Z",
+    "time_as_string": "01:14:55",
+    "time_in_seconds": 4495
+  },
+  {
+    "uuid": "rec1R3QWNeMRl7Zym",
+    "position": 19,
+    "name": "Emily Leich",
+    "year": 2019,
+    "event_date": "2019-10-27T14:00:00.000Z",
+    "time_as_string": "01:30:48",
+    "time_in_seconds": 5448
+  },
+  {
+    "uuid": "rec0tZNoteV31kyZ7",
+    "position": 33,
+    "name": "Christopher Bateman",
+    "year": 2019,
+    "event_date": "2019-10-27T14:00:00.000Z",
+    "time_as_string": "01:41:45",
+    "time_in_seconds": 6105
+  },
+  {
+    "uuid": "rec00bKsxqGXFCHvc",
+    "position": 50,
+    "name": "Bob Arsenault",
+    "year": 2019,
+    "event_date": "2019-10-27T14:00:00.000Z",
+    "time_as_string": "01:57:45",
+    "time_in_seconds": 7065
+  },
+  {
+    "uuid": "recz5NxFmcADvz5n4",
+    "position": 26,
+    "name": "Haley Heinrich",
+    "year": 2017,
+    "event_date": "2017-10-29T14:00:00.000Z",
+    "time_as_string": "01:20:06",
+    "time_in_seconds": 4806
+  },
+  {
+    "uuid": "recyej65uBq1AyXDu",
+    "position": 15,
+    "name": "Samuel Brown",
+    "year": 2017,
+    "event_date": "2017-10-29T14:00:00.000Z",
+    "time_as_string": "01:14:07",
+    "time_in_seconds": 4447
+  },
+  {
+    "uuid": "recxcysLinM6c8CK9",
+    "position": 5,
+    "name": "Rowan Kamman",
+    "year": 2017,
+    "event_date": "2017-10-29T14:00:00.000Z",
+    "time_as_string": "01:06:18",
+    "time_in_seconds": 3978
+  },
+  {
+    "uuid": "recxAY1vOZozTYAZn",
+    "position": 47,
+    "name": "Andrea Leonard",
+    "year": 2017,
+    "event_date": "2017-10-29T14:00:00.000Z",
+    "time_as_string": "01:38:46",
+    "time_in_seconds": 5926
+  },
+  {
+    "uuid": "recw6lchkttqNZKxI",
+    "position": 75,
+    "name": "Mark Ross-Parent",
+    "year": 2017,
+    "event_date": "2017-10-29T14:00:00.000Z",
+    "time_as_string": "02:14:05",
+    "time_in_seconds": 8045
+  },
+  {
+    "uuid": "recvyTNDBIzyE6yYC",
+    "position": 19,
+    "name": "Ted Teegarden",
+    "year": 2017,
+    "event_date": "2017-10-29T14:00:00.000Z",
+    "time_as_string": "01:15:35",
+    "time_in_seconds": 4535
+  },
+  {
+    "uuid": "recvpnjWNQbzXAY7k",
+    "position": 60,
+    "name": "Gary Reuter",
+    "year": 2017,
+    "event_date": "2017-10-29T14:00:00.000Z",
+    "time_as_string": "01:51:10",
+    "time_in_seconds": 6670
+  },
+  {
+    "uuid": "rectEuJDRRgkLRN1I",
+    "position": 9,
+    "name": "Jerimy Arnold",
+    "year": 2017,
+    "event_date": "2017-10-29T14:00:00.000Z",
+    "time_as_string": "01:08:30",
+    "time_in_seconds": 4110
+  },
+  {
+    "uuid": "recslkNt131V9gcGS",
+    "position": 73,
+    "name": "Elaine Dill",
+    "year": 2017,
+    "event_date": "2017-10-29T14:00:00.000Z",
+    "time_as_string": "02:04:37",
+    "time_in_seconds": 7477
+  },
+  {
+    "uuid": "recsW67SLQSDz2sRw",
+    "position": 40,
+    "name": "Paul Bazanchuk",
+    "year": 2017,
+    "event_date": "2017-10-29T14:00:00.000Z",
+    "time_as_string": "01:31:28",
+    "time_in_seconds": 5488
+  },
+  {
+    "uuid": "recrKJJXf8aaOAq8X",
+    "position": 37,
+    "name": "Daniel Doherty",
+    "year": 2017,
+    "event_date": "2017-10-29T14:00:00.000Z",
+    "time_as_string": "01:30:58",
+    "time_in_seconds": 5458
+  },
+  {
+    "uuid": "recqcmfmfmJfGd57G",
+    "position": 44,
+    "name": "Paul Kirsch",
+    "year": 2017,
+    "event_date": "2017-10-29T14:00:00.000Z",
+    "time_as_string": "01:34:06",
+    "time_in_seconds": 5646
+  },
+  {
+    "uuid": "recoIWJiS9wSSBsLj",
+    "position": 2,
+    "name": "Andrew Drummond",
+    "year": 2017,
+    "event_date": "2017-10-29T14:00:00.000Z",
+    "time_as_string": "01:01:11",
+    "time_in_seconds": 3671
+  },
+  {
+    "uuid": "recnV3mrqI6MBNLBL",
+    "position": 7,
+    "name": "Jessica Marion",
+    "year": 2017,
+    "event_date": "2017-10-29T14:00:00.000Z",
+    "time_as_string": "01:08:03",
+    "time_in_seconds": 4083
+  },
+  {
+    "uuid": "recnOl2Zigrw8R37f",
+    "position": 20,
+    "name": "Bill Cobb",
+    "year": 2017,
+    "event_date": "2017-10-29T14:00:00.000Z",
+    "time_as_string": "01:18:10",
+    "time_in_seconds": 4690
+  },
+  {
+    "uuid": "recnFplpywodXIMns",
+    "position": 14,
+    "name": "Randy Letourneau",
+    "year": 2017,
+    "event_date": "2017-10-29T14:00:00.000Z",
+    "time_as_string": "01:14:06",
+    "time_in_seconds": 4446
+  },
+  {
+    "uuid": "recmvaiNL3dDAoDNN",
+    "position": 55,
+    "name": "Annie Evankow",
+    "year": 2017,
+    "event_date": "2017-10-29T14:00:00.000Z",
+    "time_as_string": "01:44:57",
+    "time_in_seconds": 6297
+  },
+  {
+    "uuid": "recmQuZALdJB592Oi",
+    "position": 74,
+    "name": "Carl Nadeau",
+    "year": 2017,
+    "event_date": "2017-10-29T14:00:00.000Z",
+    "time_as_string": "02:08:28",
+    "time_in_seconds": 7708
+  },
+  {
+    "uuid": "reclvnYzNRnQux3Mt",
+    "position": 62,
+    "name": "Adler Brown",
+    "year": 2017,
+    "event_date": "2017-10-29T14:00:00.000Z",
+    "time_as_string": "01:57:27",
+    "time_in_seconds": 7047
+  },
+  {
+    "uuid": "reclPLA8BiInjbNSP",
+    "position": 77,
+    "name": "Leigh Grady",
+    "year": 2017,
+    "event_date": "2017-10-29T14:00:00.000Z",
+    "time_as_string": "02:31:16",
+    "time_in_seconds": 9076
+  },
+  {
+    "uuid": "reckOW5YfHDeCrVGw",
+    "position": 28,
+    "name": "Mike Carbone",
+    "year": 2017,
+    "event_date": "2017-10-29T14:00:00.000Z",
+    "time_as_string": "01:21:33",
+    "time_in_seconds": 4893
+  },
+  {
+    "uuid": "rechppgCCZqdgEcmH",
+    "position": 17,
+    "name": "Benjamin Leoni",
+    "year": 2017,
+    "event_date": "2017-10-29T14:00:00.000Z",
+    "time_as_string": "01:14:56",
+    "time_in_seconds": 4496
+  },
+  {
+    "uuid": "rechcIIzFYWN9fwsS",
+    "position": 29,
+    "name": "Jim Siewierski",
+    "year": 2017,
+    "event_date": "2017-10-29T14:00:00.000Z",
+    "time_as_string": "01:23:06",
+    "time_in_seconds": 4986
+  },
+  {
+    "uuid": "rechbv7KQfJOYERqS",
+    "position": 27,
+    "name": "Colin Finn",
+    "year": 2017,
+    "event_date": "2017-10-29T14:00:00.000Z",
+    "time_as_string": "01:20:58",
+    "time_in_seconds": 4858
+  },
+  {
+    "uuid": "recgYaSpbthdyG7jx",
+    "position": 23,
+    "name": "Richard Fargo",
+    "year": 2017,
+    "event_date": "2017-10-29T14:00:00.000Z",
+    "time_as_string": "01:18:34",
+    "time_in_seconds": 4714
+  },
+  {
+    "uuid": "recgAbaC1bsbbpVcc",
+    "position": 3,
+    "name": "Kurt Hackler",
+    "year": 2017,
+    "event_date": "2017-10-29T14:00:00.000Z",
+    "time_as_string": "01:04:37",
+    "time_in_seconds": 3877
+  },
+  {
+    "uuid": "rece5Hnl6KeceVeN8",
+    "position": 35,
+    "name": "Bridget Freudenberger",
+    "year": 2017,
+    "event_date": "2017-10-29T14:00:00.000Z",
+    "time_as_string": "01:29:23",
+    "time_in_seconds": 5363
+  },
+  {
+    "uuid": "rece0elJdrPBTfRMi",
+    "position": 64,
+    "name": "Julie Weisman",
+    "year": 2017,
+    "event_date": "2017-10-29T14:00:00.000Z",
+    "time_as_string": "01:58:15",
+    "time_in_seconds": 7095
+  },
+  {
+    "uuid": "recdcmuu0FrGyD9P4",
+    "position": 61,
+    "name": "Donald Mayer",
+    "year": 2017,
+    "event_date": "2017-10-29T14:00:00.000Z",
+    "time_as_string": "01:51:34",
+    "time_in_seconds": 6694
+  },
+  {
+    "uuid": "recd8ZGzPT0p4h3eR",
+    "position": 25,
+    "name": "Gabe Boisseau",
+    "year": 2017,
+    "event_date": "2017-10-29T14:00:00.000Z",
+    "time_as_string": "01:19:32",
+    "time_in_seconds": 4772
+  },
+  {
+    "uuid": "recbjYlt5wdQNrFxQ",
+    "position": 46,
+    "name": "Ewa Johnson",
+    "year": 2017,
+    "event_date": "2017-10-29T14:00:00.000Z",
+    "time_as_string": "01:38:45",
+    "time_in_seconds": 5925
+  },
+  {
+    "uuid": "recaRTsZALRLSH81O",
+    "position": 32,
+    "name": "John Rodrigue",
+    "year": 2017,
+    "event_date": "2017-10-29T14:00:00.000Z",
+    "time_as_string": "01:29:03",
+    "time_in_seconds": 5343
+  },
+  {
+    "uuid": "recZEq7UirPg7aKu2",
+    "position": 68,
+    "name": "Richard Leonard",
+    "year": 2017,
+    "event_date": "2017-10-29T14:00:00.000Z",
+    "time_as_string": "01:59:45",
+    "time_in_seconds": 7185
+  },
+  {
+    "uuid": "recZA6YO7mO2TSrHH",
+    "position": 59,
+    "name": "Joe Fox",
+    "year": 2017,
+    "event_date": "2017-10-29T14:00:00.000Z",
+    "time_as_string": "01:48:57",
+    "time_in_seconds": 6537
+  },
+  {
+    "uuid": "recYJHc7JcysqQZ2W",
+    "position": 67,
+    "name": "Vickie Murphy",
+    "year": 2017,
+    "event_date": "2017-10-29T14:00:00.000Z",
+    "time_as_string": "01:59:39",
+    "time_in_seconds": 7179
+  },
+  {
+    "uuid": "recXPEKhzf2o5JcXe",
+    "position": 49,
+    "name": "Jennifer Bowman",
+    "year": 2017,
+    "event_date": "2017-10-29T14:00:00.000Z",
+    "time_as_string": "01:40:24",
+    "time_in_seconds": 6024
+  },
+  {
+    "uuid": "recXEBw7C2AwTcOIO",
+    "position": 51,
+    "name": "Suzie Carrier",
+    "year": 2017,
+    "event_date": "2017-10-29T14:00:00.000Z",
+    "time_as_string": "01:41:37",
+    "time_in_seconds": 6097
+  },
+  {
+    "uuid": "recWjZCvGDVPVRy7g",
+    "position": 39,
+    "name": "William Murphy",
+    "year": 2017,
+    "event_date": "2017-10-29T14:00:00.000Z",
+    "time_as_string": "01:31:03",
+    "time_in_seconds": 5463
+  },
+  {
+    "uuid": "recWUQBN75xzXKgUN",
+    "position": 76,
+    "name": "Kathrine Kinnett",
+    "year": 2017,
+    "event_date": "2017-10-29T14:00:00.000Z",
+    "time_as_string": "02:19:44",
+    "time_in_seconds": 8384
+  },
+  {
+    "uuid": "recVS7nadL7CC23nH",
+    "position": 12,
+    "name": "Brian Byrne",
+    "year": 2017,
+    "event_date": "2017-10-29T14:00:00.000Z",
+    "time_as_string": "01:11:05",
+    "time_in_seconds": 4265
+  },
+  {
+    "uuid": "recTD9bvgpWbPSOO9",
+    "position": 1,
+    "name": "Tristan Williams",
+    "year": 2017,
+    "event_date": "2017-10-29T14:00:00.000Z",
+    "time_as_string": "00:58:59",
+    "time_in_seconds": 3539
+  },
+  {
+    "uuid": "recS29PT5MMjz0QGI",
+    "position": 30,
+    "name": "Ryan Canales",
+    "year": 2017,
+    "event_date": "2017-10-29T14:00:00.000Z",
+    "time_as_string": "01:23:32",
+    "time_in_seconds": 5012
+  },
+  {
+    "uuid": "recRfXoWjXflKljuC",
+    "position": 56,
+    "name": "Alana Scannell",
+    "year": 2017,
+    "event_date": "2017-10-29T14:00:00.000Z",
+    "time_as_string": "01:45:03",
+    "time_in_seconds": 6303
+  },
+  {
+    "uuid": "recRNcs6QZG8wSLcM",
+    "position": 11,
+    "name": "Rob Rives",
+    "year": 2017,
+    "event_date": "2017-10-29T14:00:00.000Z",
+    "time_as_string": "01:10:47",
+    "time_in_seconds": 4247
+  },
+  {
+    "uuid": "recQRnpK09qp8qdwW",
+    "position": 57,
+    "name": "Mike Pelchat",
+    "year": 2017,
+    "event_date": "2017-10-29T14:00:00.000Z",
+    "time_as_string": "01:45:28",
+    "time_in_seconds": 6328
+  },
+  {
+    "uuid": "recQIQOMnrKQAqwwg",
+    "position": 34,
+    "name": "Jim Anderson",
+    "year": 2017,
+    "event_date": "2017-10-29T14:00:00.000Z",
+    "time_as_string": "01:29:16",
+    "time_in_seconds": 5356
+  },
+  {
+    "uuid": "recOlZhq38ehkKx1g",
+    "position": 24,
+    "name": "Brad Clark",
+    "year": 2017,
+    "event_date": "2017-10-29T14:00:00.000Z",
+    "time_as_string": "01:19:20",
+    "time_in_seconds": 4760
+  },
+  {
+    "uuid": "recNVV1NSN1E44EG1",
+    "position": 48,
+    "name": "David McDermott",
+    "year": 2017,
+    "event_date": "2017-10-29T14:00:00.000Z",
+    "time_as_string": "01:39:02",
+    "time_in_seconds": 5942
+  },
+  {
+    "uuid": "recME5FglfAlSqqUp",
+    "position": 42,
+    "name": "Jim Snyder-Grant",
+    "year": 2017,
+    "event_date": "2017-10-29T14:00:00.000Z",
+    "time_as_string": "01:31:48",
+    "time_in_seconds": 5508
+  },
+  {
+    "uuid": "recK1Khaz0SDFnKVV",
+    "position": 31,
+    "name": "Matthew Gordon",
+    "year": 2017,
+    "event_date": "2017-10-29T14:00:00.000Z",
+    "time_as_string": "01:28:38",
+    "time_in_seconds": 5318
+  },
+  {
+    "uuid": "recJo0HjN6pNwBBfV",
+    "position": 22,
+    "name": "Garry Harrington",
+    "year": 2017,
+    "event_date": "2017-10-29T14:00:00.000Z",
+    "time_as_string": "01:18:17",
+    "time_in_seconds": 4697
+  },
+  {
+    "uuid": "recJkINrgzMXdUZbU",
+    "position": 10,
+    "name": "Jeff Brooks",
+    "year": 2017,
+    "event_date": "2017-10-29T14:00:00.000Z",
+    "time_as_string": "01:10:26",
+    "time_in_seconds": 4226
+  },
+  {
+    "uuid": "recJSJE34tZXmKcHZ",
+    "position": 21,
+    "name": "Claes Thelemarck",
+    "year": 2017,
+    "event_date": "2017-10-29T14:00:00.000Z",
+    "time_as_string": "01:18:12",
+    "time_in_seconds": 4692
+  },
+  {
+    "uuid": "recJ0t1q1QPNvXe83",
+    "position": 65,
+    "name": "David Shore",
+    "year": 2017,
+    "event_date": "2017-10-29T14:00:00.000Z",
+    "time_as_string": "01:58:29",
+    "time_in_seconds": 7109
+  },
+  {
+    "uuid": "recIqJNyinGD7x9lE",
+    "position": 52,
+    "name": "Bob Schor",
+    "year": 2017,
+    "event_date": "2017-10-29T14:00:00.000Z",
+    "time_as_string": "01:43:25",
+    "time_in_seconds": 6205
+  },
+  {
+    "uuid": "recIltqmWyZ6HXr4r",
+    "position": 13,
+    "name": "Margaret Graciano",
+    "year": 2017,
+    "event_date": "2017-10-29T14:00:00.000Z",
+    "time_as_string": "01:12:37",
+    "time_in_seconds": 4357
+  },
+  {
+    "uuid": "recIDQMmWXpl7qCV6",
+    "position": 41,
+    "name": "Erica Khan",
+    "year": 2017,
+    "event_date": "2017-10-29T14:00:00.000Z",
+    "time_as_string": "01:31:33",
+    "time_in_seconds": 5493
+  },
+  {
+    "uuid": "recHwsJ9aEpnv6cIc",
+    "position": 33,
+    "name": "Soren Monroe-Anderson",
+    "year": 2017,
+    "event_date": "2017-10-29T14:00:00.000Z",
+    "time_as_string": "01:29:06",
+    "time_in_seconds": 5346
+  },
+  {
+    "uuid": "recHp6FASMi5RuWB8",
+    "position": 72,
+    "name": "Jake Dean",
+    "year": 2017,
+    "event_date": "2017-10-29T14:00:00.000Z",
+    "time_as_string": "02:04:16",
+    "time_in_seconds": 7456
+  },
+  {
+    "uuid": "recHLj6c7Fdfsi9aK",
+    "position": 16,
+    "name": "Amelia Ortiz",
+    "year": 2017,
+    "event_date": "2017-10-29T14:00:00.000Z",
+    "time_as_string": "01:14:21",
+    "time_in_seconds": 4461
+  },
+  {
+    "uuid": "recH5OwZfPtk2qjai",
+    "position": 58,
+    "name": "William Blackmore",
+    "year": 2017,
+    "event_date": "2017-10-29T14:00:00.000Z",
+    "time_as_string": "01:47:21",
+    "time_in_seconds": 6441
+  },
+  {
+    "uuid": "recGkIgATsKgSI1BO",
+    "position": 70,
+    "name": "Lisa Troy",
+    "year": 2017,
+    "event_date": "2017-10-29T14:00:00.000Z",
+    "time_as_string": "02:02:26",
+    "time_in_seconds": 7346
+  },
+  {
+    "uuid": "recGNAWkzka5UHrsh",
+    "position": 8,
+    "name": "Andrew Doherty",
+    "year": 2017,
+    "event_date": "2017-10-29T14:00:00.000Z",
+    "time_as_string": "01:08:08",
+    "time_in_seconds": 4088
+  },
+  {
+    "uuid": "recG1rXuSkEjRvvHT",
+    "position": 62,
+    "name": "Jenny Johnson",
+    "year": 2017,
+    "event_date": "2017-10-29T14:00:00.000Z",
+    "time_as_string": "01:57:27",
+    "time_in_seconds": 7047
+  },
+  {
+    "uuid": "recFuvHbO6lRHf7id",
+    "position": 71,
+    "name": "Caleb Murphy",
+    "year": 2017,
+    "event_date": "2017-10-29T14:00:00.000Z",
+    "time_as_string": "02:03:55",
+    "time_in_seconds": 7435
+  },
+  {
+    "uuid": "recE0XXvoAt1VIpsM",
+    "position": 4,
+    "name": "Hunter Cote",
+    "year": 2017,
+    "event_date": "2017-10-29T14:00:00.000Z",
+    "time_as_string": "01:06:14",
+    "time_in_seconds": 3974
+  },
+  {
+    "uuid": "recDH4VmYP03ib7PN",
+    "position": 45,
+    "name": "Sam Eaton",
+    "year": 2017,
+    "event_date": "2017-10-29T14:00:00.000Z",
+    "time_as_string": "01:36:54",
+    "time_in_seconds": 5814
+  },
+  {
+    "uuid": "recBuoDOXLz0LY6pt",
+    "position": 66,
+    "name": "John Moriarty",
+    "year": 2017,
+    "event_date": "2017-10-29T14:00:00.000Z",
+    "time_as_string": "01:59:17",
+    "time_in_seconds": 7157
+  },
+  {
+    "uuid": "recAYSoDB0vIR8SnI",
+    "position": 77,
+    "name": "Molly Flavin",
+    "year": 2017,
+    "event_date": "2017-10-29T14:00:00.000Z",
+    "time_as_string": "02:31:16",
+    "time_in_seconds": 9076
+  },
+  {
+    "uuid": "recAWZJTize844Gei",
+    "position": 18,
+    "name": "Jacob Northcutt",
+    "year": 2017,
+    "event_date": "2017-10-29T14:00:00.000Z",
+    "time_as_string": "01:15:10",
+    "time_in_seconds": 4510
+  },
+  {
+    "uuid": "rec6mdubUUX7tKQVv",
+    "position": 50,
+    "name": "Charles Kinnett",
+    "year": 2017,
+    "event_date": "2017-10-29T14:00:00.000Z",
+    "time_as_string": "01:40:43",
+    "time_in_seconds": 6043
+  },
+  {
+    "uuid": "rec6OtAdt3tjaDtAa",
+    "position": 36,
+    "name": "William Robichaud",
+    "year": 2017,
+    "event_date": "2017-10-29T14:00:00.000Z",
+    "time_as_string": "01:29:26",
+    "time_in_seconds": 5366
+  },
+  {
+    "uuid": "rec5ib5q58bbkqZF4",
+    "position": 53,
+    "name": "Sherry Burnell",
+    "year": 2017,
+    "event_date": "2017-10-29T14:00:00.000Z",
+    "time_as_string": "01:44:10",
+    "time_in_seconds": 6250
+  },
+  {
+    "uuid": "rec5gbRTX9QEGp7im",
+    "position": 69,
+    "name": "Ellen Chandler",
+    "year": 2017,
+    "event_date": "2017-10-29T14:00:00.000Z",
+    "time_as_string": "02:02:09",
+    "time_in_seconds": 7329
+  },
+  {
+    "uuid": "rec5cf6gF2nFs7w8b",
+    "position": 54,
+    "name": "Andrew Cushing",
+    "year": 2017,
+    "event_date": "2017-10-29T14:00:00.000Z",
+    "time_as_string": "01:44:53",
+    "time_in_seconds": 6293
+  },
+  {
+    "uuid": "rec3mRbi5faECJbLa",
+    "position": 43,
+    "name": "Julianne Gadoury",
+    "year": 2017,
+    "event_date": "2017-10-29T14:00:00.000Z",
+    "time_as_string": "01:32:16",
+    "time_in_seconds": 5536
+  },
+  {
+    "uuid": "rec2L5eS2gnjbi2qr",
+    "position": 6,
+    "name": "Grant Haynes",
+    "year": 2017,
+    "event_date": "2017-10-29T14:00:00.000Z",
+    "time_as_string": "01:07:27",
+    "time_in_seconds": 4047
+  },
+  {
+    "uuid": "rec0DaZ0AVAGpyrzC",
+    "position": 38,
+    "name": "Greg Rossolimo",
+    "year": 2017,
+    "event_date": "2017-10-29T14:00:00.000Z",
+    "time_as_string": "01:31:01",
+    "time_in_seconds": 5461
+  },
+  {
+    "uuid": "recz9CoILtklYpi7S",
+    "position": 53,
+    "name": "Alana Scannell",
+    "year": 2016,
+    "event_date": "2016-10-30T13:00:00.000Z",
+    "time_as_string": "01:49:43",
+    "time_in_seconds": 6583
+  },
+  {
+    "uuid": "recyfPZ73NIVuedN7",
+    "position": 40,
+    "name": "Ticia Blanck",
+    "year": 2016,
+    "event_date": "2016-10-30T13:00:00.000Z",
+    "time_as_string": "01:39:31",
+    "time_in_seconds": 5971
+  },
+  {
+    "uuid": "recyLeNSRVQVTcLUy",
+    "position": 25,
+    "name": "Bob Arsenault",
+    "year": 2016,
+    "event_date": "2016-10-30T13:00:00.000Z",
+    "time_as_string": "01:26:24",
+    "time_in_seconds": 5184
+  },
+  {
+    "uuid": "recy7s1E1NmKzQ4J2",
+    "position": 7,
+    "name": "Ryan Welts",
+    "year": 2016,
+    "event_date": "2016-10-30T13:00:00.000Z",
+    "time_as_string": "01:13:44",
+    "time_in_seconds": 4424
+  },
+  {
+    "uuid": "recy1M53BDjHNmtJE",
+    "position": 56,
+    "name": "Caroline Blair-Smith",
+    "year": 2016,
+    "event_date": "2016-10-30T13:00:00.000Z",
+    "time_as_string": "01:53:56",
+    "time_in_seconds": 6836
+  },
+  {
+    "uuid": "recxjjMlyBKs4UVr5",
+    "position": 41,
+    "name": "Erika Mccoy",
+    "year": 2016,
+    "event_date": "2016-10-30T13:00:00.000Z",
+    "time_as_string": "01:40:15",
+    "time_in_seconds": 6015
+  },
+  {
+    "uuid": "recxfhRUqtrn2QX1Y",
+    "position": 14,
+    "name": "John Lamneck",
+    "year": 2016,
+    "event_date": "2016-10-30T13:00:00.000Z",
+    "time_as_string": "01:19:20",
+    "time_in_seconds": 4760
+  },
+  {
+    "uuid": "recwusaSlw8pckwxP",
+    "position": 59,
+    "name": "Matthew Ruder",
+    "year": 2016,
+    "event_date": "2016-10-30T13:00:00.000Z",
+    "time_as_string": "02:08:20",
+    "time_in_seconds": 7700
+  },
+  {
+    "uuid": "recuxWcVIXzJzQKzq",
+    "position": 68,
+    "name": "Jerry Kirk",
+    "year": 2016,
+    "event_date": "2016-10-30T13:00:00.000Z",
+    "time_as_string": "02:20:37",
+    "time_in_seconds": 8437
+  },
+  {
+    "uuid": "recuAjvVouLBRr22L",
+    "position": 73,
+    "name": "Stephanie Glidden",
+    "year": 2016,
+    "event_date": "2016-10-30T13:00:00.000Z",
+    "time_as_string": "02:36:26",
+    "time_in_seconds": 9386
+  },
+  {
+    "uuid": "recsz5l2QwjD6GxJa",
+    "position": 66,
+    "name": "Elaine Dill",
+    "year": 2016,
+    "event_date": "2016-10-30T13:00:00.000Z",
+    "time_as_string": "02:17:04",
+    "time_in_seconds": 8224
+  },
+  {
+    "uuid": "recrqOcVC2kCqEQzM",
+    "position": 33,
+    "name": "Jeff Leblanc",
+    "year": 2016,
+    "event_date": "2016-10-30T13:00:00.000Z",
+    "time_as_string": "01:33:37",
+    "time_in_seconds": 5617
+  },
+  {
+    "uuid": "recrieQTL2fy9jWMa",
+    "position": 30,
+    "name": "Sam Wood",
+    "year": 2016,
+    "event_date": "2016-10-30T13:00:00.000Z",
+    "time_as_string": "01:30:28",
+    "time_in_seconds": 5428
+  },
+  {
+    "uuid": "recqZSI3isOfNeBMG",
+    "position": 20,
+    "name": "Ari Ofsevit",
+    "year": 2016,
+    "event_date": "2016-10-30T13:00:00.000Z",
+    "time_as_string": "01:22:58",
+    "time_in_seconds": 4978
+  },
+  {
+    "uuid": "recoGf2hsERXVZB3T",
+    "position": 42,
+    "name": "Victoria Weigold",
+    "year": 2016,
+    "event_date": "2016-10-30T13:00:00.000Z",
+    "time_as_string": "01:42:27",
+    "time_in_seconds": 6147
+  },
+  {
+    "uuid": "recnbVirw4cGqOf36",
+    "position": 35,
+    "name": "Samantha Leblanc",
+    "year": 2016,
+    "event_date": "2016-10-30T13:00:00.000Z",
+    "time_as_string": "01:35:59",
+    "time_in_seconds": 5759
+  },
+  {
+    "uuid": "recnU52DuWogCg7Es",
+    "position": 28,
+    "name": "Haley Heinrich",
+    "year": 2016,
+    "event_date": "2016-10-30T13:00:00.000Z",
+    "time_as_string": "01:29:36",
+    "time_in_seconds": 5376
+  },
+  {
+    "uuid": "recjPPV3rBTJGHI4F",
+    "position": 50,
+    "name": "Dana Christensen",
+    "year": 2016,
+    "event_date": "2016-10-30T13:00:00.000Z",
+    "time_as_string": "01:47:51",
+    "time_in_seconds": 6471
+  },
+  {
+    "uuid": "recizjDswt86VxkQJ",
+    "position": 52,
+    "name": "David McDermott",
+    "year": 2016,
+    "event_date": "2016-10-30T13:00:00.000Z",
+    "time_as_string": "01:49:01",
+    "time_in_seconds": 6541
+  },
+  {
+    "uuid": "reciw5tjaNhupjA0z",
+    "position": 8,
+    "name": "Kristina Folcik",
+    "year": 2016,
+    "event_date": "2016-10-30T13:00:00.000Z",
+    "time_as_string": "01:13:48",
+    "time_in_seconds": 4428
+  },
+  {
+    "uuid": "rechEq57jDPGPKfnu",
+    "position": 78,
+    "name": "Gaye Ruble",
+    "year": 2016,
+    "event_date": "2016-10-30T13:00:00.000Z",
+    "time_as_string": "03:12:57",
+    "time_in_seconds": 11577
+  },
+  {
+    "uuid": "recg4RYhDW3IKDx09",
+    "position": 76,
+    "name": "Mary Lou White",
+    "year": 2016,
+    "event_date": "2016-10-30T13:00:00.000Z",
+    "time_as_string": "02:52:04",
+    "time_in_seconds": 10324
+  },
+  {
+    "uuid": "recfdMaOWXxzyRDms",
+    "position": 43,
+    "name": "Paul Kirsch",
+    "year": 2016,
+    "event_date": "2016-10-30T13:00:00.000Z",
+    "time_as_string": "01:42:41",
+    "time_in_seconds": 6161
+  },
+  {
+    "uuid": "recfPuOAxBiDXMO2x",
+    "position": 26,
+    "name": "Garry Harrington",
+    "year": 2016,
+    "event_date": "2016-10-30T13:00:00.000Z",
+    "time_as_string": "01:26:34",
+    "time_in_seconds": 5194
+  },
+  {
+    "uuid": "recewvEZPbFrpKRnt",
+    "position": 6,
+    "name": "Jeremiah Macrae-Hawkins",
+    "year": 2016,
+    "event_date": "2016-10-30T13:00:00.000Z",
+    "time_as_string": "01:13:30",
+    "time_in_seconds": 4410
+  },
+  {
+    "uuid": "recefac2w4Ij3tYRN",
+    "position": 51,
+    "name": "Tracey Olafsen",
+    "year": 2016,
+    "event_date": "2016-10-30T13:00:00.000Z",
+    "time_as_string": "01:48:47",
+    "time_in_seconds": 6527
+  },
+  {
+    "uuid": "recchUbV9kYhCFPiw",
+    "position": 44,
+    "name": "Suzanna Smith-Horn",
+    "year": 2016,
+    "event_date": "2016-10-30T13:00:00.000Z",
+    "time_as_string": "01:42:48",
+    "time_in_seconds": 6168
+  },
+  {
+    "uuid": "recaPwc2zg0nSySEt",
+    "position": 70,
+    "name": "Sarah Chesnutt",
+    "year": 2016,
+    "event_date": "2016-10-30T13:00:00.000Z",
+    "time_as_string": "02:28:11",
+    "time_in_seconds": 8891
+  },
+  {
+    "uuid": "recZoe7Em7LyDQeC2",
+    "position": 72,
+    "name": "David Shore",
+    "year": 2016,
+    "event_date": "2016-10-30T13:00:00.000Z",
+    "time_as_string": "02:34:44",
+    "time_in_seconds": 9284
+  },
+  {
+    "uuid": "recZehhkTxupslmL9",
+    "position": 49,
+    "name": "Bridget Freudenberger",
+    "year": 2016,
+    "event_date": "2016-10-30T13:00:00.000Z",
+    "time_as_string": "01:47:15",
+    "time_in_seconds": 6435
+  },
+  {
+    "uuid": "recZA7B1Tka6Z5MWg",
+    "position": 15,
+    "name": "Trevor Burbank",
+    "year": 2016,
+    "event_date": "2016-10-30T13:00:00.000Z",
+    "time_as_string": "01:19:31",
+    "time_in_seconds": 4771
+  },
+  {
+    "uuid": "recYzDDQQmDLr66uF",
+    "position": 58,
+    "name": "Luke Flanders",
+    "year": 2016,
+    "event_date": "2016-10-30T13:00:00.000Z",
+    "time_as_string": "01:59:25",
+    "time_in_seconds": 7165
+  },
+  {
+    "uuid": "recYmRG3VN6JeLaZX",
+    "position": 61,
+    "name": "Nancy Eaton",
+    "year": 2016,
+    "event_date": "2016-10-30T13:00:00.000Z",
+    "time_as_string": "02:11:30",
+    "time_in_seconds": 7890
+  },
+  {
+    "uuid": "recXKYFWlTc91AXqb",
+    "position": 75,
+    "name": "David Ruble",
+    "year": 2016,
+    "event_date": "2016-10-30T13:00:00.000Z",
+    "time_as_string": "02:44:24",
+    "time_in_seconds": 9864
+  },
+  {
+    "uuid": "recWLrHNvtJR49D59",
+    "position": 80,
+    "name": "Suzanne Menard",
+    "year": 2016,
+    "event_date": "2016-10-30T13:00:00.000Z",
+    "time_as_string": "03:14:26",
+    "time_in_seconds": 11666
+  },
+  {
+    "uuid": "recWAClB0l5GA6L1R",
+    "position": 12,
+    "name": "Leslie O&#39;Dell",
+    "year": 2016,
+    "event_date": "2016-10-30T13:00:00.000Z",
+    "time_as_string": "01:18:26",
+    "time_in_seconds": 4706
+  },
+  {
+    "uuid": "recW767o7vlJSWT20",
+    "position": 24,
+    "name": "Paul Bazanchuk",
+    "year": 2016,
+    "event_date": "2016-10-30T13:00:00.000Z",
+    "time_as_string": "01:25:12",
+    "time_in_seconds": 5112
+  },
+  {
+    "uuid": "recVvBoXW95zJQO8q",
+    "position": 47,
+    "name": "Ron Houseman",
+    "year": 2016,
+    "event_date": "2016-10-30T13:00:00.000Z",
+    "time_as_string": "01:43:21",
+    "time_in_seconds": 6201
+  },
+  {
+    "uuid": "recUvXD61CzAw0m3D",
+    "position": 5,
+    "name": "Jerimy Arnold",
+    "year": 2016,
+    "event_date": "2016-10-30T13:00:00.000Z",
+    "time_as_string": "01:13:11",
+    "time_in_seconds": 4391
+  },
+  {
+    "uuid": "recUPO5ai5urEazqd",
+    "position": 13,
+    "name": "Jeff Brooks",
+    "year": 2016,
+    "event_date": "2016-10-30T13:00:00.000Z",
+    "time_as_string": "01:18:53",
+    "time_in_seconds": 4733
+  },
+  {
+    "uuid": "recUHvjHuin6yynPK",
+    "position": 21,
+    "name": "Steve Olafsen",
+    "year": 2016,
+    "event_date": "2016-10-30T13:00:00.000Z",
+    "time_as_string": "01:23:25",
+    "time_in_seconds": 5005
+  },
+  {
+    "uuid": "recRaWK0lKypdcSSO",
+    "position": 18,
+    "name": "Jennifer Johnson",
+    "year": 2016,
+    "event_date": "2016-10-30T13:00:00.000Z",
+    "time_as_string": "01:22:20",
+    "time_in_seconds": 4940
+  },
+  {
+    "uuid": "recQTFSbckXTM3SVM",
+    "position": 69,
+    "name": "Sandy Stott",
+    "year": 2016,
+    "event_date": "2016-10-30T13:00:00.000Z",
+    "time_as_string": "02:21:03",
+    "time_in_seconds": 8463
+  },
+  {
+    "uuid": "recPl7OAKqG0xoKLu",
+    "position": 71,
+    "name": "Katie Zink",
+    "year": 2016,
+    "event_date": "2016-10-30T13:00:00.000Z",
+    "time_as_string": "02:33:06",
+    "time_in_seconds": 9186
+  },
+  {
+    "uuid": "recPPWEf1vtfVBhcC",
+    "position": 32,
+    "name": "Mathew Kinney",
+    "year": 2016,
+    "event_date": "2016-10-30T13:00:00.000Z",
+    "time_as_string": "01:32:46",
+    "time_in_seconds": 5566
+  },
+  {
+    "uuid": "recPJHCpygwZWUynF",
+    "position": 63,
+    "name": "Ashleigh Murphy",
+    "year": 2016,
+    "event_date": "2016-10-30T13:00:00.000Z",
+    "time_as_string": "02:13:14",
+    "time_in_seconds": 7994
+  },
+  {
+    "uuid": "recOTGx57kAz7r5ju",
+    "position": 82,
+    "name": "Mark Santos",
+    "year": 2016,
+    "event_date": "2016-10-30T13:00:00.000Z",
+    "time_as_string": "04:58:12",
+    "time_in_seconds": 17892
+  },
+  {
+    "uuid": "recMGr6kY8VdWuIoo",
+    "position": 23,
+    "name": "Doug Mayer",
+    "year": 2016,
+    "event_date": "2016-10-30T13:00:00.000Z",
+    "time_as_string": "01:24:54",
+    "time_in_seconds": 5094
+  },
+  {
+    "uuid": "recM042SVvDFVL5DE",
+    "position": 65,
+    "name": "Sara Daley",
+    "year": 2016,
+    "event_date": "2016-10-30T13:00:00.000Z",
+    "time_as_string": "02:15:39",
+    "time_in_seconds": 8139
+  },
+  {
+    "uuid": "recLCQde3jVKtwLCh",
+    "position": 1,
+    "name": "Tristan Williams",
+    "year": 2016,
+    "event_date": "2016-10-30T13:00:00.000Z",
+    "time_as_string": "01:04:01",
+    "time_in_seconds": 3841
+  },
+  {
+    "uuid": "recKFo3g519QRk2fR",
+    "position": 82,
+    "name": "P.J. Cyr",
+    "year": 2016,
+    "event_date": "2016-10-30T13:00:00.000Z",
+    "time_as_string": "04:58:12",
+    "time_in_seconds": 17892
+  },
+  {
+    "uuid": "recKAuwLrTURru4Ri",
+    "position": 29,
+    "name": "Jim Siewierski",
+    "year": 2016,
+    "event_date": "2016-10-30T13:00:00.000Z",
+    "time_as_string": "01:30:11",
+    "time_in_seconds": 5411
+  },
+  {
+    "uuid": "recJyebX3SGfNkM4E",
+    "position": 77,
+    "name": "Sarah Clemmitt",
+    "year": 2016,
+    "event_date": "2016-10-30T13:00:00.000Z",
+    "time_as_string": "03:12:55",
+    "time_in_seconds": 11575
+  },
+  {
+    "uuid": "recJrXhbg37lPq7Mx",
+    "position": 19,
+    "name": "Samuel Brown",
+    "year": 2016,
+    "event_date": "2016-10-30T13:00:00.000Z",
+    "time_as_string": "01:22:22",
+    "time_in_seconds": 4942
+  },
+  {
+    "uuid": "recIawMMNorzYc5Lt",
+    "position": 74,
+    "name": "Jeannine Labounty",
+    "year": 2016,
+    "event_date": "2016-10-30T13:00:00.000Z",
+    "time_as_string": "02:36:27",
+    "time_in_seconds": 9387
+  },
+  {
+    "uuid": "recIIDyZ3ImcU1jDj",
+    "position": 3,
+    "name": "Ira Omeara-Costello",
+    "year": 2016,
+    "event_date": "2016-10-30T13:00:00.000Z",
+    "time_as_string": "01:10:23",
+    "time_in_seconds": 4223
+  },
+  {
+    "uuid": "recHsUc2A43h6oKcQ",
+    "position": 64,
+    "name": "Vickie Murphy",
+    "year": 2016,
+    "event_date": "2016-10-30T13:00:00.000Z",
+    "time_as_string": "02:13:15",
+    "time_in_seconds": 7995
+  },
+  {
+    "uuid": "recHqlD1d48YJ2K44",
+    "position": 54,
+    "name": "Ali Rabideau",
+    "year": 2016,
+    "event_date": "2016-10-30T13:00:00.000Z",
+    "time_as_string": "01:53:00",
+    "time_in_seconds": 6780
+  },
+  {
+    "uuid": "recHppn6hnZ6vmDiK",
+    "position": 62,
+    "name": "William Ulwick",
+    "year": 2016,
+    "event_date": "2016-10-30T13:00:00.000Z",
+    "time_as_string": "02:12:55",
+    "time_in_seconds": 7975
+  },
+  {
+    "uuid": "recHhpIbWfAqpAkF5",
+    "position": 22,
+    "name": "Jim Anderson",
+    "year": 2016,
+    "event_date": "2016-10-30T13:00:00.000Z",
+    "time_as_string": "01:24:21",
+    "time_in_seconds": 5061
+  },
+  {
+    "uuid": "recHgV2tSHcyo7bAm",
+    "position": 79,
+    "name": "James Macduff",
+    "year": 2016,
+    "event_date": "2016-10-30T13:00:00.000Z",
+    "time_as_string": "03:14:21",
+    "time_in_seconds": 11661
+  },
+  {
+    "uuid": "recHGRh8HZJrMahZN",
+    "position": 31,
+    "name": "Soren Monroe-Anderson",
+    "year": 2016,
+    "event_date": "2016-10-30T13:00:00.000Z",
+    "time_as_string": "01:31:14",
+    "time_in_seconds": 5474
+  },
+  {
+    "uuid": "recG5Lj1x3pKXOAKG",
+    "position": 34,
+    "name": "Chris Sheehan",
+    "year": 2016,
+    "event_date": "2016-10-30T13:00:00.000Z",
+    "time_as_string": "01:33:47",
+    "time_in_seconds": 5627
+  },
+  {
+    "uuid": "recFi5dum2WIUwgaL",
+    "position": 36,
+    "name": "Erik Froburg",
+    "year": 2016,
+    "event_date": "2016-10-30T13:00:00.000Z",
+    "time_as_string": "01:36:16",
+    "time_in_seconds": 5776
+  },
+  {
+    "uuid": "recF2hnlrR2OXjUly",
+    "position": 27,
+    "name": "Jeff List",
+    "year": 2016,
+    "event_date": "2016-10-30T13:00:00.000Z",
+    "time_as_string": "01:27:03",
+    "time_in_seconds": 5223
+  },
+  {
+    "uuid": "recExhmvs6ISOrUnD",
+    "position": 60,
+    "name": "Carl Nadeau",
+    "year": 2016,
+    "event_date": "2016-10-30T13:00:00.000Z",
+    "time_as_string": "02:09:36",
+    "time_in_seconds": 7776
+  },
+  {
+    "uuid": "recEYxlke8eYSMeJZ",
+    "position": 55,
+    "name": "Celine Pichette",
+    "year": 2016,
+    "event_date": "2016-10-30T13:00:00.000Z",
+    "time_as_string": "01:53:02",
+    "time_in_seconds": 6782
+  },
+  {
+    "uuid": "recEAb6cz4e5EvB6K",
+    "position": 2,
+    "name": "Jeff Colt",
+    "year": 2016,
+    "event_date": "2016-10-30T13:00:00.000Z",
+    "time_as_string": "01:08:21",
+    "time_in_seconds": 4101
+  },
+  {
+    "uuid": "recDiSqevppR10LZR",
+    "position": 11,
+    "name": "Odd Bersvendsen",
+    "year": 2016,
+    "event_date": "2016-10-30T13:00:00.000Z",
+    "time_as_string": "01:17:04",
+    "time_in_seconds": 4624
+  },
+  {
+    "uuid": "recD35U7F2T2oEXgs",
+    "position": 48,
+    "name": "J.T. Horn",
+    "year": 2016,
+    "event_date": "2016-10-30T13:00:00.000Z",
+    "time_as_string": "01:44:59",
+    "time_in_seconds": 6299
+  },
+  {
+    "uuid": "recBUWkPLAu8UBP3h",
+    "position": 39,
+    "name": "Gavin Graham",
+    "year": 2016,
+    "event_date": "2016-10-30T13:00:00.000Z",
+    "time_as_string": "01:39:10",
+    "time_in_seconds": 5950
+  },
+  {
+    "uuid": "recAvunGLoGgj8OYF",
+    "position": 9,
+    "name": "Peter Howe",
+    "year": 2016,
+    "event_date": "2016-10-30T13:00:00.000Z",
+    "time_as_string": "01:14:29",
+    "time_in_seconds": 4469
+  },
+  {
+    "uuid": "recAQEw5fhB2cZqGp",
+    "position": 67,
+    "name": "Lynne Ainsworth",
+    "year": 2016,
+    "event_date": "2016-10-30T13:00:00.000Z",
+    "time_as_string": "02:18:18",
+    "time_in_seconds": 8298
+  },
+  {
+    "uuid": "rec9cA6rIVmdBYf0G",
+    "position": 16,
+    "name": "Taylor Scott Berkley",
+    "year": 2016,
+    "event_date": "2016-10-30T13:00:00.000Z",
+    "time_as_string": "01:20:32",
+    "time_in_seconds": 4832
+  },
+  {
+    "uuid": "rec9GNiCvXEgAyYpY",
+    "position": 17,
+    "name": "John Paul Krol",
+    "year": 2016,
+    "event_date": "2016-10-30T13:00:00.000Z",
+    "time_as_string": "01:21:12",
+    "time_in_seconds": 4872
+  },
+  {
+    "uuid": "rec90ZmZdaZ0xku7r",
+    "position": 45,
+    "name": "Jim Graham",
+    "year": 2016,
+    "event_date": "2016-10-30T13:00:00.000Z",
+    "time_as_string": "01:42:59",
+    "time_in_seconds": 6179
+  },
+  {
+    "uuid": "rec6YclB2ZitWhz7R",
+    "position": 37,
+    "name": "Julianne Gadoury",
+    "year": 2016,
+    "event_date": "2016-10-30T13:00:00.000Z",
+    "time_as_string": "01:38:01",
+    "time_in_seconds": 5881
+  },
+  {
+    "uuid": "rec4Q49MitkhwZr9A",
+    "position": 10,
+    "name": "Gabriel Flanders",
+    "year": 2016,
+    "event_date": "2016-10-30T13:00:00.000Z",
+    "time_as_string": "01:15:40",
+    "time_in_seconds": 4540
+  },
+  {
+    "uuid": "rec3I44VWT9T8wzlZ",
+    "position": 57,
+    "name": "Ewa Johnson",
+    "year": 2016,
+    "event_date": "2016-10-30T13:00:00.000Z",
+    "time_as_string": "01:55:33",
+    "time_in_seconds": 6933
+  },
+  {
+    "uuid": "rec2wL4rc979QLZ92",
+    "position": 4,
+    "name": "Rowan Kamman",
+    "year": 2016,
+    "event_date": "2016-10-30T13:00:00.000Z",
+    "time_as_string": "01:12:18",
+    "time_in_seconds": 4338
+  },
+  {
+    "uuid": "rec2boWpAc7l0WQVi",
+    "position": 81,
+    "name": "Richard White",
+    "year": 2016,
+    "event_date": "2016-10-30T13:00:00.000Z",
+    "time_as_string": "03:30:45",
+    "time_in_seconds": 12645
+  },
+  {
+    "uuid": "rec23ZDwssUz22XRv",
+    "position": 38,
+    "name": "William Pappas",
+    "year": 2016,
+    "event_date": "2016-10-30T13:00:00.000Z",
+    "time_as_string": "01:38:24",
+    "time_in_seconds": 5904
+  },
+  {
+    "uuid": "rec0KxsLBRZ1bNogm",
+    "position": 46,
+    "name": "Matt Gordon",
+    "year": 2016,
+    "event_date": "2016-10-30T13:00:00.000Z",
+    "time_as_string": "01:43:01",
+    "time_in_seconds": 6181
+  },
+  {
+    "uuid": "reczerzS7lIwCknSm",
+    "position": 33,
+    "name": "Ben Wilcox",
+    "year": 2015,
+    "event_date": "2015-11-01T15:00:00.000Z",
+    "time_as_string": "01:36:40",
+    "time_in_seconds": 5800
+  },
+  {
+    "uuid": "reczZXOlU2tIo7SBx",
+    "position": 32,
+    "name": "Suzanna Smith-Horn",
+    "year": 2015,
+    "event_date": "2015-11-01T15:00:00.000Z",
+    "time_as_string": "01:36:05",
+    "time_in_seconds": 5765
+  },
+  {
+    "uuid": "recyD3HAnuSeALgM6",
+    "position": 46,
+    "name": "David Singerman",
+    "year": 2015,
+    "event_date": "2015-11-01T15:00:00.000Z",
+    "time_as_string": "01:42:47",
+    "time_in_seconds": 6167
+  },
+  {
+    "uuid": "recyAl3rcuPbvboUs",
+    "position": 55,
+    "name": "Bruce Hill",
+    "year": 2015,
+    "event_date": "2015-11-01T15:00:00.000Z",
+    "time_as_string": "01:50:00",
+    "time_in_seconds": 6600
+  },
+  {
+    "uuid": "recxjYexCMIUh2jSH",
+    "position": 37,
+    "name": "Jim Graham",
+    "year": 2015,
+    "event_date": "2015-11-01T15:00:00.000Z",
+    "time_as_string": "01:38:38",
+    "time_in_seconds": 5918
+  },
+  {
+    "uuid": "recx9DreiZOneOW6H",
+    "position": 47,
+    "name": "Michael Pelchat",
+    "year": 2015,
+    "event_date": "2015-11-01T15:00:00.000Z",
+    "time_as_string": "01:43:01",
+    "time_in_seconds": 6181
+  },
+  {
+    "uuid": "recwErH3RORBtDnFh",
+    "position": 24,
+    "name": "Chris Barstow",
+    "year": 2015,
+    "event_date": "2015-11-01T15:00:00.000Z",
+    "time_as_string": "01:28:12",
+    "time_in_seconds": 5292
+  },
+  {
+    "uuid": "recuxHWbiRj2IcU1c",
+    "position": 2,
+    "name": "Tristan Williams",
+    "year": 2015,
+    "event_date": "2015-11-01T15:00:00.000Z",
+    "time_as_string": "00:59:01",
+    "time_in_seconds": 3541
+  },
+  {
+    "uuid": "recubsJ2WERJzwYt1",
+    "position": 76,
+    "name": "Sandy Harris",
+    "year": 2015,
+    "event_date": "2015-11-01T15:00:00.000Z",
+    "time_as_string": "02:39:13",
+    "time_in_seconds": 9553
+  },
+  {
+    "uuid": "rectZLPRVnHd22ZtT",
+    "position": 25,
+    "name": "Joe Cormier",
+    "year": 2015,
+    "event_date": "2015-11-01T15:00:00.000Z",
+    "time_as_string": "01:28:49",
+    "time_in_seconds": 5329
+  },
+  {
+    "uuid": "recskBURxJBPr6epT",
+    "position": 11,
+    "name": "Leah Hart",
+    "year": 2015,
+    "event_date": "2015-11-01T15:00:00.000Z",
+    "time_as_string": "01:14:25",
+    "time_in_seconds": 4465
+  },
+  {
+    "uuid": "recsiXarFpVQXy8J3",
+    "position": 41,
+    "name": "Samantha Leblanc",
+    "year": 2015,
+    "event_date": "2015-11-01T15:00:00.000Z",
+    "time_as_string": "01:41:24",
+    "time_in_seconds": 6084
+  },
+  {
+    "uuid": "recrnP0jwDksW6DMA",
+    "position": 40,
+    "name": "Salvatore Dichiara",
+    "year": 2015,
+    "event_date": "2015-11-01T15:00:00.000Z",
+    "time_as_string": "01:40:21",
+    "time_in_seconds": 6021
+  },
+  {
+    "uuid": "recqxjrHYseburxJs",
+    "position": 56,
+    "name": "Elizabeth Wyman",
+    "year": 2015,
+    "event_date": "2015-11-01T15:00:00.000Z",
+    "time_as_string": "01:50:29",
+    "time_in_seconds": 6629
+  },
+  {
+    "uuid": "recqfwdcQaNB0klNf",
+    "position": 5,
+    "name": "Gabriel Flanders",
+    "year": 2015,
+    "event_date": "2015-11-01T15:00:00.000Z",
+    "time_as_string": "01:08:42",
+    "time_in_seconds": 4122
+  },
+  {
+    "uuid": "recqJcFLOgiPAeu5r",
+    "position": 6,
+    "name": "Ryan Welts",
+    "year": 2015,
+    "event_date": "2015-11-01T15:00:00.000Z",
+    "time_as_string": "01:10:11",
+    "time_in_seconds": 4211
+  },
+  {
+    "uuid": "recqDO8BikzlhK1Og",
+    "position": 28,
+    "name": "Deborah Miller",
+    "year": 2015,
+    "event_date": "2015-11-01T15:00:00.000Z",
+    "time_as_string": "01:30:37",
+    "time_in_seconds": 5437
+  },
+  {
+    "uuid": "recppEuZwt91ZKCBN",
+    "position": 54,
+    "name": "Arthur Viens",
+    "year": 2015,
+    "event_date": "2015-11-01T15:00:00.000Z",
+    "time_as_string": "01:48:54",
+    "time_in_seconds": 6534
+  },
+  {
+    "uuid": "recpRL6YnQMMyRGHA",
+    "position": 79,
+    "name": "Steven Hartman",
+    "year": 2015,
+    "event_date": "2015-11-01T15:00:00.000Z",
+    "time_as_string": "03:10:29",
+    "time_in_seconds": 11429
+  },
+  {
+    "uuid": "recpEhzyOZGukJY01",
+    "position": 26,
+    "name": "Ronald Robichaud",
+    "year": 2015,
+    "event_date": "2015-11-01T15:00:00.000Z",
+    "time_as_string": "01:29:05",
+    "time_in_seconds": 5345
+  },
+  {
+    "uuid": "recolkx2aJuOG5N5H",
+    "position": 64,
+    "name": "Linda Bittner",
+    "year": 2015,
+    "event_date": "2015-11-01T15:00:00.000Z",
+    "time_as_string": "02:03:57",
+    "time_in_seconds": 7437
+  },
+  {
+    "uuid": "recmt0JLLDdbxfQkt",
+    "position": 14,
+    "name": "Doug Mayer",
+    "year": 2015,
+    "event_date": "2015-11-01T15:00:00.000Z",
+    "time_as_string": "01:17:16",
+    "time_in_seconds": 4636
+  },
+  {
+    "uuid": "recm9HjN0ATfSjGCu",
+    "position": 79,
+    "name": "Wendy Walsh",
+    "year": 2015,
+    "event_date": "2015-11-01T15:00:00.000Z",
+    "time_as_string": "03:10:29",
+    "time_in_seconds": 11429
+  },
+  {
+    "uuid": "reclxlRD6VJkYXG2R",
+    "position": 69,
+    "name": "Jennifer Marts",
+    "year": 2015,
+    "event_date": "2015-11-01T15:00:00.000Z",
+    "time_as_string": "02:21:09",
+    "time_in_seconds": 8469
+  },
+  {
+    "uuid": "reclbg9XOoxUgJ8GS",
+    "position": 7,
+    "name": "Jerimy Arnold",
+    "year": 2015,
+    "event_date": "2015-11-01T15:00:00.000Z",
+    "time_as_string": "01:11:30",
+    "time_in_seconds": 4290
+  },
+  {
+    "uuid": "reclGaJwQIU9ud4pJ",
+    "position": 31,
+    "name": "Myron Kibbee",
+    "year": 2015,
+    "event_date": "2015-11-01T15:00:00.000Z",
+    "time_as_string": "01:33:55",
+    "time_in_seconds": 5635
+  },
+  {
+    "uuid": "reclG4owcGWlGEttV",
+    "position": 18,
+    "name": "Daniel Doherty",
+    "year": 2015,
+    "event_date": "2015-11-01T15:00:00.000Z",
+    "time_as_string": "01:20:23",
+    "time_in_seconds": 4823
+  },
+  {
+    "uuid": "recl7RKnHdlvkbwvB",
+    "position": 21,
+    "name": "Caterina Scaramelli",
+    "year": 2015,
+    "event_date": "2015-11-01T15:00:00.000Z",
+    "time_as_string": "01:23:33",
+    "time_in_seconds": 5013
+  },
+  {
+    "uuid": "reckEyTSLAqoNa9rP",
+    "position": 36,
+    "name": "David McDermott",
+    "year": 2015,
+    "event_date": "2015-11-01T15:00:00.000Z",
+    "time_as_string": "01:37:58",
+    "time_in_seconds": 5878
+  },
+  {
+    "uuid": "reckDSoiyOMENFHOJ",
+    "position": 74,
+    "name": "Danielle Shuler",
+    "year": 2015,
+    "event_date": "2015-11-01T15:00:00.000Z",
+    "time_as_string": "02:33:08",
+    "time_in_seconds": 9188
+  },
+  {
+    "uuid": "recjbT9gOnQVACkZt",
+    "position": 39,
+    "name": "Pete Brocket",
+    "year": 2015,
+    "event_date": "2015-11-01T15:00:00.000Z",
+    "time_as_string": "01:39:51",
+    "time_in_seconds": 5991
+  },
+  {
+    "uuid": "recisNFpI6qwjxscA",
+    "position": 44,
+    "name": "Steve Lapointe",
+    "year": 2015,
+    "event_date": "2015-11-01T15:00:00.000Z",
+    "time_as_string": "01:42:38",
+    "time_in_seconds": 6158
+  },
+  {
+    "uuid": "recin1ZIkjASi3qAB",
+    "position": 65,
+    "name": "Irene Grace Garvey",
+    "year": 2015,
+    "event_date": "2015-11-01T15:00:00.000Z",
+    "time_as_string": "02:06:09",
+    "time_in_seconds": 7569
+  },
+  {
+    "uuid": "recgUslsQNi6Guysm",
+    "position": 45,
+    "name": "Mary Kuhn",
+    "year": 2015,
+    "event_date": "2015-11-01T15:00:00.000Z",
+    "time_as_string": "01:42:43",
+    "time_in_seconds": 6163
+  },
+  {
+    "uuid": "recegm896F8EDKhwY",
+    "position": 67,
+    "name": "Elaine Dill",
+    "year": 2015,
+    "event_date": "2015-11-01T15:00:00.000Z",
+    "time_as_string": "02:12:07",
+    "time_in_seconds": 7927
+  },
+  {
+    "uuid": "recdz2VQxNvsRhhKK",
+    "position": 75,
+    "name": "Todd Moore",
+    "year": 2015,
+    "event_date": "2015-11-01T15:00:00.000Z",
+    "time_as_string": "02:36:12",
+    "time_in_seconds": 9372
+  },
+  {
+    "uuid": "recdDMBGxToDz9SLw",
+    "position": 4,
+    "name": "Jeremiah Macrae-Hawkins",
+    "year": 2015,
+    "event_date": "2015-11-01T15:00:00.000Z",
+    "time_as_string": "01:07:41",
+    "time_in_seconds": 4061
+  },
+  {
+    "uuid": "recdBvN2oKJsLbBOD",
+    "position": 10,
+    "name": "Andrew Doherty",
+    "year": 2015,
+    "event_date": "2015-11-01T15:00:00.000Z",
+    "time_as_string": "01:13:18",
+    "time_in_seconds": 4398
+  },
+  {
+    "uuid": "recd8bbMRH5zy7Gqi",
+    "position": 50,
+    "name": "Alana Scannell",
+    "year": 2015,
+    "event_date": "2015-11-01T15:00:00.000Z",
+    "time_as_string": "01:43:45",
+    "time_in_seconds": 6225
+  },
+  {
+    "uuid": "recd8DEZNjNd5qBHC",
+    "position": 9,
+    "name": "Odd Bersvendsen",
+    "year": 2015,
+    "event_date": "2015-11-01T15:00:00.000Z",
+    "time_as_string": "01:13:04",
+    "time_in_seconds": 4384
+  },
+  {
+    "uuid": "reccvvoDU9coKdTxK",
+    "position": 13,
+    "name": "Marcelo Maiorano",
+    "year": 2015,
+    "event_date": "2015-11-01T15:00:00.000Z",
+    "time_as_string": "01:15:39",
+    "time_in_seconds": 4539
+  },
+  {
+    "uuid": "recY64M4XScu6KGGl",
+    "position": 62,
+    "name": "Eric Libner",
+    "year": 2015,
+    "event_date": "2015-11-01T15:00:00.000Z",
+    "time_as_string": "01:59:02",
+    "time_in_seconds": 7142
+  },
+  {
+    "uuid": "recWOXeZwhuUDfTUM",
+    "position": 58,
+    "name": "Craig Mealmaker",
+    "year": 2015,
+    "event_date": "2015-11-01T15:00:00.000Z",
+    "time_as_string": "01:54:32",
+    "time_in_seconds": 6872
+  },
+  {
+    "uuid": "recVv5aZ93SDfMhmQ",
+    "position": 50,
+    "name": "Katie Burkley",
+    "year": 2015,
+    "event_date": "2015-11-01T15:00:00.000Z",
+    "time_as_string": "01:43:45",
+    "time_in_seconds": 6225
+  },
+  {
+    "uuid": "recVp8OoaMnW2DrKz",
+    "position": 73,
+    "name": "Stephanie Lilly",
+    "year": 2015,
+    "event_date": "2015-11-01T15:00:00.000Z",
+    "time_as_string": "02:32:32",
+    "time_in_seconds": 9152
+  },
+  {
+    "uuid": "recVBJoSaKVAGTWmG",
+    "position": 78,
+    "name": "Madeleine Ryan",
+    "year": 2015,
+    "event_date": "2015-11-01T15:00:00.000Z",
+    "time_as_string": "02:56:07",
+    "time_in_seconds": 10567
+  },
+  {
+    "uuid": "recTZ84TkVgbb4Lg4",
+    "position": 20,
+    "name": "Kathleen Maynard",
+    "year": 2015,
+    "event_date": "2015-11-01T15:00:00.000Z",
+    "time_as_string": "01:23:31",
+    "time_in_seconds": 5011
+  },
+  {
+    "uuid": "recTHdcnHUOlD0v1M",
+    "position": 16,
+    "name": "Bob Arsenault",
+    "year": 2015,
+    "event_date": "2015-11-01T15:00:00.000Z",
+    "time_as_string": "01:18:46",
+    "time_in_seconds": 4726
+  },
+  {
+    "uuid": "recSpyh3jO8IaNRk0",
+    "position": 68,
+    "name": "Kathleen Mitchell Johnson",
+    "year": 2015,
+    "event_date": "2015-11-01T15:00:00.000Z",
+    "time_as_string": "02:14:02",
+    "time_in_seconds": 8042
+  },
+  {
+    "uuid": "recShsak8dkQeRqu8",
+    "position": 63,
+    "name": "Mary Scallion",
+    "year": 2015,
+    "event_date": "2015-11-01T15:00:00.000Z",
+    "time_as_string": "01:59:16",
+    "time_in_seconds": 7156
+  },
+  {
+    "uuid": "recRwwhdFaNn9EVpJ",
+    "position": 34,
+    "name": "Myles Chouinard",
+    "year": 2015,
+    "event_date": "2015-11-01T15:00:00.000Z",
+    "time_as_string": "01:36:49",
+    "time_in_seconds": 5809
+  },
+  {
+    "uuid": "recRmLdUgg1SsjBPU",
+    "position": 57,
+    "name": "Ellen Chandler",
+    "year": 2015,
+    "event_date": "2015-11-01T15:00:00.000Z",
+    "time_as_string": "01:53:03",
+    "time_in_seconds": 6783
+  },
+  {
+    "uuid": "recRb0IHXvv08dZYV",
+    "position": 8,
+    "name": "Robert Haran",
+    "year": 2015,
+    "event_date": "2015-11-01T15:00:00.000Z",
+    "time_as_string": "01:11:51",
+    "time_in_seconds": 4311
+  },
+  {
+    "uuid": "recQXDrqIZ8ZbsP4d",
+    "position": 72,
+    "name": "Beth Krusi",
+    "year": 2015,
+    "event_date": "2015-11-01T15:00:00.000Z",
+    "time_as_string": "02:24:51",
+    "time_in_seconds": 8691
+  },
+  {
+    "uuid": "recPy2EOF2FDcfOlU",
+    "position": 22,
+    "name": "Tobey Reynolds",
+    "year": 2015,
+    "event_date": "2015-11-01T15:00:00.000Z",
+    "time_as_string": "01:26:45",
+    "time_in_seconds": 5205
+  },
+  {
+    "uuid": "recPDTSLlOVbgYWTn",
+    "position": 77,
+    "name": "Sally Micucci",
+    "year": 2015,
+    "event_date": "2015-11-01T15:00:00.000Z",
+    "time_as_string": "02:45:36",
+    "time_in_seconds": 9936
+  },
+  {
+    "uuid": "recORbwvARSdhSQdY",
+    "position": 71,
+    "name": "Angela Lanzillo",
+    "year": 2015,
+    "event_date": "2015-11-01T15:00:00.000Z",
+    "time_as_string": "02:22:45",
+    "time_in_seconds": 8565
+  },
+  {
+    "uuid": "recMy9oo7PWd5PWKt",
+    "position": 60,
+    "name": "Jeff Leblanc",
+    "year": 2015,
+    "event_date": "2015-11-01T15:00:00.000Z",
+    "time_as_string": "01:56:28",
+    "time_in_seconds": 6988
+  },
+  {
+    "uuid": "recMhptuGDJDXD12C",
+    "position": 19,
+    "name": "Christopher Shipley",
+    "year": 2015,
+    "event_date": "2015-11-01T15:00:00.000Z",
+    "time_as_string": "01:20:42",
+    "time_in_seconds": 4842
+  },
+  {
+    "uuid": "recKFkvYzDevCpl3o",
+    "position": 38,
+    "name": "Rob Hamel",
+    "year": 2015,
+    "event_date": "2015-11-01T15:00:00.000Z",
+    "time_as_string": "01:38:49",
+    "time_in_seconds": 5929
+  },
+  {
+    "uuid": "recJAV1PlYvCHw64D",
+    "position": 70,
+    "name": "Tami Carpentiere",
+    "year": 2015,
+    "event_date": "2015-11-01T15:00:00.000Z",
+    "time_as_string": "02:21:10",
+    "time_in_seconds": 8470
+  },
+  {
+    "uuid": "recIFIL4DOgSQiUpl",
+    "position": 48,
+    "name": "Celine Pichette",
+    "year": 2015,
+    "event_date": "2015-11-01T15:00:00.000Z",
+    "time_as_string": "01:43:23",
+    "time_in_seconds": 6203
+  },
+  {
+    "uuid": "recHtmqNsoJtH4Eb4",
+    "position": 81,
+    "name": "Carol Viens",
+    "year": 2015,
+    "event_date": "2015-11-01T15:00:00.000Z",
+    "time_as_string": "03:14:29",
+    "time_in_seconds": 11669
+  },
+  {
+    "uuid": "recGQCcW4Yiq6uSZe",
+    "position": 30,
+    "name": "J.T. Horn",
+    "year": 2015,
+    "event_date": "2015-11-01T15:00:00.000Z",
+    "time_as_string": "01:32:29",
+    "time_in_seconds": 5549
+  },
+  {
+    "uuid": "recFf0TnVWK8a3q2C",
+    "position": 1,
+    "name": "Josh Ferenc",
+    "year": 2015,
+    "event_date": "2015-11-01T15:00:00.000Z",
+    "time_as_string": "00:58:05",
+    "time_in_seconds": 3485
+  },
+  {
+    "uuid": "recFSrKPXUgToCZZs",
+    "position": 12,
+    "name": "John Paul Krol",
+    "year": 2015,
+    "event_date": "2015-11-01T15:00:00.000Z",
+    "time_as_string": "01:14:47",
+    "time_in_seconds": 4487
+  },
+  {
+    "uuid": "recCP1LmpXIxYx3Gd",
+    "position": 28,
+    "name": "Jonathan Miller",
+    "year": 2015,
+    "event_date": "2015-11-01T15:00:00.000Z",
+    "time_as_string": "01:30:37",
+    "time_in_seconds": 5437
+  },
+  {
+    "uuid": "recBsRD6rc92dCKYZ",
+    "position": 43,
+    "name": "Jeffrey Marts",
+    "year": 2015,
+    "event_date": "2015-11-01T15:00:00.000Z",
+    "time_as_string": "01:42:35",
+    "time_in_seconds": 6155
+  },
+  {
+    "uuid": "recBlN7QCEML6ZxXF",
+    "position": 42,
+    "name": "Lori Emery",
+    "year": 2015,
+    "event_date": "2015-11-01T15:00:00.000Z",
+    "time_as_string": "01:41:34",
+    "time_in_seconds": 6094
+  },
+  {
+    "uuid": "recBVS3sWtKiIsreX",
+    "position": 3,
+    "name": "Jordan Cargill",
+    "year": 2015,
+    "event_date": "2015-11-01T15:00:00.000Z",
+    "time_as_string": "01:03:59",
+    "time_in_seconds": 3839
+  },
+  {
+    "uuid": "recAc3mXEoJ5UWCzY",
+    "position": 35,
+    "name": "Ryan Donahue",
+    "year": 2015,
+    "event_date": "2015-11-01T15:00:00.000Z",
+    "time_as_string": "01:36:51",
+    "time_in_seconds": 5811
+  },
+  {
+    "uuid": "rec905w3QRPI9G8eY",
+    "position": 53,
+    "name": "Maartje Bastings",
+    "year": 2015,
+    "event_date": "2015-11-01T15:00:00.000Z",
+    "time_as_string": "01:48:13",
+    "time_in_seconds": 6493
+  },
+  {
+    "uuid": "rec8Yptf8rUou9aRk",
+    "position": 66,
+    "name": "Carl Nadeau",
+    "year": 2015,
+    "event_date": "2015-11-01T15:00:00.000Z",
+    "time_as_string": "02:06:58",
+    "time_in_seconds": 7618
+  },
+  {
+    "uuid": "rec7c4Y7YWFNkE7Ds",
+    "position": 49,
+    "name": "Sadiemae Palmatier",
+    "year": 2015,
+    "event_date": "2015-11-01T15:00:00.000Z",
+    "time_as_string": "01:43:24",
+    "time_in_seconds": 6204
+  },
+  {
+    "uuid": "rec6mVfi47vXg3elZ",
+    "position": 23,
+    "name": "Jackson Hawkins",
+    "year": 2015,
+    "event_date": "2015-11-01T15:00:00.000Z",
+    "time_as_string": "01:27:59",
+    "time_in_seconds": 5279
+  },
+  {
+    "uuid": "rec4Ti7B6FCgu29Fj",
+    "position": 15,
+    "name": "Meg Skidmore",
+    "year": 2015,
+    "event_date": "2015-11-01T15:00:00.000Z",
+    "time_as_string": "01:18:45",
+    "time_in_seconds": 4725
+  },
+  {
+    "uuid": "rec3gXBUvr26TXeoV",
+    "position": 52,
+    "name": "Rebecca Kibbee",
+    "year": 2015,
+    "event_date": "2015-11-01T15:00:00.000Z",
+    "time_as_string": "01:47:32",
+    "time_in_seconds": 6452
+  },
+  {
+    "uuid": "rec2IvDAKyHphYRmR",
+    "position": 27,
+    "name": "Scott Gordon",
+    "year": 2015,
+    "event_date": "2015-11-01T15:00:00.000Z",
+    "time_as_string": "01:30:13",
+    "time_in_seconds": 5413
+  },
+  {
+    "uuid": "rec10H7MFDMJVssK6",
+    "position": 61,
+    "name": "William Ulwick",
+    "year": 2015,
+    "event_date": "2015-11-01T15:00:00.000Z",
+    "time_as_string": "01:58:29",
+    "time_in_seconds": 7109
+  },
+  {
+    "uuid": "rec0YgAaYiyZpooev",
+    "position": 17,
+    "name": "Brad Clark",
+    "year": 2015,
+    "event_date": "2015-11-01T15:00:00.000Z",
+    "time_as_string": "01:19:33",
+    "time_in_seconds": 4773
+  },
+  {
+    "uuid": "rec0ABAMwAw0aRqm6",
+    "position": 59,
+    "name": "Brian Behr",
+    "year": 2015,
+    "event_date": "2015-11-01T15:00:00.000Z",
+    "time_as_string": "01:55:34",
+    "time_in_seconds": 6934
+  }
+]

@@ -1,7 +1,7 @@
 require("dotenv").config();
 const htmlmin = require("html-minifier");
 const CleanCSS = require("clean-css");
-const slugify = require("slugify");
+const isProduction = process.env.ELEVENTY_ENV === `production`;
 const { EleventyRenderPlugin } = require("@11ty/eleventy");
 
 module.exports = function(eleventyConfig) {
@@ -40,7 +40,7 @@ module.exports = function(eleventyConfig) {
   // Minify HTML Output
   eleventyConfig.addTransform("htmlmin", function(content, outputPath) {
     // Eleventy 1.0+: use this.inputPath and this.outputPath instead
-    if( outputPath && outputPath.endsWith(".html") ) {
+    if( isProduction && outputPath && outputPath.endsWith(".html") ) {
       let minified = htmlmin.minify(content, {
         useShortDoctype: true,
         removeComments: true,
@@ -52,10 +52,6 @@ module.exports = function(eleventyConfig) {
   });
 
   return {
-    addPassthroughCopy: true,
-    templateFormats: ["njk", "md"],
-    htmlTemplateEngine: "njk",
-    markdownTemplateEngine: "njk",
     dir: {
       input: "src",
       output: "public",
