@@ -27,7 +27,7 @@ sponsors:
     logo_file: "/images/coos-timberframe.jpg"
     logo_width: 400
     logo_height: 334
-    link: "ttps://www.facebook.com/Coos-Timberframe-116386395686535/"
+    link: "https://www.facebook.com/Coos-Timberframe-116386395686535/"
   - name: "The Endurance Drive"
     logo_file: "/images/the-endurance-drive.jpg"
     logo_width: 400
@@ -37,7 +37,7 @@ sponsors:
     logo_file: "/images/boreal-chick.png"
     logo_width: 1048
     logo_height: 200
-    link: "ttps://www.facebook.com/BorealchickDesigns"
+    link: "https://www.facebook.com/BorealchickDesigns"
   - name: "Mount Adams Challenge"
     logo_file: "/images/mac-logo-300x290.jpg"
     logo_width: 300
