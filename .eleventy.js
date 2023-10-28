@@ -20,6 +20,13 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy("./src/favicon.ico");
   eleventyConfig.addPassthroughCopy("./src/images");
 
+  eleventyConfig.addFilter("excludeByField", (array, field, value) => {
+    return array.filter(item => item[field] !== value);
+  });
+
+  eleventyConfig.addFilter("excludeByValue", (array, value) => {
+    return array.filter(item => item !== value);
+  });
 
   // Helper to sort pages collection by frontmatter "order"
   eleventyConfig.addCollection("orderedPages", function (collection) {

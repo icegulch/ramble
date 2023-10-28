@@ -237,6 +237,11 @@ h6 {
   font-weight: 300;
 }
 
+.results-header dl {
+  display: flex;
+  gap: 0.5rem;
+}
+
 table {
   border-collapse: collapse;
   width: 100%;
