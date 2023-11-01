@@ -28,7 +28,7 @@
   },
   {
     "uuid": "recvu9KWcEDWR91b0",
-    "position": 50,
+    "position": 51,
     "name": "Daniel Duan",
     "year": 2022,
     "event_date": "2022-10-22T14:00:00.000Z",
@@ -437,7 +437,7 @@
     "name": "Nathan Hjort",
     "year": 2022,
     "event_date": "2022-10-22T14:00:00.000Z",
-    "time_as_string": "01:21:22",
+    "time_as_string": "01:51:22",
     "time_in_seconds": 33682
   },
   {
@@ -608,7 +608,7 @@
     "name": "Jeff Walker",
     "year": 2022,
     "event_date": "2022-10-22T14:00:00.000Z",
-    "time_as_string": "01:41:18",
+    "time_as_string": "01:11:18",
     "time_in_seconds": 9678
   },
   {
