@@ -3886,5 +3886,306 @@
     "event_date": "2015-11-01T15:00:00.000Z",
     "time_as_string": "01:55:34",
     "time_in_seconds": 6934
+  },
+  {
+    "name": "Brent Underkoffler",
+    "position": 1,
+    "time_as_string": "1:01:48",
+    "year": 2023,
+    "event_date": "2023-10-28T14:00:00.000Z"
+  },
+  {
+    "name": "Tristan Williams",
+    "position": 2,
+    "time_as_string": "1:02:06",
+    "year": 2023,
+    "event_date": "2023-10-28T14:00:00.000Z"
+  },
+  {
+    "name": "Jereme Leafe",
+    "position": 3,
+    "time_as_string": "1:02:30",
+    "year": 2023,
+    "event_date": "2023-10-28T14:00:00.000Z"
+  },
+  {
+    "name": "Matthew Goff",
+    "position": 4,
+    "time_as_string": "1:12:22",
+    "year": 2023,
+    "event_date": "2023-10-28T14:00:00.000Z"
+  },
+  {
+    "name": "Jackson Hawkins",
+    "position": 5,
+    "time_as_string": "1:13:00",
+    "year": 2023,
+    "event_date": "2023-10-28T14:00:00.000Z"
+  },
+  {
+    "name": "Brian Byrne",
+    "position": 6,
+    "time_as_string": "1:13:09",
+    "year": 2023,
+    "event_date": "2023-10-28T14:00:00.000Z"
+  },
+  {
+    "name": "John Plummer",
+    "position": 7,
+    "time_as_string": "1:13:57",
+    "year": 2023,
+    "event_date": "2023-10-28T14:00:00.000Z"
+  },
+  {
+    "name": "Andrew Macleod",
+    "position": 8,
+    "time_as_string": "1:14:09",
+    "year": 2023,
+    "event_date": "2023-10-28T14:00:00.000Z"
+  },
+  {
+    "name": "Lincoln Benedict",
+    "position": 9,
+    "time_as_string": "1:15:07",
+    "year": 2023,
+    "event_date": "2023-10-28T14:00:00.000Z"
+  },
+  {
+    "name": "Marc Almanzan",
+    "position": 10,
+    "time_as_string": "1:17:31",
+    "year": 2023,
+    "event_date": "2023-10-28T14:00:00.000Z"
+  },
+  {
+    "name": "Derek Pickell",
+    "position": 11,
+    "time_as_string": "1:19:48",
+    "year": 2023,
+    "event_date": "2023-10-28T14:00:00.000Z"
+  },
+  {
+    "name": "Marcelo Maiorano",
+    "position": 12,
+    "time_as_string": "1:19:50",
+    "year": 2023,
+    "event_date": "2023-10-28T14:00:00.000Z"
+  },
+  {
+    "name": "George Geier",
+    "position": 13,
+    "time_as_string": "1:20:18",
+    "year": 2023,
+    "event_date": "2023-10-28T14:00:00.000Z"
+  },
+  {
+    "name": "Nicholas Fucile",
+    "position": 14,
+    "time_as_string": "1:24:45",
+    "year": 2023,
+    "event_date": "2023-10-28T14:00:00.000Z"
+  },
+  {
+    "name": "Cormac Griffin",
+    "position": 15,
+    "time_as_string": "1:25:13",
+    "year": 2023,
+    "event_date": "2023-10-28T14:00:00.000Z"
+  },
+  {
+    "name": "Aaron Monier",
+    "position": 16,
+    "time_as_string": "1:25:58",
+    "year": 2023,
+    "event_date": "2023-10-28T14:00:00.000Z"
+  },
+  {
+    "name": "Édouard Caron-Duval",
+    "position": 17,
+    "time_as_string": "1:26:18",
+    "year": 2023,
+    "event_date": "2023-10-28T14:00:00.000Z"
+  },
+  {
+    "name": "Cara Baskin",
+    "position": 18,
+    "time_as_string": "1:26:56",
+    "year": 2023,
+    "event_date": "2023-10-28T14:00:00.000Z"
+  },
+  {
+    "name": "Peter Galloway",
+    "position": 19,
+    "time_as_string": "1:28:52",
+    "year": 2023,
+    "event_date": "2023-10-28T14:00:00.000Z"
+  },
+  {
+    "name": "Randolph Randolph",
+    "position": 20,
+    "time_as_string": "1:29:16",
+    "year": 2023,
+    "event_date": "2023-10-28T14:00:00.000Z"
+  },
+  {
+    "name": "Benjy Getraer",
+    "position": 21,
+    "time_as_string": "1:29:57",
+    "year": 2023,
+    "event_date": "2023-10-28T14:00:00.000Z"
+  },
+  {
+    "name": "William Robichaud",
+    "position": 22,
+    "time_as_string": "1:33:44",
+    "year": 2023,
+    "event_date": "2023-10-28T14:00:00.000Z"
+  },
+  {
+    "name": "Ethan Daly",
+    "position": 23,
+    "time_as_string": "1:37:22",
+    "year": 2023,
+    "event_date": "2023-10-28T14:00:00.000Z"
+  },
+  {
+    "name": "Michel Caron",
+    "position": 24,
+    "time_as_string": "1:37:46",
+    "year": 2023,
+    "event_date": "2023-10-28T14:00:00.000Z"
+  },
+  {
+    "name": "Emile Caron Duval",
+    "position": 25,
+    "time_as_string": "1:37:46",
+    "year": 2023,
+    "event_date": "2023-10-28T14:00:00.000Z"
+  },
+  {
+    "name": "Kathy Bowie",
+    "position": 26,
+    "time_as_string": "1:39:20",
+    "year": 2023,
+    "event_date": "2023-10-28T14:00:00.000Z"
+  },
+  {
+    "name": "English Knowles",
+    "position": 27,
+    "time_as_string": "1:40:35",
+    "year": 2023,
+    "event_date": "2023-10-28T14:00:00.000Z"
+  },
+  {
+    "name": "Daniel Sullivan",
+    "position": 28,
+    "time_as_string": "1:40:42",
+    "year": 2023,
+    "event_date": "2023-10-28T14:00:00.000Z"
+  },
+  {
+    "name": "Hannah  Dorris",
+    "position": 29,
+    "time_as_string": "1:41:03",
+    "year": 2023,
+    "event_date": "2023-10-28T14:00:00.000Z"
+  },
+  {
+    "name": "Jacqueline Fucile",
+    "position": 30,
+    "time_as_string": "1:44:49",
+    "year": 2023,
+    "event_date": "2023-10-28T14:00:00.000Z"
+  },
+  {
+    "name": "Mike Laracy",
+    "position": 31,
+    "time_as_string": "1:45:14",
+    "year": 2023,
+    "event_date": "2023-10-28T14:00:00.000Z"
+  },
+  {
+    "name": "Craig Thompson",
+    "position": 32,
+    "time_as_string": "1:53:50",
+    "year": 2023,
+    "event_date": "2023-10-28T14:00:00.000Z"
+  },
+  {
+    "name": "Marie-Pier Royer",
+    "position": 33,
+    "time_as_string": "1:53:51",
+    "year": 2023,
+    "event_date": "2023-10-28T14:00:00.000Z"
+  },
+  {
+    "name": "Audrey Herrald",
+    "position": 34,
+    "time_as_string": "1:54:20",
+    "year": 2023,
+    "event_date": "2023-10-28T14:00:00.000Z"
+  },
+  {
+    "name": "Bob Schor",
+    "position": 35,
+    "time_as_string": "1:56:07",
+    "year": 2023,
+    "event_date": "2023-10-28T14:00:00.000Z"
+  },
+  {
+    "name": "Bailey Nordin",
+    "position": 36,
+    "time_as_string": "1:56:28",
+    "year": 2023,
+    "event_date": "2023-10-28T14:00:00.000Z"
+  },
+  {
+    "name": "Jonathan Gilson",
+    "position": 37,
+    "time_as_string": "2:00:05",
+    "year": 2023,
+    "event_date": "2023-10-28T14:00:00.000Z"
+  },
+  {
+    "name": "Mike Pelchat",
+    "position": 38,
+    "time_as_string": "2:01:09",
+    "year": 2023,
+    "event_date": "2023-10-28T14:00:00.000Z"
+  },
+  {
+    "name": "Allison Sullivan",
+    "position": 39,
+    "time_as_string": "2:01:50",
+    "year": 2023,
+    "event_date": "2023-10-28T14:00:00.000Z"
+  },
+  {
+    "name": "Sandy Stott",
+    "position": 40,
+    "time_as_string": "2:43:30",
+    "year": 2023,
+    "event_date": "2023-10-28T14:00:00.000Z"
+  },
+  {
+    "name": "Karen Gross",
+    "position": 41,
+    "time_as_string": "2:51:50",
+    "year": 2023,
+    "event_date": "2023-10-28T14:00:00.000Z"
+  },
+  {
+    "name": "Cloud Bogart",
+    "position": 42,
+    "time_as_string": "3:06:35",
+    "year": 2023,
+    "event_date": "2023-10-28T14:00:00.000Z"
+  },
+  {
+    "name": "Julia Lamontagne",
+    "position": 43,
+    "time_as_string": "3:06:35",
+    "year": 2023,
+    "event_date": "2023-10-28T14:00:00.000Z"
   }
 ]

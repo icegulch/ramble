@@ -11,5 +11,7 @@ results.forEach((result) => {
   }
 });
 
-module.exports = uniqueYears;
+const sortedUniqueYears = uniqueYears.sort((a, b) => b - a);
+
+module.exports = sortedUniqueYears;
 
