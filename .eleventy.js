@@ -2,8 +2,20 @@ require("dotenv").config();
 const htmlmin = require("html-minifier");
 const CleanCSS = require("clean-css");
 const isProduction = process.env.ELEVENTY_ENV === `production`;
+const { DateTime } = require("luxon");
 
 module.exports = function(eleventyConfig) {
+
+  eleventyConfig.addFilter("formatDateEastern", function (dateString) {
+    // Parse the input date string
+    const date = DateTime.fromISO(dateString, { zone: "utc" });
+
+    // Set the time zone to Eastern Time
+    const easternDate = date.setZone("America/New_York");
+
+    // Format the date as you desire (e.g., "MMMM d, yyyy h:mm a")
+    return easternDate.toLocaleString(DateTime.DATETIME_FULL);
+  });
 
   const MarkdownIt = require("markdown-it");
   const mdRender = new MarkdownIt();
