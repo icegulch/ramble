@@ -1,4 +1,4 @@
-{% set currentUrl %}{{ page.fileSlug }}{% endset %}
+{% set currentUrl %}{{ page.url }}{% endset %}
 
 <header class="site-header" role="banner">
   <div class="row">
@@ -15,10 +15,10 @@
     </div>
   </div>
   <ul class="list-unstyled pt-4 text-center text-md-left">
-    {% for page in collections.orderedPages %}
-    <li class="md-menu-item{% if currentUrl === page.fileSlug %} active{% endif %}">
-      <a href="{{ page.url }}"{% if currentUrl === page.fileSlug %} aria-current="page"{% endif %}>
-        {{ page.data.title }}
+    {% for item in site.navigation %}
+    <li class="md-menu-item{% if currentUrl === item.slug %} active{% endif %}">
+      <a href="{{ item.slug }}"{% if currentUrl === item.slug %} aria-current="page"{% endif %}>
+        {{ item.title }}
       </a>
     </li>
     {%- endfor %}

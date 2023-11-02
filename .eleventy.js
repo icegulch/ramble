@@ -2,11 +2,8 @@ require("dotenv").config();
 const htmlmin = require("html-minifier");
 const CleanCSS = require("clean-css");
 const isProduction = process.env.ELEVENTY_ENV === `production`;
-const { EleventyRenderPlugin } = require("@11ty/eleventy");
 
 module.exports = function(eleventyConfig) {
-
-  eleventyConfig.addPlugin(EleventyRenderPlugin);
 
   const MarkdownIt = require("markdown-it");
   const mdRender = new MarkdownIt();
@@ -26,13 +23,6 @@ module.exports = function(eleventyConfig) {
 
   eleventyConfig.addFilter("excludeByValue", (array, value) => {
     return array.filter(item => item !== value);
-  });
-
-  // Helper to sort pages collection by frontmatter "order"
-  eleventyConfig.addCollection("orderedPages", function (collection) {
-    return collection.getFilteredByTag("pages").sort((a, b) => {
-      return a.data.order - b.data.order;
-    });
   });
 
   eleventyConfig.addFilter("limit", function (arr, limit) {

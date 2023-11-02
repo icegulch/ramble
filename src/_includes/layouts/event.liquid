@@ -1,0 +1,49 @@
+---
+layout: "layouts/base.njk"
+---
+
+{% assign allEditions = collections.all | where: "data.eventWithResults", true | sort: "data.edition" | reverse | map: "data.edition" %}
+{% assign currentEdition = edition %}
+
+<header class="results-header">
+  <h1>
+    {{ title }}
+  </h1>
+  <dl>
+    <dt>Year:</dt>
+      {% for edition in allEditions %}
+      {% if currentEdition == edition %}
+      <dd>{{ edition }}</dd>
+      {% else %}
+      <dd><a href="/results/{{ edition }}/">{{ edition }}</a></dd>
+      {% endif %}
+      {% endfor %}
+  </dl>
+</header>
+
+<table class="results-table">
+  <caption>
+    {{ date | date: "%A, %B %d, %Y @ %l%p" }}
+  </caption>
+  <thead>
+    <th scope="col">Pos</th>
+    <th scope="col" style="width:100%">Name</th>
+    <th scope="col">Time</th>
+  </thead>
+  <tbody>
+    {% assign currentYearResults = results | sort: "position" %}
+    {% for result in currentYearResults %}
+    <tr>
+      <td>
+        {{ result.position }}
+      </td>
+      <td style="width:100%">
+        {{ result.name }}
+      </td>
+      <td>
+        {{ result.time_as_string }}
+      </td>
+    </tr>
+    {% endfor %}
+  </tbody>
+</table>
