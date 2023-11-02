@@ -16,13 +16,15 @@ permalink: /results/index.html
     </h1>
     <dl>
       <dt>Year:</dt>
+      <dd>
         {% for edition in allEditions %}
         {% if mostRecentEdition == edition %}
-          <dd>{{ edition }}</dd>
+          <span>{{ edition }}</span>
         {% else %}
-          <dd><a href="/results/{{ edition }}/">{{ edition }}</a></dd>
+          <span><a href="/results/{{ edition }}/">{{ edition }}</a></span>
         {% endif %}
-      {% endfor %}
+        {% endfor %}
+      </dd>
     </dl>
   </header>
 

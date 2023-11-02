@@ -238,14 +238,14 @@ h6 {
 }
 
 .results-header dl {
-  display: flex;
-  gap: 0.25rem;
+  display: grid;
+  grid-template-columns: auto 1fr;
+  gap: 0 5px;
 }
 
-.results-header dd + dd:before {
-  content: "•";
+.results-header span:not(:last-child):after {
+  content: ", ";
   display: inline-flex;
-  padding-right: 0.25rem;
 }
 
 table {

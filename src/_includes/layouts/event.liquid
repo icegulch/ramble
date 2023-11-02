@@ -11,13 +11,15 @@ layout: "layouts/base.njk"
   </h1>
   <dl>
     <dt>Year:</dt>
+    <dd>
       {% for edition in allEditions %}
       {% if currentEdition == edition %}
-      <dd>{{ edition }}</dd>
+      <span>{{ edition }}</span>
       {% else %}
-      <dd><a href="/results/{{ edition }}/">{{ edition }}</a></dd>
+      <span><a href="/results/{{ edition }}/">{{ edition }}</a></span>
       {% endif %}
       {% endfor %}
+    </dd>
   </dl>
 </header>
 
