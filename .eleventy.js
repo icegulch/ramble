@@ -13,8 +13,17 @@ module.exports = function(eleventyConfig) {
     // Set the time zone to Eastern Time
     const easternDate = date.setZone("America/New_York");
 
-    // Format the date as you desire (e.g., "MMMM d, yyyy h:mm a")
-    return easternDate.toLocaleString(DateTime.DATETIME_FULL);
+    const formattedDate = easternDate.toLocaleString({
+      weekday: "long",
+      month: "long",
+      day: "2-digit",
+      year: "numeric",
+      hour: "numeric",
+      minute: "2-digit",
+      timeZoneName: "short", // Use "short" to get "EDT" or "EST"
+    });
+
+    return formattedDate;
   });
 
   const MarkdownIt = require("markdown-it");
