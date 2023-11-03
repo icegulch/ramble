@@ -10,4 +10,4 @@ Registration for this year's event has closed. The [2023 results](/results/) are
 
 [![Colorful drawing of the Randolph mountains](/images/header-image-news.png)](https://www.facebook.com/randolphramblerace/)
 
-The race places an emphasis on self-sufficiency in the mountains: there are no aid stations and, due to the time of year, there is a mandatory gear list.
+The race places an emphasis on self-sufficiency in the mountains: there are no aid stations and, due to the time of year, there is a [mandatory gear list](/important-info/).
