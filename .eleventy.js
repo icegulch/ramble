@@ -14,12 +14,11 @@ module.exports = function(eleventyConfig) {
     const easternDate = date.setZone("America/New_York");
 
     const formattedDate = easternDate.toLocaleString({
-      weekday: "long",
-      month: "long",
+      weekday: "short",
+      month: "short",
       day: "2-digit",
       year: "numeric",
       hour: "numeric",
-      minute: "2-digit",
       timeZoneName: "short", // Use "short" to get "EDT" or "EST"
     });
 

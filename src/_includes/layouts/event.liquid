@@ -1,5 +1,5 @@
 ---
-layout: "layouts/base.njk"
+layout: "layouts/base.liquid"
 ---
 
 {% assign allEditions = collections.all | where: "data.eventWithResults", true | sort: "data.edition" | reverse | map: "data.edition" %}

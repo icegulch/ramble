@@ -1,20 +1,20 @@
-{% extends 'layouts/base.njk' %}
+---
+layout: "layouts/base.liquid"
+---
 
-{% block main %}
-
-  {% if hasSidebar === true %}
+  {% if hasSidebar == true %}
 
     <div class="row mt-4">
       <div class="col-sm-8">
-        {{ content | safe }}
-        {% if registration.is_open === true %}
+        {{ content }}
+        {% if registration.is_open == true %}
           {% include "partials/registration_button.njk" %}
         {% endif %}
       </div>
       <div class="col-sm-4">
-        {% if page.url === '/important-info/' %}
+        {% if page.url == '/important-info/' %}
           <img src="/images/IMG_5089.jpg" width="600" height="800" alt="Puncheon bridge in the spruce forest" class="img-fluid">
-        {% elif page.url === '/registration-schedule/' %}
+        {% elsif page.url == '/registration-schedule/' %}
           <img src="/images/IMG_5100.jpg" width="350" height="263" alt="The old logging road on which the course starts">
           <img src="/images/IMG_50941.jpg" width="350" height="263" alt="Course atop Mount Crescent" class="mt-5">
         {% endif %}
@@ -23,7 +23,7 @@
 
   {% else %}
 
-    {% if page.url === '/sponsors/' %}
+    {% if page.url == '/sponsors/' %}
 
       <h1>Sponsors</h1>
 
@@ -39,17 +39,17 @@
 
     {% endif %}
 
-    {{ content | safe }}
+    {{ content }}
 
-    {% if page.url === '/' or page.url === '/course/' %}
+    {% if page.url == '/' or page.url == '/course/' %}
 
-      {% if registration.is_open === true %}
+      {% if registration.is_open == true %}
         {% include "partials/registration_button.njk" %}
       {% endif %}
 
     {% endif %}
 
-    {% if page.url === '/' %}
+    {% if page.url == '/' %}
       <div class="row mt-4 pt-4">
         <figure class="col-lg-6">
           <img src="/images/IMG_5085.jpg" width="600" height="450" alt="Sunlit mist in the spruce forest near Randolph" class="img-fluid">
@@ -58,18 +58,14 @@
           <img src="/images/IMG_5052.jpg" width="600" height="450" alt="The Northern Presidentials from Mount Randolph lookout" class="img-fluid mb-4">
         </figure>
       </div>
-    {% elif page.url === '/course/' %}
+    {% elsif page.url == '/course/' %}
 
       <img src="{{ course_map }}" alt="Course map" class="mt-5">
 
+    {% elsif page.url == '/contact/' %}
 
-    {% elif page.url === '/contact/' %}
-
-      {% include "partials/contact-form.njk" %}
+      {% include "partials/contact-form.liquid" %}
 
     {% endif %}
 
   {% endif %}
-
-{% endblock %}
-

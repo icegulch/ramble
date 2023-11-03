@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>
+      {% if page.fileSlug == 'home' %}
+        {{ site.title }} | {{ title }}
+      {% else %}
+        {{ title }} | {{ site.title }}
+      {% endif %}
+    </title>
+    <meta name="description" content="{{ site.description }}">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <meta property="og:site_name" content="{{ site.title }}">
+    <meta property="og:url" content="{{ site.url }}{{ page.url if page.url | slugify }}">
+    <meta property="og:title" content="{{ title }} | {{ site.title }}">
+    <meta property="og:description" content="{{ site.description }}">
+    <meta property="og:image" content="{{ site.url }}{{ site.og_img }}">
+
+    {% capture css %}
+      {% include "css/styles.css" %}
+    {% endcapture %}
+    <style>
+      {{ css | cssmin }}
+    </style>
+  </head>
+  <body>
+  
+    <header class="site-header" role="banner">
+      <a href="/" class="brand">
+        <img src="/images/Randolph-Ramble-Logo.png" width="200" height="108" alt="Randolph Ramble Logo">
+      </a>
+      <nav class="main-nav">
+        {% for item in site.navigation %}
+        <a href="{{ item.slug }}" {% if page.url == item.slug %} aria-current="page" {% endif %}>
+          {{ item.title }}
+        </a>
+        {%- endfor %}
+      </nav>
+    </header>
+  
+    <main class="site-main" role="main">
+      {{ content }}
+    </main>
+
+    <footer class="site-footer" role="content-info">
+      <div>
+        &copy; 2023 Randolph Ramble | <a href="/contact/">Contact</a> | <a href="https://www.facebook.com/randolphramblerace/">Facebook</a>
+      </div>
+      <div>
+        <small>Last Updated: {{ buildTime.time.formatted }}</small>
+      </div>
+    </footer>
+    
+  </body>
+</html>

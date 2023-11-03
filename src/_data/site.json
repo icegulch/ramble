@@ -5,19 +5,15 @@
   "og_img": "/images/header-image-news.png",
   "navigation": [
     {
-      "title": "Home",
-      "slug": "/"
-    },
-    {
-      "title": "The Course",
+      "title": "Course",
       "slug": "/course/"
     },
     {
-      "title": "Important Info",
+      "title": "Race Info",
       "slug": "/important-info/"
     },
     {
-      "title": "Registration and Schedule",
+      "title": "Registration",
       "slug": "/registration-schedule/"
     },
     {
