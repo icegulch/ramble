@@ -1,7 +1,6 @@
 ---
 title: The Course
 permalink: /course/
-order: 1
 course_map: /images/course-topo-map.png
 ---
 
@@ -25,4 +24,3 @@ Here’s a brief written description of the route, for those of you who’d like
 The route is technical, with a stiff climb at the start, some nice cruising in spots, and some short, tricky descents. It’ll be fun!
 
 Race Directors’ Note: We reserve the right to adjust the start and finish by 100 yards or more, to get to 10 km on the dot!
-

@@ -1,8 +1,7 @@
 ---
 title: Sponsors
 permalink: /sponsors/
-order: 4
-sponsors: 
+sponsors:
   - name: "White Mountain Café & Bookstore"
     logo_file: "/images/whitemtncafelogoPMScolors032410-300x251.jpg"
     logo_width: 300
@@ -45,9 +44,8 @@ sponsors:
     link: "http://www.mountadamschallenge.org"
 ---
 
-_The Randolph Ramble wouldn’t have happened without our sponsors. Please support them!_ 
+_The Randolph Ramble wouldn’t have happened without our sponsors. Please support them!_
 
-We thank the [Randolph Mountain Club](http://randolphmountainclub.org) the [Randolph Community Forest](http://randolphforest.org), for the use of their trails and the land, Mark and Katie Kelley for the use of their barn, [AVSAR](https://www.facebook.com/pages/Androscoggin-Valley-Search-and-Rescue/163437667019413) for mountain medical support, and all our volunteers! 
+We thank the [Randolph Mountain Club](http://randolphmountainclub.org) the [Randolph Community Forest](http://randolphforest.org), for the use of their trails and the land, Mark and Katie Kelley for the use of their barn, [AVSAR](https://www.facebook.com/pages/Androscoggin-Valley-Search-and-Rescue/163437667019413) for mountain medical support, and all our volunteers!
 
 We could not have done this without you!
-
