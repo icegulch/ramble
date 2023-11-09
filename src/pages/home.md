@@ -11,4 +11,4 @@ The race places an emphasis on self-sufficiency in the mountains: there are no a
 
 Registration for this year's event has closed. The [2023 results](/results/) are up!
 
-[![Colorful drawing of the Randolph mountains](/images/header-image-news.png)](https://www.facebook.com/randolphramblerace/)
+[![Colorful drawing of the Randolph mountains](/images/borealchick-course-illustration.png)](https://www.facebook.com/randolphramblerace/)

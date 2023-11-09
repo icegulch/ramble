@@ -190,6 +190,7 @@ textarea {
 }
 
 .main-nav a {
+  padding-block: 0.45rem;
   text-decoration: none;
 }
 

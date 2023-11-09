@@ -25,15 +25,8 @@ module.exports = function(eleventyConfig) {
     return formattedDate;
   });
 
-  const MarkdownIt = require("markdown-it");
-  const mdRender = new MarkdownIt();
-  eleventyConfig.addFilter("markdownify", function(rawString) {
-    return mdRender.render(rawString);
-  });
-
   // Let some files pass through to public
   eleventyConfig.addPassthroughCopy("./src/robots.txt");
-  eleventyConfig.addPassthroughCopy("./src/_redirects");
   eleventyConfig.addPassthroughCopy("./src/favicon.ico");
   eleventyConfig.addPassthroughCopy("./src/images");
 
@@ -55,9 +48,11 @@ module.exports = function(eleventyConfig) {
   });
 
   // Minify HTML Output
-  eleventyConfig.addTransform("htmlmin", function(content, outputPath) {
+  eleventyConfig.addTransform("htmlmin", function (content, outputPath) {
     // Eleventy 1.0+: use this.inputPath and this.outputPath instead
     if( isProduction && outputPath && outputPath.endsWith(".html") ) {
+      // Replace "/images/" with "/optim/"
+      content = content.replace(/\/images\//g, '/optim/');
       let minified = htmlmin.minify(content, {
         useShortDoctype: true,
         removeComments: true,
