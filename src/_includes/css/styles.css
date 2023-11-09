@@ -372,7 +372,8 @@ caption span {
 }
 
 th, td {
-  padding: 0.25rem;
+  padding: 0.4rem;
+  text-align: left;
   font-family: ui-monospace, 
              Menlo, Monaco, 
              "Cascadia Mono", "Segoe UI Mono", 
