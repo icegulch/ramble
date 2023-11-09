@@ -11,4 +11,8 @@ The race places an emphasis on self-sufficiency in the mountains: there are no a
 
 Registration for this year's event has closed. The [2023 results](/results/) are up!
 
-[![Colorful drawing of the Randolph mountains](/images/borealchick-course-illustration.png)](https://www.facebook.com/randolphramblerace/)
+![Start of the 2023 race](/images/randolph-6.jpg)
+
+![Runners negotiate a snow-dusted course](/images/randolph-2.jpg)
+
+![An outlook looking onto the Kilkenny Range to the north](/images/randolph-1.jpg)

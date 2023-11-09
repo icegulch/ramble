@@ -2,3 +2,8 @@
 from = "/optim/:image"
 to = "https://res.cloudinary.com/ramble/image/fetch/q_auto,f_auto,c_limit,w_1000,h_800/https://randolphramble.com/images/:image"
 status = 200
+
+[[redirects]]
+from = "/lodging/"
+to = "/"
+status = 301

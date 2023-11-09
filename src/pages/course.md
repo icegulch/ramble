@@ -7,6 +7,8 @@ permalink: /course/
 
 The Randolph Ramble takes place entirely on the 10,000 acre, sustainably managed [Randolph Community Forest](http://Randolphforest.org). The start and finish is at the new Community Forest trailhead, at the end of Randolph Hill Road, on the Randolph Community Forest.
 
+[![Course map](/images/course-topo-map.png)](/images/course-topo-map.png)
+
 The course has it all: a steep climb up Mount Crescent, views of the Northern Presidentials, a cruise through the boreal forest, a technical downhill, and a finish on Community Forest woods roads. The total vertical climb is 2025 feet.
 
 Here’s a brief written description of the route, for those of you who’d like to get out and scope it out, prior to the race!
@@ -24,4 +26,4 @@ The route is technical, with a stiff climb at the start, some nice cruising in s
 
 Race Directors’ Note: We reserve the right to adjust the start and finish by 100 yards or more, to get to 10 km on the dot!
 
-[![Course map](/images/course-topo-map.png)](/images/course-topo-map.png)
+![Runners emerge from the woods to a snowy opening with fog-shrouded peaks in the background](/images/randolph-8.jpg)

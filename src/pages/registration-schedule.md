@@ -20,3 +20,5 @@ There will be the following categories:
 The “Limmer Division” is untimed, for those who want to support the event, but don’t care to race. Limmer Division participants will start at 9:30am with the race at 10am.
 
 Watch our [Facebook page](https://www.facebook.com/randolphramblerace/) for registration and weekend schedule details, as they develop.
+
+![Registration tent](/images/randolph-7.jpg)
