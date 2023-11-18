@@ -52,7 +52,7 @@ module.exports = function(eleventyConfig) {
     // Eleventy 1.0+: use this.inputPath and this.outputPath instead
     if( isProduction && outputPath && outputPath.endsWith(".html") ) {
       // Replace "/images/" with "/optim/"
-      content = content.replace(/\/images\//g, '/optim/');
+      content = content.replace(/\/images\//g, '/optim/foo/');
       let minified = htmlmin.minify(content, {
         useShortDoctype: true,
         removeComments: true,

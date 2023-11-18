@@ -1,6 +1,6 @@
 [[redirects]]
-from = "/optim/:image"
-to = "https://res.cloudinary.com/ramble/image/fetch/q_auto,f_auto,c_limit,w_1000/https://randolphramble.com/images/:image"
+from = "/optim/:transform/*"
+to = "https://res.cloudinary.com/ramble/image/fetch/q_auto,f_auto/t_:transform/https://randolphramble.com/images/:splat"
 status = 200
 
 [[redirects]]
