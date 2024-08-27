@@ -259,6 +259,10 @@ textarea {
 
 /* BUTTONS / FORMS */
 
+.mt-4 {
+  margin-top: 1.5rem;
+}
+
 .btn:not(:disabled):not(.disabled) {
   cursor: pointer;
 }
@@ -299,6 +303,7 @@ textarea {
 .btn-register {
   background-color: var(--clr-orange);
   color: #fff;
+  text-decoration: none;
 }
 
 .btn-register:focus,

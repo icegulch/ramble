@@ -20,14 +20,6 @@ layout: "layouts/base.liquid"
 
 {{ content }}
 
-{% if page.url == '/' or page.url == '/course/' %}
-
-  {% if registration.is_open == true %}
-    {% include "partials/registration_button.njk" %}
-  {% endif %}
-
-{% endif %}
-
 {% if page.url == '/contact/' %}
 
   {% include "partials/contact-form.liquid" %}

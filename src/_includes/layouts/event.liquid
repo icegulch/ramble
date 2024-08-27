@@ -3,7 +3,7 @@ layout: "layouts/base.liquid"
 ---
 
 {% assign allEditions = collections.all | where: "data.eventWithResults", true | sort: "data.edition" | reverse | map: "data.edition" %}
-{% assign currentEdition = edition %}
+{% assign latestEditionWithResults = edition %}
 
 <header class="results-header">
   <h1>
@@ -13,7 +13,7 @@ layout: "layouts/base.liquid"
     <dt>Year:</dt>
     <dd>
       {% for edition in allEditions %}
-      {% if currentEdition == edition %}
+      {% if latestEditionWithResults == edition %}
       <span>{{ edition }}</span>
       {% else %}
       <span><a href="/results/{{ edition }}/">{{ edition }}</a></span>

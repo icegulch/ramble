@@ -24,6 +24,12 @@ Here’s a brief written description of the route, for those of you who’d like
 
 The route is technical, with a stiff climb at the start, some nice cruising in spots, and some short, tricky descents. It’ll be fun!
 
+<div class="mt-4">
+  <a href="https://ultrasignup.com/register.aspx?eid=10691" class="btn btn-register" target="_blank">
+    <span class="mr-2">Register now!</span>
+  </a>
+</div>
+
 Race Directors’ Note: We reserve the right to adjust the start and finish by 100 yards or more, to get to 10 km on the dot!
 
 ![Runners emerge from the woods to a snowy opening with fog-shrouded peaks in the background](/images/randolph-8.jpg)
