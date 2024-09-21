@@ -32,6 +32,6 @@ The route is technical, with a stiff climb at the start, some nice cruising in s
   </a>
 </div>
 
-Race Directors’ Note: We reserve the right to adjust the start and finish by 100 yards or more, to get to 10 km on the dot!
+**Race Directors’ Note**: We reserve the right to adjust the start and finish by 100 yards or more, to get to 10 km on the dot!
 
 ![Runners emerge from the woods to a snowy opening with fog-shrouded peaks in the background](/images/randolph-8.jpg)
