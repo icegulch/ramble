@@ -16,4 +16,4 @@ hasSidebar: true
   </a>
 </div>
 
-![A Rambler finishing in steady, cold rain](/images/randolph-5.jpg)
+![A Rambler finishing with glee on a brisk, late October day](/images/randolph-9.jpg)
