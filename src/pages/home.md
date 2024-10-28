@@ -9,13 +9,7 @@ The Randolph Ramble is a 10 kilometer-long, rugged, self-supported trail race th
 
 The race places an emphasis on self-sufficiency in the mountains: there are no aid stations and, due to the time of year, there is a [mandatory gear list](/important-info/).
 
-This year's event will take place on Saturday, October 26 at 10am. Registration is [open](https://ultrasignup.com/register.aspx?eid=10691)!
-
-<div class="mt-4">
-  <a href="https://ultrasignup.com/register.aspx?eid=10691" class="btn btn-register" target="_blank">
-    <span class="mr-2">Register now!</span>
-  </a>
-</div>
+This year's event took place on Saturday, October 26 at 10am. Results will be posted soon!
 
 ![Start of the 2023 race](/images/randolph-6.jpg)
 

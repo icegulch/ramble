@@ -10,12 +10,6 @@ The registration fee is just $45. The fee includes morning treats from the [Whit
 
 Proceeds will be donated to the [Randolph Mountain Club](http://www.randolphmountainclub.org).
 
-<div class="mt-4">
-  <a href="https://ultrasignup.com/register.aspx?eid=10691" class="btn btn-register" target="_blank">
-    <span class="mr-2">Register now!</span>
-  </a>
-</div>
-
 There will be the following categories:
 
 - **Men Open**
