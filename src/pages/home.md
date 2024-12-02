@@ -9,7 +9,7 @@ The Randolph Ramble is a 10 kilometer-long, rugged, self-supported trail race th
 
 The race places an emphasis on self-sufficiency in the mountains: there are no aid stations and, due to the time of year, there is a [mandatory gear list](/important-info/).
 
-This year's event took place on Saturday, October 26 at 10am. Results are [posted](/results/)!
+This year's event took place on Saturday, October 26. Results are [posted](/results/)!
 
 Mark your calendars!! The 2025 installment will take place on Saturday, October 25.
 
