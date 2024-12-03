@@ -11,7 +11,7 @@ The race places an emphasis on self-sufficiency in the mountains: there are no a
 
 This year's event took place on Saturday, October 26. Results are [posted](/results/)!
 
-Mark your calendars!! The 2025 installment will take place on Saturday, October 25.
+Mark your calendars!! The 2025 installment will take place on Saturday, October 25 at 10am.
 
 ![Start of the 2023 race](/images/randolph-6.jpg)
 
