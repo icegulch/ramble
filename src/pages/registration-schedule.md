@@ -6,6 +6,8 @@ hasSidebar: true
 
 # Registration and Schedule
 
+You can now [register for the 2025 event](https://www.runreg.com/randolph-ramble-and-trail-running-film-festival)!
+
 The registration fee is just $45. The fee includes morning treats from the [White Mountain Café](http://whitemountaincafe.com/) and post race food from [SAALT](https://www.libbysbistro.org/).
 
 Proceeds will be donated to the [Randolph Mountain Club](http://www.randolphmountainclub.org).
